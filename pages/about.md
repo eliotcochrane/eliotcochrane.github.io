@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
 ---
 
@@ -10,4 +10,4 @@ Preferring the locally owned hills, I always try to venture off the beaten path.
 
 <center><h2>"Do the unusual, become the exceptional."</h2></center>
 
-<p style="text-align: center;"> Please feel free to browse my thoughts or send an e-mail.</p>
+<center> Please feel free to browse my thoughts or send an e-mail.</center>
