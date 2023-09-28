@@ -4,4 +4,10 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My name is Eliot Cochrane. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and inspire the next generation to continue.
+
+Preferring the locally owned hills, I always try to venture off the beaten path. It has lead me to meet incredible people, make connections throughout the Tohoku region of Japan, and continue a life-long love of learning. Putting myself in these situations lead me to the motto of Stray Lines:
+
+> "Do the unusual, become the exceptional."
+
+Please feel free to browse my thoughts or send an e-mail.
