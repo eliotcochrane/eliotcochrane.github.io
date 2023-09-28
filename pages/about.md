@@ -11,4 +11,4 @@ Preferring the locally owned hills, I always try to venture off the beaten path.
 
 <center><h2>"Do the unusual, become the exceptional."</h2></center>
 
-<center> Please feel free to browse my thoughts or send an e-mail.</center>
+<center>Please feel free to browse my thoughts or send an e-mail.</center>
