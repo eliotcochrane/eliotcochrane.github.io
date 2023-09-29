@@ -28,6 +28,8 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 **Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
 
+![Road at night after rain](/assets/img/nightrun-1.png)
+
 #### Stay Motivated
 
 **Set Goals:** Define what you want to accomplish in your ski season. Whether it's improved technique, a steep slope, or mountain that you want to ski, setting a clear objective is a surefire way to keep you motivated.
@@ -36,19 +38,10 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 **Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
-![Road at night after rain](/assets/img/nightrun-1.png)
-
-#### Overall Health
+***
 
 Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronic diseases, and enhanced mental clarity.
 
 As you prepare for the ski season, remember that staying active year-round not only benefits your performance on the hill but also your quality of life.
 
 In conclusion, preparing your body just fo skiing offer layers upon layers of benefits. From improving technique and endurance to reducing injuries. Because we all know that as soon as the snow begins to fall, your physical fitness will pay dividends on the mountain.
-
-Stay motivated.
-Stay hungry.
-
-**"Do the unusual, become the exceptional."**
-
-***
