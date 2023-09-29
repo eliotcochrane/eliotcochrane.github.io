@@ -4,7 +4,9 @@ title: Equipment
 permalink: /equipment
 ---
 
-# My Equipment
+## <center>My Equipment</center>
+
+***
 
 ## SKIS
 ####  HEAD e.SL FIS RD 165cm
