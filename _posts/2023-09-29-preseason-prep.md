@@ -3,12 +3,14 @@ layout: post
 title: "Preseason Fitness"
 author: "Eliot Cochrane"
 categories: off-season
-tags: [ski,preseason,fitness,running,]
+tags: [ski,preseason,fitness,running,motivation,exercise]
 image: shinmachi-1.png
 ---
 
 ## <center>Preseason Fitness</center>
 ### <center>The Key to a Rewarding Season</center>
+
+***
 
 As winter approaches, every skier anxiously awaits the first dusting and hopes for the endless powder days. However, before you hit the slopes, it's crucial to prepare your body for the physical demands of skiing. Just like saving money, a little bit of targetted exercise each day can unlock better technique, enable you to chase the powder longer each day, reduce the risk of injuries, and keeping you healthier to continue skiing well into the future.
 
