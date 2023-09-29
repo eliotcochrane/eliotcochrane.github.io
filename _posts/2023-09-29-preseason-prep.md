@@ -16,7 +16,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 *Note: Exercises alone will not make you a better skier. Better fitness will give you a higher potential.*
 
-![Road leading up to ski area in fall](/assets/img/shinmachi-1.png)
+![Road leading up to ski area in fall](/assets/img/sakata-1.png)
 
 #### Technique Boost
 
