@@ -40,11 +40,9 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 #### Overall Health
 
-Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronid diseases, and enhanced metnal clarity.
+Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronic diseases, and enhanced mental clarity.
 
 As you prepare for the ski season, remember that staying active year-round not only benefits your performance on the hill but also your quality of life.
-
-***
 
 In conclusion, preparing your body just fo skiing offer layers upon layers of benefits. From improving technique and endurance to reducing injuries. Because we all know that as soon as the snow begins to fall, your physical fitness will pay dividends on the mountain.
 
@@ -52,3 +50,5 @@ Stay motivated.
 Stay hungry.
 
 **Stray from the norm.**
+
+***
