@@ -18,8 +18,6 @@ It was a blissful time as I progressed and could visibly see the times drop and 
 
 From then on, I was back in the world of alpine skiing.
 
-My childhood ski hills have really helped mold my preferences on where I like to ski. Preferring the locally owned hills, I always try to venture off the beaten path. It has lead me to meet incredible people, make connections throughout the Tohoku region of Japan, and continue a life-long love of learning. Putting myself in these situations lead me to the motto of Stray Lines:
+My childhood ski hills have really helped mold my preferences on where I like to ski. Preferring the locally owned hills, I always try to venture off the beaten path. It has lead me to meet incredible people, make connections throughout the Tohoku region of Japan, and continue a life-long love of learning. 
 
-#### <center>"Do the unusual, become the exceptional."</center>
-
-<center>Please feel free to browse my thoughts or send an e-mail.</center>
+Please feel free to browse my thoughts or send an e-mail.
