@@ -4,7 +4,7 @@ title: "Preseason Fitness"
 author: "Eliot Cochrane"
 categories: off-season
 tags: [ski,preseason,fitness,running,motivation,exercise]
-image: shinmachi-1.png
+image: running-shoes-1.png
 ---
 
 ## <center>Preseason Fitness</center>
@@ -38,7 +38,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 **Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
-***
+![Computer screen showing running data](/assets/img/running-data-1.png)
 
 Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronic diseases, and enhanced mental clarity.
 
