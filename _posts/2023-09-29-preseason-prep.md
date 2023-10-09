@@ -18,7 +18,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 ![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.png)
 
-#### Technique Boost
+#### <u>Technique Boost</u>
 
 **Strength and Stability:** Skiing demands a lot of power from the core, legs, and lower back muscles. Performing squats, lunges, planks, and leg raises can enhance stability, balance, and endurance. A full day on the slope requires all of these attributes.
 
@@ -30,7 +30,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 ![Road at night after rain](/assets/img/nightrun-1.png)
 
-#### Stay Motivated
+#### <u>Stay Motivated</u>
 
 **Set Goals:** Define what you want to accomplish in your ski season. Whether it's improved technique, a steep slope, or mountain that you want to ski, setting a clear objective is a surefire way to keep you motivated.
 
@@ -39,6 +39,8 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 **Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
 ![Computer screen showing running data](/assets/img/running-data-1.png)
+
+#### <u>Final Thoughts</u>
 
 Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronic diseases, and enhanced mental clarity.
 
