@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preseason Fitness"
+title: "PRESEASON | Fitness"
 author: "Eliot Cochrane"
 categories: off-season
 tags: [ski,preseason,fitness,running,motivation,exercise]
@@ -16,7 +16,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 *Note: Exercises alone will not make you a better skier. Better fitness will give you a higher potential.*
 
-![Road leading up to ski area in fall](/assets/img/sakata-1.png)
+![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.png)
 
 #### Technique Boost
 
