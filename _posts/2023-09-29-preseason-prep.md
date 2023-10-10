@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "PRESEASON | Fitness"
+title: "PRESEASON: Fitness"
 author: "Eliot Cochrane"
 categories: off-season
-tags: [ski,preseason,fitness,running,motivation,exercise]
+tags: [ski,preseason,fitness,running,motivation,exercise,off-season]
 image: running-shoes-1.png
 ---
 
@@ -18,29 +18,29 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 ![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.png)
 
-#### <u>Technique Boost</u>
+#### Technique Boost
 
-**Strength and Stability:** Skiing demands a lot of power from the core, legs, and lower back muscles. Performing squats, lunges, planks, and leg raises can enhance stability, balance, and endurance. A full day on the slope requires all of these attributes.
+-**Strength and Stability:** Skiing demands a lot of power from the core, legs, and lower back muscles. Performing squats, lunges, planks, and leg raises can enhance stability, balance, and endurance. A full day on the slope requires all of these attributes.
 
-**Flexibility:** Flexibility is important in any sport and skiing is no exception. Regular stretching before and after a workout are necessary. Even stretching routines based on yoga or other dynamic stretching can improve range of motion and reduce joint pain over time. These can lead to higher edge angles and more fun on snow.
+-**Flexibility:** Flexibility is important in any sport and skiing is no exception. Regular stretching before and after a workout are necessary. Even stretching routines based on yoga or other dynamic stretching can improve range of motion and reduce joint pain over time. These can lead to higher edge angles and more fun on snow.
 
-**Endurance:** All of the greatest flexibility and strength are nothing without endurance. Cardiovascular activities like jogging, running, and cycling are great. Even basic activities like walking can be beneficial. For motivation, hiking can be satisfying as the season gets closer.
+-**Endurance:** All of the greatest flexibility and strength are nothing without endurance. Cardiovascular activities like jogging, running, and cycling are great. Even basic activities like walking can be beneficial. For motivation, hiking can be satisfying as the season gets closer.
 
-**Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
+-**Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
 
 ![Road at night after rain](/assets/img/nightrun-1.png)
 
-#### <u>Stay Motivated</u>
+#### Stay Motivated
 
-**Set Goals:** Define what you want to accomplish in your ski season. Whether it's improved technique, a steep slope, or mountain that you want to ski, setting a clear objective is a surefire way to keep you motivated.
+-**Set Goals:** Define what you want to accomplish in your ski season. Whether it's improved technique, a steep slope, or mountain that you want to ski, setting a clear objective is a surefire way to keep you motivated.
 
-**Variety:** Doing the same workouts on the same schedule can get boring. Varying up your exercise can not only be mentally stimulating, but also a good way to target various muscle groups. Cross training or playing a variety of sports is a great way to stay motivated and have fun.
+-**Variety:** Doing the same workouts on the same schedule can get boring. Varying up your exercise can not only be mentally stimulating, but also a good way to target various muscle groups. Cross training or playing a variety of sports is a great way to stay motivated and have fun.
 
-**Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
+-**Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
 ![Computer screen showing running data](/assets/img/running-data-1.png)
 
-#### <u>Final Thoughts</u>
+#### Final Thoughts
 
 Skiing is great and it is a wonderful way to experience nature, challenge yourself, and make new friends. But the biggest benefit of all is improving general health and well-being. Health benefits from exercising include a boost to your immune system, reduced risk to chronic diseases, and enhanced mental clarity.
 
