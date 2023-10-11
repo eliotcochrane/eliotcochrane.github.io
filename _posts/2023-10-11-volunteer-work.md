@@ -12,16 +12,6 @@ image: akihachi-lift-2.png
 
 ***
 
-> Early snow  
-> so much brighter  
-> are the red leaves  
->  
-> Last red leaves  
-> bleeding  
-> on early snow  
->  
-> -Ed Schwellenbach
-
 ![Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.jpeg)
 
 The leaves are changing color and the nights are getting colder. The covers are starting to come out as the AC's are no longer needed and the covers for the brushes around the house are brought out to be checked and mended before placed out for the season. It's fall and that means we are all getting ready for the winter season to begin.
