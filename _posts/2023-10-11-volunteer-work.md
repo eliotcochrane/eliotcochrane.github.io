@@ -3,7 +3,7 @@ layout: post
 title: "PRESEASON: Volunteer Work"
 author: "Eliot Cochrane"
 categories: off-season,volunteer,,
-tags: [ski,preseason,preparation,volunteer,local,Volunteer Work,Setting Up for Winter,Ski Area Preparation,Trail Maintenance,Lift Inspection,Volunteer Contributions,Community Spirit,Winter Skiing,Japanese Skiing,Ski Safety,Ski Area Maintenance,Skiing Volunteers,Winter Preparations]
+tags: [ski,preseason,preparation,volunteer,local,volunteer Work,setting up for winter,ski area preparation,trail maintenance,lift inspection,volunteer contributions,community spirit,winter skiing,japanese skiing,ski safety,ski area maintenance,skiing volunteers,winter preparations]
 image: akihachi-lift-2.png
 ---
 
