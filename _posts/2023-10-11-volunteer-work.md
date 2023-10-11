@@ -12,13 +12,15 @@ image: akihachi-lift-2.png
 
 ***
 
-> Amidst autumn's farewell, a fiery display,
-> Skiers await winter's chill with hearts at bay.
-> Leaves of gold and red, a final adieu,
-> Soon to be replaced by skies so blue.
+> Early snow
+> so much brighter
+> are the red leaves
 > 
-> With the first snowflake, our spirits ignite,
-> As we race down slopes, in pure delight.
+> last red leaves
+> bleeding
+> on early snow
+> 
+> -Ed Schwellenbach
 
 [!Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.jpeg)
 
