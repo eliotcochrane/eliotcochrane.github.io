@@ -12,11 +12,11 @@ image: akihachi-lift-2.png
 
 ***
 
-![Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.jpeg)
-
 The leaves are changing color and the nights are getting colder. The covers are starting to come out as the AC's are no longer needed and the covers for the brushes around the house are brought out to be checked and mended before placed out for the season. It's fall and that means we are all getting ready for the winter season to begin.
 
 Preparing a small ski area for the season in Japan is a labor of love that involves careful planning and attention to detail. Beyond the snowfall and picturesque landscapes, there are essential steps and considerations, including recruiting volunteers, inspecting lifts, and ensuring proper insurance coverage, that can often be overlooked. Let's look into the crucial aspects that allow you to ski every season.
+
+![Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.png)
 
 ### Trail Maintenance
 
