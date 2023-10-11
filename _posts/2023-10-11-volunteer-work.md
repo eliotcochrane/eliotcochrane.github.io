@@ -12,14 +12,14 @@ image: akihachi-lift-2.png
 
 ***
 
-> Early snow
-> so much brighter
-> are the red leaves
-> 
-> last red leaves
-> bleeding
-> on early snow
-> 
+> Early snow  
+> so much brighter  
+> are the red leaves  
+>  
+> Last red leaves  
+> bleeding  
+> on early snow  
+>  
 > -Ed Schwellenbach
 
 ![Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.jpeg)
