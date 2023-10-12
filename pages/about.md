@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-![Photo from ski lift during heavy snow](/assets/img/aboutme/lift-banner.png)
+![Photo from ski lift during heavy snow](/assets/img/aboutme/lift-banner.jpeg)
 
 My name is Eliot Cochrane. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and inspire the next generation to continue.
 
@@ -12,7 +12,7 @@ First coming to Japan, skiing was not a thought I was remotely interested in. I 
 
 After getting a pair of women's SL skis from Ogasaka and having my old pair of Salomon boots shipped to Japan, I was ready to ski when the snow came. My first season was a loud wake-up call as I had been a relatively good skier in my hometown area in America. But little did I know that my little ski hill was a training hill for the regional athletes. With only one trail, one slow single pair lift, and ski gates lining the sides of the slope ready to be set, I made by first venture back into racing.
 
-![Ogasaka Triun skis from 2013](/assets/img/aboutme/ogasaka-ski-banner.png)
+![Ogasaka Triun skis from 2013](/assets/img/aboutme/ogasaka-ski-banner.jpeg)
 
 It was a blissful time as I progressed and could visibly see the times drop and my technique improving in pictures and video. Soon I was invited to the prefectural race tournament. Unfortunately I didn't have a national body membership so I couldn't race but I was able to support my new teammates. Still awe-struck with visiting a new Japanese ski resort, I schlepped bags full of outerwear and ski tuning boxes to the bottom. Snowplowing by each gate with their ever present gatekeepers doing double takes to see a foreigner on the race hill.
 
