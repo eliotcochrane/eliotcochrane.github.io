@@ -17,7 +17,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 *Note: Exercises alone will not make you a better skier. Better fitness will give you a higher potential.*
 
 ![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.jpeg)
-*Photo: Artificial ski slope used in summer called PISLAB.
+*Photo: Artificial ski slope used in summer called PISLAB.*
 
 #### Technique Boost
 
