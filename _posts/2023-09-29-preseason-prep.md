@@ -4,7 +4,7 @@ title: "PRESEASON: Fitness"
 author: "Eliot Cochrane"
 categories: off-season
 tags: [Ski,Preseason,Fitness,Running,Motivation,Exercise,Off-season,Preseason Fitness,Skiing Preparation,Winter Sports,Skiing Technique,Strength Training,Flexibility Exercises,Endurance Training,Recovery Methods,Stay Motivated,Setting Goals,Variety in Exercise,Visualization,Health Benefits,Skiing Performance,Snow Sports,Winter Fitness]
-image: running-shoes-1.png
+image: running-shoes-1.jpeg
 ---
 
 ## <center>Preseason Fitness</center>
@@ -16,7 +16,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 *Note: Exercises alone will not make you a better skier. Better fitness will give you a higher potential.*
 
-![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.png)
+![Artificial ski slope used in summer called PISLAB](/assets/img/sakata-1.jpeg)
 
 #### Technique Boost
 
@@ -28,7 +28,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 -**Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
 
-![Road at night after rain](/assets/img/nightrun-1.png)
+![Road at night after rain](/assets/img/nightrun-1.jpeg)
 
 #### Stay Motivated
 
@@ -38,7 +38,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 -**Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
-![Computer screen showing running data](/assets/img/running-data-1.png)
+![Computer screen showing running data](/assets/img/running-data-1.jpeg)
 
 #### Final Thoughts
 

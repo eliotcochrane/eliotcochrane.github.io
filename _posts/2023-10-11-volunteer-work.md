@@ -4,7 +4,7 @@ title: "PRESEASON: Volunteer Work"
 author: "Eliot Cochrane"
 categories: off-season,volunteer,,
 tags: [ski,preseason,preparation,volunteer,local,volunteer Work,setting up for winter,ski area preparation,trail maintenance,lift inspection,volunteer contributions,community spirit,winter skiing,japanese skiing,ski safety,ski area maintenance,skiing volunteers,winter preparations]
-image: akihachi-lift-2.png
+image: akihachi-lift-2.jpeg
 ---
 
 ## <center>Volunteer Work</center>
@@ -24,7 +24,7 @@ A well-maintained trail is the lifeblood of a ski area. A well cut trail can be 
 
 Focused on removing obstacles, repairing permanent fixtures / fencing, and marking potential hazards, the work of done in the preseason gives large payoffs throughout the season. Japan's unique weather conditions like heavy snowfall, sea effect snow, snow monsters, and low temperatures lead to varied conditions skiers will encounter.
 
-![View looking up a chairlift in the fall](/assets/img/akihachi-lift-1.png)
+![View looking up a chairlift in the fall](/assets/img/akihachi-lift-1.jpeg)
 
 ### Lift Inspection
 
