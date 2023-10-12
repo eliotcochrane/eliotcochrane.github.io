@@ -29,6 +29,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 -**Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
 
 ![Road at night after rain](/assets/img/nightrun-1.jpeg)
+> Photo: Lightpost shining on road at night after rain.
 
 #### Stay Motivated
 
@@ -38,7 +39,8 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 -**Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
-![Computer screen showing running data](/assets/img/running-data-1.jpeg)
+> ![Computer screen showing running data](/assets/img/running-data-1.jpeg)
+> Photo: Computer screen showing various running data from GARMIN Connect.
 
 #### Final Thoughts
 
