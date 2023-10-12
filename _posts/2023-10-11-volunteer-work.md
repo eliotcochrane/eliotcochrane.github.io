@@ -16,7 +16,8 @@ The leaves are changing color and the nights are getting colder. The covers are 
 
 Preparing a small ski area for the season in Japan is a labor of love that involves careful planning and attention to detail. Beyond the snowfall and picturesque landscapes, there are essential steps and considerations, including recruiting volunteers, inspecting lifts, and ensuring proper insurance coverage, that can often be overlooked. Let's look into the crucial aspects that allow you to ski every season.
 
-![Wide view from mid way up ski hill](/assets/img/yuda-cutting-2.jpeg)
+![Wideshot view during trail maintenance](/assets/img/yuda-cutting-2.jpeg)
+*Photo: Wideshot view during trail maintenance.*
 
 ### Trail Maintenance
 
@@ -25,6 +26,7 @@ A well-maintained trail is the lifeblood of a ski area. A well cut trail can be 
 Focused on removing obstacles, repairing permanent fixtures / fencing, and marking potential hazards, the work of done in the preseason gives large payoffs throughout the season. Japan's unique weather conditions like heavy snowfall, sea effect snow, snow monsters, and low temperatures lead to varied conditions skiers will encounter.
 
 ![View looking up a chairlift in the fall](/assets/img/akihachi-lift-1.jpeg)
+*Photo: Looking up a chairlift in the fall.*
 
 ### Lift Inspection
 
@@ -33,6 +35,7 @@ Lift safety is a top priority for any ski area regardless of size. Meeting the s
 Japan is well regarded for their safety in other industries and the skiing industry is no different. Skiing is a cherished pastime as maintaining safety on the hill is the best course of action to continue to grow the sport. Maintaining the highest safety standards is not just good practice, it builds trust and reputation to keep skiers coming back year after year.
 
 ![Volunteers clearing grass at base of ski area](/assets/img/yuda-cutting-1.jpeg)
+*Photo: Local volunteers clearing grass at base of ski area.*
 
 ### Volunteers
 
@@ -40,6 +43,7 @@ Like many small local skiing destinations all over the world, one of the unique 
 
 Their efforts not only reduce operational costs but also create a strong bond within the community. Japanese culture is reliant on communities and the ski community is one of the most welcoming in Japan. No matter the level, no matter the intensity, if you love skiing you will always be welcome.
 
-![Result of ski area cutting by hand](/assets/img/yuda-cutting-3.jpg)
+![Result of ski area cut by hand](/assets/img/yuda-cutting-3.jpg)
+*Photo: Result of ski area cut by hand.*
 
 Preparing a ski area for opening in winter isn't an easy task. Many ski clubs are small but enthusiastic and prepare for the slope for everyone in the community to enjoy. Inspecting facilities, maintaining lifts, and cutting trails are done so visitors can enjoy the sport we all love. Hopefully these will leave a lasting impression for the next generation of skiers to take up the sport with as much passion.
