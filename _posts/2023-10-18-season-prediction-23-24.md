@@ -18,16 +18,16 @@ Often relying on natural snow cover to prepare the trails, El Niño patterns can
 
 ### Temperature
 
-The JMA has predicted an El Niño pattern for the winter of 2023/24 and with it will bring higher temperatures. ALready felt during the summer, the high temperatures gave a scorched earth feeling with temperatures averaging 1.76°C higher than normal. Forecasts from JMA expect a 90% likelihood that these above normal temperatures will continue into the winter season.
+The JMA has predicted an El Niño pattern for the winter of 2023/24 and with it will bring higher temperatures. Already felt during the summer, the high temperatures gave a scorched earth feeling with temperatures averaging 1.76°C higher than normal. Forecasts from JMA expect a 90% likelihood that these above normal temperatures will continue into the winter season.
 
 ![Screenshot taken from Japan Meteorological Agency showing temperature forecast.](/assets/img/seasonal-temp-23-24.jpeg)
 *Photo: Forecast from Japan Meteorological Agency (JMA) showing temperature forecast for 2023/24 season.*
 
-While the temperature changes may be less prevelant at higher altitudes, affects will be felt the whole way down. Highe temperatures don't only reduce snowfall but may increase rainfall. Leading to highly saturated snow that during cold snaps will turn into ice. Many lower altitude ski areas may feel reminiscent of east coast skiing in America.
+While the temperature changes may be less prevelant at higher altitudes, affects will be felt the whole way down. Higher temperatures don't only reduce snowfall but may increase rainfall. Leading to highly saturated snow that during cold snaps will turn into ice. Many lower altitude ski areas may feel reminiscent of east coast skiing in America.
 
 ### Snowfall
 
-El Niño usually leads to reduced snowfall throughout the season but may also be accompanied by rain. The Hokkaido area and the higher elevations within the Tohoku area, which are typically dry and light powdery snow, are expected to be less affected by the climate pattern. These areas are boasting a 40% chance of below-average snowfall but still boasting a 30% chance for above_average snowfall.
+El Niño usually leads to reduced snowfall throughout the season but may also be accompanied by rain. The Hokkaido area and the higher elevations within the Tohoku area, which are typically dry and light powdery snow, are expected to be less affected by the climate pattern. These areas are boasting a 40% chance of below-average snowfall but still boasting a 30% chance for above-average snowfall.
 
 ![Screenshot taken from Japan Meteorological Agency showing snowfall forecast.](/assets/img/seasonal-snowfall-23-24.jpeg)
 *Photo: Forecast from Japan Meteorological Agency (JMA) showing snowfall forecast for 2023/24 season.*
