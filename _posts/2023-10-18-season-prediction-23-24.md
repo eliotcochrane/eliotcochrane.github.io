@@ -3,7 +3,7 @@ layout: post
 title: "JMA Forecast: Winter 23/24"
 author: "Eliot Cochrane"
 categories: off-season
-tags: [Ski,Preseason,tag3]
+tags: [Ski,Preseason,Forecast]
 image: jma-top-banner.jpeg
 ---
 
