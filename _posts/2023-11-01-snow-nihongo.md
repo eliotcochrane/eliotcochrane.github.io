@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Nihongo On The Slopes"
+title: "Snow Nihongo"
 author: "Eliot Cochrane"
-categories: cultural
-tags: [tag1,tag2]
-image: picture.jpeg
+categories: Japanese, Ski
+tags: [SkiingInJapan,JapaneseSkiResorts,JapaneseCulture,GettingAroundJapan,SkiEquipment,SnowConditions,TravelTips,NihongoOnTheSnow,SkiingEtiquette]
+image: genki-textbook-text.jpeg
 ---
 
-## <center>Nihongo On The Snow</center>
+## <center>Snow Nihongo</center>
 ### <center>Simple Japanese For The Slopes</center>
 
 ***
@@ -19,6 +19,9 @@ With Japanese resorts like Niseko, Hakuba, and Naeba taking the crown of "Most R
 **Don't be intimidated!**
 
 You can still enjoy Japan just as much as anyone else with their limited English and gestures! But a little bit of Japanese can go a long way. In this post, we will take a dip into the world of Japanese culture and the Japanese language on the ski hill. There are better guides for more travel centric phrases so we will focus on the on-mountain experience.
+
+![Inagawa Ski Area at night in Yuzawa, Akita.](/assets/img/inagawa-night.jpeg)
+*Photo: Night skiing at [Inagawa Ski Area](https://www.city-yuzawa.jp/site/yuzawatrip/493.html) in Yuzawa, Akita.*
 
 ### Greetings
 
@@ -64,6 +67,9 @@ Most of the time there will be a readily accessible map or Google Translate is j
 | Ski Patrol | patorōru | パトロール |
 | Ticket | chiketto | チケット |
 | Food court | fůdo kōto | フードコート |
+
+![Early morning at Appi Ski Resort in Hachimantai, Iwate.](/assets/img/appi-base-early-morning.jpeg)
+*Photo: Early morning light at [Appi Ski Resort](https://www.appi-japan.com) in Hachimantai, Iwate.*
 
 ### Conditions
 
@@ -115,6 +121,9 @@ This is where we will take a look into ski equipment and also some of the fittin
 | That's cool! | kakkoī | カッコいい |
 | Great jump! | Yoi jyanpu | 良いジャンプ |
 | That's steep! | kyū desu | 急です |
+
+![Genki Japanese textbook on their side.](/assets/img/genki-textbook-spine.jpeg)
+*Photo: Japanese textbooks that never got used.
 
 ### Have Fun
 
