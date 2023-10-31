@@ -7,10 +7,14 @@ tags: [Ski,Preseason,Fitness,Running,Motivation,Exercise,Off-season,Preseason Fi
 image: running-shoes-1.jpeg
 ---
 
-## <center>Preseason Fitness</center>
-### <center>The Key to a Rewarding Season</center>
+## <center>Preseason</center>
+
+As the season draws closer, we'll look into the best things you can do to make your winter more enjoyable and safer too. These will range from things you can do for your fitness and mental preparation or also gear oriented changes that you can make before the season starts. Be sure to give each a good read and make a decision of what is best for you.
 
 ***
+
+### <center>Fitness</center>
+#### <center>The Key to a Rewarding Season</center>
 
 As winter approaches, every skier anxiously awaits the first dusting and hopes for the endless powder days. However, before you hit the slopes, it's crucial to prepare your body for the physical demands of skiing. Just like saving money, a little bit of targetted exercise each day can unlock better technique, enable you to chase the powder longer each day, reduce the risk of injuries, and keep you healthier to continue skiing well into the future.
 

@@ -33,7 +33,7 @@ The power strap sets itself apart by being able to adapt to your unique needs. I
 The fit is important to any piece of gear but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keep your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
 
 ![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
-*Well used 2021 HEAD Raptor WCR 4 ski boots.*
+*Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
 
 ### Types
 
@@ -62,7 +62,7 @@ Ski boots will often come with a stock power strap that is velcro based. These a
 These have been the go-to power strap for anyone looking for aftermarket power straps. Now that the Booster Strap patent has expired, we are seeing manufacturers making their own elastic power straps. But Booster still remains the king for a reason. Being the first to create and patent the elastic characteristics, Booster has had a long time to cement itself into the memory of those young and old. Still after years of use, sometimes the oldest straps are the best.
 
 ![Expert/Racer Booster Straps showing cam-style buckle](/assets/img/booster-power-strap.jpeg)
-*Expert/Racer Booster Straps showing cam-style buckle*
+*Photo: Expert/Racer Booster Straps showing cam-style buckle*
 
 Booster straps combine their elasticity with the simplicity of a cam-style buckle that let's you cinch and tighten better than most available static straps. But not overdoing it is part of the battle too. Booster Straps are not fool proof and still need to be appropriately tightened but not overly tight.
 
@@ -72,7 +72,7 @@ Lately, manufacturers have also been offering solutions that can be bought seper
 
 **Atomic** - Redster Professional Dual Strap
 ![Atomic Redster Professional Dual Strap](/assets/img/atomic-dual-strap.jpeg)
-*Atomic Redster Professional Dual Strap*
+*Photo: Atomic Redster Professional Dual Strap*
 
 Atomic has been taking their boots to a whole new level in recent years. Starting in their racing series of Redster, the Atomic Professional Dual Strap has seen many iterations. By seeking to incorporate the best of both worlds, elastic *and* static, Atomic has made something that is quite interesting. The bottom is an elastic strap that overlays the cuff of the boot while taking cues from the Booster Strap. While the top half is a traditional velcro strap that lays over the tongue of the liner giving a firm hold of the tongue to the boot. Both of these are then paired with a cam-style buckle makes these a very versatile choice
 
