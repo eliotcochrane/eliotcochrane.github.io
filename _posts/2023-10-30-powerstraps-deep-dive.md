@@ -24,6 +24,9 @@ The power strap is an unassuming part of the ski boot but can contribute to tran
 
 Precision and control are the ingredients necessary for your best sking and the strap plays a role in this symphony of a sport. The strap keeps your foot in the optimal position, allowing for the proper movements of your foot within the boot. Whether it's carving down iced up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
 
+![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
+*Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
+
 Over the past 10 or so years, power straps have been getting the attention they deserve. After the introduction of the cam-style buckle to help leverage the tightening mechanism for a closer fit, power straps have been getting new features like improved materials, making them wider, or making different models geared towards the consumer and their needs.
 
 ### Customization and Comfort
@@ -31,9 +34,6 @@ Over the past 10 or so years, power straps have been getting the attention they 
 The power strap sets itself apart by being able to adapt to your unique needs. In today's market, there are many different types of power straps, each with their own unique shape, features, and construction. Each of these mdoels are geared towards a particular skier and the needs that they need filled. This allows for fine tuning to be done to the boot by bootfitters around the world, whether you prefer a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow you to fine-tune the fit.
 
 The fit is important to any piece of gear but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keep your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
-
-![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
-*Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
 
 ### Types
 
