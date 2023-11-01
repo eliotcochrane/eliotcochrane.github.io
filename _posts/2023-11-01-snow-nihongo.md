@@ -2,15 +2,13 @@
 layout: post
 title: "Snow Nihongo"
 author: "Eliot Cochrane"
-categories: language
+categories: language,culture,japanese,japan
 tags: [Skiing In Japan,Japanese Ski Resorts,Japanese Culture,Getting Around Japan,Ski Equipment,Snow Conditions,Travel Tips,Nihongo On The Snow,Skiing Etiquette]
 image: genki-textbook-text.jpeg
 ---
 
 ## <center>Snow Nihongo</center>
 ### <center>Simple Japanese For The Slopes</center>
-
-***
 
 A ski trip to Japan is on the bucket list for millions of skiers all over the world. The culture, atmosphere, foods, and people make Japan a special place for people to visit. With a welcoming vibe and a culture that is like no other in the skiing world, Japan is the place to visit.
 
