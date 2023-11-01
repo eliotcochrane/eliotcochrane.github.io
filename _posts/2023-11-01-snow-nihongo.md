@@ -2,8 +2,8 @@
 layout: post
 title: "Snow Nihongo"
 author: "Eliot Cochrane"
-categories: Japanese, Ski
-tags: [SkiingInJapan,JapaneseSkiResorts,JapaneseCulture,GettingAroundJapan,SkiEquipment,SnowConditions,TravelTips,NihongoOnTheSnow,SkiingEtiquette]
+categories: language
+tags: [Skiing In Japan,Japanese Ski Resorts,Japanese Culture,Getting Around Japan,Ski Equipment,Snow Conditions,Travel Tips,Nihongo On The Snow,Skiing Etiquette]
 image: genki-textbook-text.jpeg
 ---
 
