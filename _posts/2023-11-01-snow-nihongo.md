@@ -28,7 +28,7 @@ You can still enjoy Japan just as much as anyone else with their limited English
 Like any country, a solid greeting is a good way to make friends. Here we will cover the basic greetings and self-introductions as well as generic answers to questions you might encounter.
 
 | English | Romanization | Japanese |
-| :------ | :----------: | -------: |
+| :-----: | :----------: | :------: |
 | Hello | Konnichiwa | こんにちは |
 | Goodbye | Sayounara | さようなら | 
 | Good morning | Ohayou gozaimasu | おはようございます
@@ -47,7 +47,7 @@ Like any country, a solid greeting is a good way to make friends. Here we will c
 | I'm sleepy | Nemui desu | 眠いです |
 | I'm from *place* | *place* kara kima shita | *place* から来ました |
 | Nice to meet you | Yoroshiku onegaishimasu | よろしくお願いします |
-| I don't understand Japanese | 日本語がわかりません |
+| I don't understand Japanese | Nihongo ga wakari masen | 日本語がわかりません |
 | Do you speak English? | Eigo wo hanase masuka? | 英語を話せますか？ |
 
 ### Getting Around
@@ -55,18 +55,18 @@ Like any country, a solid greeting is a good way to make friends. Here we will c
 Most of the time there will be a readily accessible map or Google Translate is just a tap away. But many ski areas are also out of cell range so having a few basic phrases to get where you want to go is helpful too.
 
 | English | Romanization | Japanese |
-| :------ | :----------: | -------: |
+| :-----: | :----------: | :------: |
 | I want to go to *place* | *place* ni ikitai desu | *place* に行きたいです |
 | Where is *place*? | *place* wa doko desuka? | *place* はどこですか？ |
-| Is it near here? | koko kara chikai desuka? | ここから近いですか？ |
+| Is it near here? | Koko kara chikai desuka? | ここから近いですか？ |
 | Can I have a map please? | Chizu wo kudasai | 地図をください
 | Gondola | Gondola | ゴンドラ |
 | Double Chairlift | Pea lifuto | ペアリフト |
 | Quad Chairlift | Kuaddo lifuto | クアッドリフト |
 | Magic Carpet | Majikku Kāpetto | マジックカーペット |
-| Ski Patrol | patorōru | パトロール |
-| Ticket | chiketto | チケット |
-| Food court | fůdo kōto | フードコート |
+| Ski Patrol | Patorōru | パトロール |
+| Ticket | Chiketto | チケット |
+| Food court | Fūdo kōto | フードコート |
 
 ![Early morning at Appi Ski Resort in Hachimantai, Iwate.](/assets/img/appi-base-early-morning.jpeg)
 *Photo: Early morning light at [Appi Ski Resort](https://www.appi-japan.com) in Hachimantai, Iwate.*
@@ -76,51 +76,51 @@ Most of the time there will be a readily accessible map or Google Translate is j
 Next we will cover terms that you might hear from Japanese skiers on the slope or when listening to the staff in the morning as they describe the snow report. Many of these keywords follow their foreign counterparts.
 
 | English | Romanization | Japanese |
-| :------ | :----------: | -------: |
-| Powder | paudā | パウダー |
-| Icy | aisu bān | アイスバーン |
-| Ski slope | gerende | ゲレンデ |
-| Thin cover | usui | 薄い |
-| Deep cover | fukai | 深い |
-| Sunny | hare | 晴れ |
-| Cloudy | kumori | 曇り |
-| Rainy | ame | 雨 |
-| Snowy | yuki | 雪 |
-| Heavy snow | omoi yuki | 思い雪
-| Light snow | karui yuki | 軽い雪 |
-| Man-made snow | jinkō yuki | 人工雪 |
+| :-----: | :----------: | :------: |
+| Powder | Paudā | パウダー |
+| Icy | Aisu bān | アイスバーン |
+| Ski slope | Gerende | ゲレンデ |
+| Thin cover | Usui | 薄い |
+| Deep cover | Fukai | 深い |
+| Sunny | Hare | 晴れ |
+| Cloudy | Kumori | 曇り |
+| Rainy | Ame | 雨 |
+| Snowy | Yuki | 雪 |
+| Heavy snow | Omoi yuki | 思い雪
+| Light snow | Karui yuki | 軽い雪 |
+| Man-made snow | Jinkō yuki | 人工雪 |
 | Temperature | Ondo | 温度
-| Warm | atatakai | 温かい |
-| Cool | suzushi | 涼し |
-| Hot | atsui | 熱い |
-| Cold | samui | 寒い |
+| Warm | Atatakai | 温かい |
+| Cool | Suzushi | 涼し |
+| Hot | Atsui | 熱い |
+| Cold | Samui | 寒い |
 
 ### Ski Stuff
 
 This is where we will take a look into ski equipment and also some of the fitting terms that you might use. These tips can help give you a better fit when renting gear or bragging about your own!
 
 | English | Romanization | Japanese |
-| :------ | :----------: | -------: |
+| :-----: | :----------: | :------: |
 | Rental Shop | Rentaru | レンタル |
-| Equipment | dougu | 道具 |
-| Helmet | herumetto | ヘルメット |
-| Goggles | gōguru | ゴーグル |
-| Ski Jacket | sukī jaketto | スキージャケット |
-| Gloves | gurōbu | グローブ |
-| Ski Pants | sukī zubon | スキーパンツ
-| Socks | kutsushita | 靴下 |
-| Boots | būtsu | ブーツ |
-| Poles | sutokku | ストック |
-| Skis | sukī | スキー |
+| Equipment | Dougu | 道具 |
+| Helmet | Herumetto | ヘルメット |
+| Goggles | Gōguru | ゴーグル |
+| Ski Jacket | Sukī jaketto | スキージャケット |
+| Gloves | Gurōbu | グローブ |
+| Ski Pants | Sukī zubon | スキーパンツ
+| Socks | Kutsushita | 靴下 |
+| Boots | Būtsu | ブーツ |
+| Poles | Sutokku | ストック |
+| Skis | Sukī | スキー |
 
 ### Cool Comments
 
 | English | Romanization | Japanese |
-| :------ | :----------: | -------: |
-| Nice! | naisu | ナイス |
-| That's cool! | kakkoī | カッコいい |
+| :-----: | :----------: | :------: |
+| Nice! | Naisu | ナイス |
+| That's cool! | Kakkoī | カッコいい |
 | Great jump! | Yoi jyanpu | 良いジャンプ |
-| That's steep! | kyū desu | 急です |
+| That's steep! | Kyū desu | 急です |
 
 ![Genki Japanese textbook on their side.](/assets/img/genki-textbook-spine.jpeg)
 *Photo: Japanese textbooks that never got used.
@@ -132,3 +132,11 @@ When push comes to shove, the most important thing is to have fun. Not knowing J
 But just like how the Japanese are friendly and kind, we should do that same for them. Saying 'please' (*arigatou*) and 'thank you' (*arigatou gozaimasu*) go a long way for you and those to come in the future.
 
 **<center>Get out there and have some fun!</center>**
+
+#### After Thoughts
+
+As someone who has lived in Japan for 10 years now, I've seen a lot of people come and go. Even just staying for 1 year is enough for some and that's okay. But many of them leave for one reason: lack of friends.
+
+This always hurts me because the Japanese people are so welcoming but the times that you feel like a native will be nearly non-existent. You always get treated a little differently. Some days it's a real help and other days it is a real struggle. But when it comes down to it, making friends is the best thing you can do for yourself mentally and physically too.
+
+Making friends is what life is all about and not having perfect Japanese is not going to stop it. Get after it!
