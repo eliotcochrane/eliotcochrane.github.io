@@ -13,8 +13,8 @@ image: head-power-strap.jpeg
 
 ***
 
-### <center>Power Straps</center>
-#### <center>Response, Flex, and Support</center>
+## <center>Power Straps</center>
+### <center>Response, Flex, and Support</center>
 
 Often times power straps are the underdog when it comes to attention in ski boots. All of the attention is put towards things like the volume, closure system, or range-of-motion. Yet the power strap is one of the most critical elements to a ski boot with regards to fit, performance, and comfort. It's not just a mere fastener to be done along the way, it's one of the main conductors connecting you to your skis.
 
@@ -49,7 +49,7 @@ But the technology has also shifted within static straps as well. Many power str
 But just as ski sidecuts have changed over the years, so to has the technology for power straps. The power straps are now uitilizing more materials and can be balanced for your preference. Elastic power straps serve to be more dynamic where the further the boot and power belt are stressed, the more rigid it will become. This characteristic is great for tailoring to a skiers level and also their use case.
 
 ![Sidas power strap.](/assets/img/sidas-power-strap.jpeg)
-*Photo: Sidas power strap.*
+*Photo: Sidas elastic power strap.*
 
 In scenarios with repeated impacts, such as moguls or when landing jumps, elastic power straps can help to alleviate harsh impacts by allowing the boot to flex more throughout the impact. These are often praised for reducing or eliminating "shin bang" by removing space between the tongue/cuff of the boot and the leg itself and allowing for appropriate pressure during the closure of the buckles.
 

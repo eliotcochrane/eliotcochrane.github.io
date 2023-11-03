@@ -131,7 +131,7 @@ But just like how the Japanese are friendly and kind, we should do that same for
 
 **<center>Get out there and have some fun!</center>**
 
-#### After Thoughts
+### After Thoughts
 
 As someone who has lived in Japan for 10 years now, I've seen a lot of people come and go. Even just staying for 1 year is enough for some and that's okay. But many of them leave for one reason: lack of friends.
 
