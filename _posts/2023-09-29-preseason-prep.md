@@ -33,8 +33,8 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 
 -**Recovery:** While exercise is essential, so too is resting. Adequate sleep and post-exercise stretching can help to maintain energy levels. But more importantly, these can help your body be ready for more exercise and ready for more skiing adventures.
 
-![Lightpost shining on road at night after rain.](/assets/img/nightrun-1.jpeg)
-*Photo: Lightpost shining on road at night after rain.*
+![Lamppost shining on road at night after rain.](/assets/img/nightrun-1.jpeg)
+*Photo: Lamppost shining on road at night after rain.*
 
 #### Stay Motivated
 

@@ -23,7 +23,7 @@ The JMA has predicted an El Niño pattern for the winter of 2023/24 and with it 
 ![Screenshot taken from Japan Meteorological Agency showing temperature forecast.](/assets/img/seasonal-temp-23-24.jpeg)
 *Photo: Forecast from Japan Meteorological Agency (JMA) showing temperature forecast for 2023/24 season.*
 
-While the temperature changes may be less prevelant at higher altitudes, affects will be felt the whole way down. Higher temperatures don't only reduce snowfall but may increase rainfall. Leading to highly saturated snow that during cold snaps will turn into ice. Many lower altitude ski areas may feel reminiscent of east coast skiing in America.
+While the temperature changes may be less prevalent at higher altitudes, affects will be felt the whole way down. Higher temperatures don't only reduce snowfall but may increase rainfall. Leading to highly saturated snow that during cold snaps will turn into ice. Many lower altitude ski areas may feel reminiscent of east coast skiing in America.
 
 ### Snowfall
 

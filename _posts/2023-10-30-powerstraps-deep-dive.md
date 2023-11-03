@@ -22,7 +22,7 @@ The power strap is an unassuming part of the ski boot but can contribute to tran
 
 ### Importance
 
-Precision and control are the ingredients necessary for your best sking and the strap plays a role in this symphony of a sport. The strap keeps your foot in the optimal position, allowing for the proper movements of your foot within the boot. Whether it's carving down iced up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
+Precision and control are the ingredients necessary for your best skiing and the strap plays a role in this symphony of a sport. The strap keeps your foot in the optimal position, allowing for the proper movements of your foot within the boot. Whether it's carving down iced up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
 
 ![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
 *Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
@@ -31,14 +31,14 @@ Over the past 10 or so years, power straps have been getting the attention they 
 
 ### Customization and Comfort
 
-The power strap sets itself apart by being able to adapt to your unique needs. In today's market, there are many different types of power straps, each with their own unique shape, features, and construction. Each of these mdoels are geared towards a particular skier and the needs that they need filled. This allows for fine tuning to be done to the boot by bootfitters around the world, whether you prefer a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow you to fine-tune the fit.
+The power strap sets itself apart by being able to adapt to your unique needs. In today's market, there are many different types of power straps, each with their own unique shape, features, and construction. Each of these models are geared towards a particular skier and the needs that they need filled. This allows for fine tuning to be done to the boot by boot-fitters around the world, whether you prefer a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow you to fine-tune the fit.
 
 The fit is important to any piece of gear but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keep your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
 
 ### Types
 
 **Static**
-This is the traditional view of what people think of when they hear 'power strap'. Static straps are as their name suggests, they do not stretch or deform under force or tension. Many years ago, these types of straps were reknown for giving sore shins, nicknamed "shin bang", at the end of a long day but have stuck around for a multitude of reasons. The biggest being that a static strap is the best way to unlock performance because of the direct transfer of energy into the cuff.
+This is the traditional view of what people think of when they hear 'power strap'. Static straps are as their name suggests, they do not stretch or deform under force or tension. Many years ago, these types of straps were renown for giving sore shins, nicknamed "shin bang", at the end of a long day but have stuck around for a multitude of reasons. The biggest being that a static strap is the best way to unlock performance because of the direct transfer of energy into the cuff.
 
 ![Atomic static velcro strap.](/assets/img/atomic-static-velcro-strap.jpeg)
 *Photo: Atomic static velcro strap.*
@@ -46,7 +46,7 @@ This is the traditional view of what people think of when they hear 'power strap
 But the technology has also shifted within static straps as well. Many power straps have been velcro and maintain to be velcro at lower end models. Now many static straps are incorporating cam-buckles to give relief when not going downhill but easily cinched by pulling on the tail strap to be ready. Many have also increased in width to help distribute the energy over a wider space and reduce "shin bang" in certain areas.
 
 **Elastic**
-But just as ski sidecuts have changed over the years, so to has the technology for power straps. The power straps are now uitilizing more materials and can be balanced for your preference. Elastic power straps serve to be more dynamic where the further the boot and power belt are stressed, the more rigid it will become. This characteristic is great for tailoring to a skiers level and also their use case.
+But just as ski sidecuts have changed over the years, so to has the technology for power straps. The power straps are now utilizing more materials and can be balanced for your preference. Elastic power straps serve to be more dynamic where the further the boot and power belt are stressed, the more rigid it will become. This characteristic is great for tailoring to a skiers level and also their use case.
 
 ![Sidas power strap.](/assets/img/sidas-power-strap.jpeg)
 *Photo: Sidas elastic power strap.*
@@ -68,7 +68,7 @@ Booster straps combine their elasticity with the simplicity of a cam-style buckl
 
 #### Manufacturer Options
 
-Lately, manufacturers have also been offering solutions that can be bought seperately to help customize the boot fitting process and provide a better solutions to the skier at hand. Many of the bigger manufacturer's for ski boots have ben investing more into their power belt offerings. Right now the manufacturer leading the charge in this is Atomic. With their Pro line of boots, customization for the skier has been at the forefront. But they aren't the only ones in the space. Companies like HEAD have also had special offerings to those who seek them out, but Atomic is making them more accessible than ever!
+Lately, manufacturers have also been offering solutions that can be bought separately to help customize the boot fitting process and provide a better solutions to the skier at hand. Many of the bigger manufacturer's for ski boots have ben investing more into their power belt offerings. Right now the manufacturer leading the charge in this is Atomic. With their Pro line of boots, customization for the skier has been at the forefront. But they aren't the only ones in the space. Companies like HEAD have also had special offerings to those who seek them out, but Atomic is making them more accessible than ever!
 
 **Atomic** - Redster Professional Dual Strap
 ![Atomic Redster Professional Dual Strap](/assets/img/atomic-dual-strap.jpeg)

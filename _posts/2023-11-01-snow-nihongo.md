@@ -138,3 +138,7 @@ As someone who has lived in Japan for 10 years now, I've seen a lot of people co
 This always hurts me because the Japanese people are so welcoming but the times that you feel like a native will be nearly non-existent. You always get treated a little differently. Some days it's a real help and other days it is a real struggle. But when it comes down to it, making friends is the best thing you can do for yourself mentally and physically too.
 
 Making friends is what life is all about and not having perfect Japanese is not going to stop it. Get after it!
+
+![Two people sitting on lift](/assets/img/appi-2-people-on-lift.jpeg)
+*Photo: Two volunteers sitting on a chairlift at [Appi Ski Resort](https://www.appi-japan.com).*
+
