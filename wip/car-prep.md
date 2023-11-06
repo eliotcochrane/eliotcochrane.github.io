@@ -16,6 +16,8 @@ As the season draws closer, we'll look into the best things you can do to make y
 ## <center>Winterizing Your Car</center>
 ### <center>Tips For Getting Ready To Drive In Winter</center>
 
+***
+
 Ski season is approaching and many ski enthusiasts are gearing up for the exciting trips they have planned to Japanese ski resorts. Putting in the time to make sure that gear has been fully checked out is important. But just as important as the gear on the hill is that which you leave at the base.
 
 The snowy landscapes provide a beautiful landscape with breathtaking views but they also bring unique challenges to road travel. Winterizing your vehicle is a crucial step to make sure that your adventures on the mountains are a safe and enjoyable journey from start to finish. In this guide, we'll break down a preseason checklist to prepare your vehicle for the Japanese winter.
@@ -75,6 +77,11 @@ Would you risk your safety with those odds?
 
 ##### CAUTION
 **Tow Ropes:** These are very commonly used when pulling cars out of the snow or on low traction roads but there is a danger. The line from the attachment points *must* remain clear because when the line is taut there is no mercy from the rope. Anything in the way will be moved or pinned.
+
 **Jumper Cables:** Incorrect usage can pose several dangers including electrical shocks, vehicle damage, and even the risk of fire or explosion if not connected correctly. It's crucial to follow safety guidelines when jump-starting a vehicle. Check if your cables come with a guide to the proper usage. If not, check your owners manual. Hybrids also have a different procedure depending on the car's battery layout. When in doubt, refer to the car owner's manual.
 
 ### Summary
+
+A well-prepared vehicle is the key to a successful and safe road trip to ski resorts and back-country access points. By following some preseason tips to get ready for the weather, your ski season can steer clear of disaster and be the best it can be. So get your car prepared and be ready for when the snow starts to fly!
+
+Stay safe and have a safe journey!

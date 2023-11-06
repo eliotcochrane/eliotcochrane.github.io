@@ -10,6 +10,8 @@ image: genki-textbook-text.jpeg
 ## <center>Snow Nihongo</center>
 ### <center>Simple Japanese For The Slopes</center>
 
+***
+
 A ski trip to Japan is on the bucket list for millions of skiers all over the world. The culture, atmosphere, foods, and people make Japan a special place for people to visit. With a welcoming vibe and a culture that is like no other in the skiing world, Japan is the place to visit.
 
 With Japanese resorts like Niseko, Hakuba, and Naeba taking the crown of "Most Recognized" ski resorts in Japan, these areas will likely have English speaking staff. But interacting with the locals in their native language is a good way to make new friends!

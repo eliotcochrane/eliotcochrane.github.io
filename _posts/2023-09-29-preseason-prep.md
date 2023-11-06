@@ -16,6 +16,8 @@ As the season draws closer, we'll look into the best things you can do to make y
 ### <center>Fitness</center>
 #### <center>The Key to a Rewarding Season</center>
 
+***
+
 As winter approaches, every skier anxiously awaits the first dusting and hopes for the endless powder days. However, before you hit the slopes, it's crucial to prepare your body for the physical demands of skiing. Just like saving money, a little bit of targetted exercise each day can unlock better technique, enable you to chase the powder longer each day, reduce the risk of injuries, and keep you healthier to continue skiing well into the future.
 
 *Note: Exercises alone will not make you a better skier. Better fitness will give you a higher potential.*

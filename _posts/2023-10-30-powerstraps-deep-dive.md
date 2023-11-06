@@ -16,6 +16,8 @@ image: head-power-strap.jpeg
 ## <center>Power Straps</center>
 ### <center>Response, Flex, and Support</center>
 
+***
+
 Often times power straps are the underdog when it comes to attention in ski boots. All of the attention is put towards things like the volume, closure system, or range-of-motion. Yet the power strap is one of the most critical elements to a ski boot with regards to fit, performance, and comfort. It's not just a mere fastener to be done along the way, it's one of the main conductors connecting you to your skis.
 
 The power strap is an unassuming part of the ski boot but can contribute to transmitting power greater than many may expect. This band of material embodies function and form by still meeting aesthetics while still performing a vital function of transferring power from you to your skis through your ski boots. When we buckle our ski boots and tighten our power strap, we establish a connection with our gear, and in turn, the mountains.
