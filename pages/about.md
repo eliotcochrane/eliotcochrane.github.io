@@ -4,12 +4,12 @@ title: About Me
 permalink: /about
 ---
 
+My name is **Eliot Cochrane**. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and inspire the next generation to continue.
+
 ![Photo of Eliot on at Geto Ski Area](/assets/img/geto-portrait-head.jpeg)
 *Photo: Eliot Cochrane at the [Geto Kogen Resort](https://www.getokogen.com/winter/index.html) in Kitakami, Iwate.*
 
-My name is Eliot Cochrane. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and inspire the next generation to continue.
-
-First coming to Japan, skiing was not a thought I was remotely interested in. I was so excited to experience a new country that I forgot about skiing. Fate would have it, my very first night out on the town would be fated with the local ski club. With their broken English and my nearly non-existent Japanese, I was almost immediately invited to join. Like many ski clubs around the world, the average age of their members has been increasing every year.
+First coming to Japan, skiing was not even remotely on my radar. I was so excited to experience a new country that I had forgotten about skiing. Fate would have it, my very first night out on the town would be fated with the local ski club. With their broken English and my nearly non-existent Japanese, I was almost immediately invited to join. Like many ski clubs around the world, the average age of their members has been increasing every year. The age gap was almost twice my age at that time.
 
 ![Ogasaka Triun skis from 2013](/assets/img/ogasaka-ski-banner.jpeg)
 *Photo: Ogasaka Triun skis from 2013.*
@@ -28,5 +28,5 @@ My childhood ski hills have really helped mold my preferences on where I like to
 Please feel free to browse my thoughts or send an e-mail.
 
 ![Photo from ski lift during heavy snow](/assets/img/lift-banner.jpeg)
-*Photo: Pair lift at [Choei Yuda](https://www.town.nishiwaga.lg.jp/kanko_bunka_sports/kanko_tokusan/5/1/1601.html) in Nishiwaga, Iwate.*
+*Photo: Pair lift during a blizzard at [Choei Yuda](https://www.town.nishiwaga.lg.jp/kanko_bunka_sports/kanko_tokusan/5/1/1601.html) in Nishiwaga, Iwate.*
 
