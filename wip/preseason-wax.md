@@ -22,7 +22,7 @@ The ski season has already started in some areas of Europe and the North America
 
 We'll be looking at storage wax removal, edge maintenance, base condition check, and then giving the skis the wax juice that will be so important once the slopes open. Come with us a little further as we start preparing our old skis for the season.
 
-**This guide is intended for those who have previous waxing experience but need a quick reminder of what to do without needing a race tune.**
+**This is a basic guide for those in need of a quick reminder of what to do without needing a race tune.**
 
 **Remember to follow safety precautions and consider having a professional tune your skis if you're not confident in your own skills. Additionally, it's essential to regularly maintain your skis throughout the season to ensure they perform at their best.**
 
@@ -46,7 +46,19 @@ Even with the summer wax providing protection against the elements and also agai
 
 ### Priming The Base
 
-To really lock in that universal glide wax, we will use different variations of waxes to make the ski more versatile in all conditions. For the next step, we will be waxing the ski about 6 times with scraping. Brushing is optional. Starting from warm wax and progressing to cold wax, completely wax the ski about 6 times. The hard wax used last will help to make a stronger barrier to keep the wax from drying out before the first snow.
+To really lock in that universal glide wax, we will use different variations of waxes to make the ski more versatile in all conditions. For the next step, we will be waxing the ski about 6 times with scraping. Brushing is optional. 
+
+* Warm-Temp
+    1. Wax → Scrape
+    2. Wax → Scrape
+* Mid-Temp
+    3. Wax → Scrape
+    4. Wax → Scrape
+* Cold-Temp
+    5. Wax → Scrape
+    6. Wax → Scrape
+
+Starting from warm wax and progressing to cold wax, completely wax the ski about 6 times. The hard wax used last will help to make a stronger barrier to keep the wax from drying out before the first snow.
 
 ### Edge Cleanup
 
