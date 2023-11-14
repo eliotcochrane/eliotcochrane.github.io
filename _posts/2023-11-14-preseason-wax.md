@@ -30,11 +30,11 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
 
-#### Nordica
-{% include youtube.html id="ZgQSNDAxV1k" %}
+* Guide from **Nordica**
+[![HOW TO WAX YOUR SKIS](https://img.youtube.com/vi/ZgQSNDAxV1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZgQSNDAxV1k)
 
-#### Sidecut Tuning
-{% include youtube.html id="pmNdgS5vNzA" %}
+* Guide from **Sidecut Tuning**
+[![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/sFzNGtpldWa9ma6d/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=sFzNGtpldWa9ma6d)
 
 ### Storage Wax
 
