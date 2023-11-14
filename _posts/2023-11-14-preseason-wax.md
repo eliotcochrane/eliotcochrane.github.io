@@ -30,11 +30,11 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
 
-* Guide from **Nordica**
+* Guide from **Nordica** (Click to open)
 [![HOW TO WAX YOUR SKIS](https://img.youtube.com/vi/ZgQSNDAxV1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZgQSNDAxV1k)
 
-* Guide from **Sidecut Tuning**
-[![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/sFzNGtpldWa9ma6d/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=sFzNGtpldWa9ma6d)
+* Guide from **Sidecut Tuning** (Click to open)
+[![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/pmNdgS5vNzA/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=wK17fYQtn4ZuiyMn)
 
 ### Storage Wax
 
@@ -44,11 +44,11 @@ Start by scraping the edges of any leftover wax that was put on to keep the edge
 
 Before doing anything else, the next important thing to do is just give the ski a good inspection. Some of the things we'll be looking for are:
 
-* Gauges / Deep Scratches - These can impact the core if the damage is too deep. Keeping a good barrier and base depth is important to keeping the ski feeling as good as it does from the first day. Many deep gauges in the center of the ski may be repaired using p-tex and melting directly onto the ski, sometimes in small layers with many cooling phases in between. But if they are near the edge, enlisting a professional ski technician may be necessary to use metal grip which will adhere to both the base material and the edge.
+**Gauges / Deep Scratches** - These can impact the core if the damage is too deep. Keeping a good barrier and base depth is important to keeping the ski feeling as good as it does from the first day. Many deep gauges in the center of the ski may be repaired using p-tex and melting directly onto the ski, sometimes in small layers with many cooling phases in between. But if they are near the edge, enlisting a professional ski technician may be necessary to use metal grip which will adhere to both the base material and the edge.
 
-* Flatness - Using something like a flat bar or a 90° ruler to check for a flat base. If there are any large convex or concave shapes, have the ski stone ground by a professional technician.
+**Flatness** - Using something like a flat bar or a 90° ruler to check for a flat base. If there are any large convex or concave shapes, have the ski stone ground by a professional technician.
 
-* Edges - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
+**Edges** - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
 
 ### Wax Soak
 
