@@ -26,6 +26,9 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 **Remember to follow safety precautions and consider having a professional tune your skis if you're not confident in your own skills. Additionally, it's essential to regularly maintain your skis throughout the season to ensure they perform at their best.**
 
+![Swix brushes](/assets/img/brush-mountain-side.jpeg)
+*Photo: Variety of Swix brushes.*
+
 ### Hot Waxing Techniques
 
 Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
@@ -39,6 +42,8 @@ Like most things in life, there are more ways to skin the cat than meets the eye
 ### Storage Wax
 
 Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free. This wax had probably accumulate dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
+
+Don't be too concerned with getting the perfect finish. This step in the process is just clearing the way for what is to come.In this step, if there is any excessive dirt in the wax. Maybe putting on another of the same wax and scraping while it is still warm is a good idea. This can remove the dirt before any other waxes are laid down.
 
 ### Base Condition
 
