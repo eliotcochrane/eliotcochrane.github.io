@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "PRESEASON: Old Skis, New Wax"
+title: "PRESEASON: Build-A-Base"
 author: "Eliot Cochrane"
 categories: off-season,japan
-tags: [tag 1,tag 2]
-image: picture.jpeg
+tags: [Preseason, Winter Preparation, Ski Maintenance, Ski Waxing, Ski Gear, Safety Tips, Skiing Guide, Winter Sports, Ski Season, Winter Activities]
+image: swix-wax-side-angle.jpeg
 ---
 
 ## <center>Preseason</center>
@@ -22,9 +22,19 @@ The ski season has already started in some areas of Europe and the North America
 
 We'll be looking at storage wax removal, edge maintenance, base condition check, and then giving the skis the wax juice that will be so important once the slopes open. Come with us a little further as we start preparing our old skis for the season.
 
-**This is a basic guide for those in need of a quick reminder of what to do without needing a race tune.**
+*This is a basic guide for those in need of a quick reminder of what to do without needing a race tune.*
 
 **Remember to follow safety precautions and consider having a professional tune your skis if you're not confident in your own skills. Additionally, it's essential to regularly maintain your skis throughout the season to ensure they perform at their best.**
+
+### Hot Waxing Techniques
+
+Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
+
+#### Nordica
+{% include youtube.html id="ZgQSNDAxV1k" %}
+
+#### Sidecut Tuning
+{% include youtube.html id="pmNdgS5vNzA" %}
 
 ### Storage Wax
 
@@ -36,13 +46,16 @@ Before doing anything else, the next important thing to do is just give the ski 
 
 * Gauges / Deep Scratches - These can impact the core if the damage is too deep. Keeping a good barrier and base depth is important to keeping the ski feeling as good as it does from the first day. Many deep gauges in the center of the ski may be repaired using p-tex and melting directly onto the ski, sometimes in small layers with many cooling phases in between. But if they are near the edge, enlisting a professional ski technician may be necessary to use metal grip which will adhere to both the base material and the edge.
 
-* Flatness - Using something like a flat bar or a 90° ruler to check for a flat base.
+* Flatness - Using something like a flat bar or a 90° ruler to check for a flat base. If there are any large convex or concave shapes, have the ski stone ground by a professional technician.
 
 * Edges - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
 
 ### Wax Soak
 
 Even with the summer wax providing protection against the elements and also against damage, the wax is not fool proof. Storage wax will not be enough to keep the skis from "drying out". Apply a universal glide wax and and let it cool for 3+ hours. Scrape and brush as though it were a regular wax session. Repeat 2 or 3 times to give the base the juice that it needs to glide.
+
+![Swix universal ski wax](/assets/img/universal-wax-side-angle.jpeg)
+*Photo: Swix's universal ski wax.*
 
 ### Priming The Base
 
@@ -60,13 +73,19 @@ To really lock in that universal glide wax, we will use different variations of 
 
 Starting from warm wax and progressing to cold wax, completely wax the ski about 6 times. The hard wax used last will help to make a stronger barrier to keep the wax from drying out before the first snow.
 
+![Swix wax line-up from warm to cold](/assets/img/swix-lineup.jpeg)
+*Photo: Swix's line-up from warm to cold.*
+
 ### Edge Cleanup
 
 Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the different between you traversing an ice ledge and you falling victim to it.
 
 Using an edge guide and file, lightly run along the edge with the grip of a firm handshake. Let the tools do the work. If plastic is being taken off instead of edge material, cutting back the sidewall material may be necessary.
 
-If removing only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is more than most people probably have, especially in powder.
+If removing only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder.
+
+![file and diamond stone](/assets/img/file-diamond-lineup.jpeg)
+*Photo: Fine teeth file and diamond stone side-by-side.*
 
 ### Scrape To Go
 
