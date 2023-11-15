@@ -2,7 +2,7 @@
 layout: post
 title: "PRESEASON: Build-A-Base"
 author: "Eliot Cochrane"
-categories: off-season,japan
+categories: off-season,japan,tuning,
 tags: [Preseason, Winter Preparation, Ski Maintenance, Ski Waxing, Ski Gear, Safety Tips, Skiing Guide, Winter Sports, Ski Season, Winter Activities]
 image: swix-wax-side-angle.jpeg
 ---
@@ -33,10 +33,10 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
 
-Guide from **Nordica** (Click to open)
+Simple guide from **Nordica** (Click to open)
 [![HOW TO WAX YOUR SKIS](https://img.youtube.com/vi/ZgQSNDAxV1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZgQSNDAxV1k)
 
-Guide from **Sidecut Tuning** (Click to open)
+Race oriented guide from **Sidecut Tuning** (Click to open)
 [![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/pmNdgS5vNzA/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=wK17fYQtn4ZuiyMn)
 
 ### Storage Wax
@@ -56,7 +56,7 @@ Before doing anything else, the next important thing to do is just give the ski 
 **Edges** - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
 
 ![File on a guide with clamp](/assets/img/guide-file-side.jpeg)
-*Photo: File ready to be used on an guide.*
+*Photo: File ready to be used on an aluminum guide.*
 
 ### Wax Soak
 
@@ -81,21 +81,21 @@ To really lock in that universal glide wax, we will use different variations of 
     5. Wax → Scrape
     6. Wax → Scrape
 
-Starting from warm wax and progressing to cold wax, completely wax the ski about 6 times. The hard wax used last will help to make a stronger barrier to keep the wax from drying out before the first snow.
+Starting from warm wax and progressing to cold wax, completely wax the ski about 6 times. The cold/hard wax used last will help to make a stronger barrier to keep the wax from drying out before the first snow.
 
 ![Swix wax line-up from warm to cold](/assets/img/swix-lineup.jpeg)
 *Photo: Swix's line-up from warm to cold.*
 
 ### Edge Cleanup
 
-Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the different between you traversing an ice ledge and you falling victim to it.
+Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the different between you traversing an ice ledge and you falling victim to it. If you choose to tune your edges and use a file guide, be sure to scrape and brush to expose the base for a better tune.
 
 Using an edge guide and file, lightly run along the edge with the grip of a firm handshake. Let the tools do the work. If plastic is being taken off instead of edge material, cutting back the sidewall material may be necessary.
 
-If removing only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder.
-
 ![File and diamond stone](/assets/img/file-diamond-lineup.jpeg)
 *Photo: Fine teeth file and diamond stone side-by-side.*
+
+If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until the feel sharp again. This gives the skis a little bit more longevity because the edge material stays around much longer.
 
 ### Scrape To Go
 
@@ -104,4 +104,4 @@ For the last step, we probably left a few marks on our base after using the guid
 Get ready because the season will come sooner than you think!
 
 ![Toolbox of ski tuning equipment](/assets/img/tuning-box-top.jpeg)
-*Photo: Toolbox full of ski tuning equipment.
+*Photo: Toolbox full of ski tuning equipment.*
