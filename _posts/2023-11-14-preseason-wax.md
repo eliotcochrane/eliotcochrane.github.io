@@ -33,10 +33,10 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
 
-* Guide from **Nordica** (Click to open)
+Guide from **Nordica** (Click to open)
 [![HOW TO WAX YOUR SKIS](https://img.youtube.com/vi/ZgQSNDAxV1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZgQSNDAxV1k)
 
-* Guide from **Sidecut Tuning** (Click to open)
+Guide from **Sidecut Tuning** (Click to open)
 [![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/pmNdgS5vNzA/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=wK17fYQtn4ZuiyMn)
 
 ### Storage Wax
@@ -55,9 +55,14 @@ Before doing anything else, the next important thing to do is just give the ski 
 
 **Edges** - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
 
+![File on a guide with clamp](/assets/img/guide-file-side.jpeg)
+*Photo: File ready to be used on an guide.*
+
 ### Wax Soak
 
-Even with the summer wax providing protection against the elements and also against damage, the wax is not fool proof. Storage wax will not be enough to keep the skis from "drying out". Apply a universal glide wax and and let it cool for 3+ hours. Scrape and brush as though it were a regular wax session. Repeat 2 or 3 times to give the base the juice that it needs to glide.
+Even with the summer wax providing protection against the elements and also against damage, the wax is impenetrable. Storage wax will not be enough to keep the skis from "drying out". Even at the world cup level where keeping the conditions in tip top shape is absolutely necessary, they are waxing the skis throughout the summer. But for the simple folk like us, it won't make a different when we get on snow.
+
+Apply a universal glide wax and and let it cool for 3+ hours. Scrape and brush as though it were a regular wax session. Repeat 2 or 3 times to give the base the juice that it needs to glide.
 
 ![Swix universal ski wax](/assets/img/universal-wax-side-angle.jpeg)
 *Photo: Swix's universal ski wax.*
@@ -89,7 +94,7 @@ Using an edge guide and file, lightly run along the edge with the grip of a firm
 
 If removing only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder.
 
-![file and diamond stone](/assets/img/file-diamond-lineup.jpeg)
+![File and diamond stone](/assets/img/file-diamond-lineup.jpeg)
 *Photo: Fine teeth file and diamond stone side-by-side.*
 
 ### Scrape To Go
@@ -97,3 +102,6 @@ If removing only a small bit of material, a diamond stone may be more than enoug
 For the last step, we probably left a few marks on our base after using the guide or any other tools to get the edge back in condition. For the last step, just take a mid-temperature range of wax and do a full wax and don't scrape. More than likely the first ski falls into temperatures that are from -4°C 〜 -12°C. A mid-temp wax will surely fall into this category and leave you with just a scrape and a brushing before heading to the hill!
 
 Get ready because the season will come sooner than you think!
+
+![Toolbox of ski tuning equipment](/assets/img/tuning-box-top.jpeg)
+*Photo: Toolbox full of ski tuning equipment.
