@@ -3,7 +3,7 @@ layout: post
 title: "PRESEASON: Build-A-Base"
 author: "Eliot Cochrane"
 categories: off-season,japan,tuning,
-tags: [Preseason, Winter Preparation, Ski Maintenance, Ski Waxing, Ski Gear, Safety Tips, Skiing Guide, Winter Sports, Ski Season, Winter Activities]
+tags: [Preseason,Winter Preparation,Ski Maintenance,Ski Waxing,Ski Gear,Safety Tips,Skiing Guide,Winter Sports,Ski Season,Winter Activities]
 image: swix-wax-side-angle.jpeg
 ---
 
