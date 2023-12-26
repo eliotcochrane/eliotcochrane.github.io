@@ -28,7 +28,7 @@ Each carve down a groomed trail becomes a deliberate and focused task in techniq
 
 Carving on piste requires a high degree in edge control. THe ability to engage and disengage the edges with the precise about of weight distribution is invaluable when facing varied snow conditions that are often seen off piste. When it comes to navigating the trees, moguls, or variable terrain, carving on piste can develop carving habits to empower the skier in a multitude of scenarios.
 
-The controlled environment is a safe place to practice and experiment edge control. A nuanced understanding of how the skis interact with the snow is invaluable when given the varied snow that nature will have even within a single run off piste. This heightened edge control and experience with various snow conditions will prove to be a secret weapon when facing the powder-covered slopes.<iframe width="560" height="315"
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/MUQfKFzIOeU" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
