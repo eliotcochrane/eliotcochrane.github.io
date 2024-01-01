@@ -41,7 +41,7 @@ Carving isn't just about perfecting turns; it's a full-body workout. The sustain
 The strength and endurance mainly focuses on the legs but the core strength is one part that keeps it all together. On piste, a weak core will wreck havoc on weight distribution resulting in imbalance and unsatisfying turns. The muscular endurance and strength developed on the groomed slopes will give you resilience allowing you do handle any powder conditions with control and stamina.
 
 ![Myself carving on the the local slope](/assets/img/eliot_carving_yuda.jpeg)
-*Photo: 
+*Photo: Eliot Cochrane carving on local slopes.*
 
 ### Terrain Awareness
 #### Read the Line
