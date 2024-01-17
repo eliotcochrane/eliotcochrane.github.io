@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Appi Kogen Resort"
+title: "Appi Kogen Resort - 2024"
 author: "Eliot Cochrane"
 categories: japan,training,fitness,skiing,technique
 tags: [Appi Kogen Resort, Winter Sports, Skiing Destinations, Snow Grooming, Iwate Prefecture, International Schools, Foreign Tourism, Ski Resort Business, Season's Pass Discounts, Mountain Lifestyle]
-image: picture.jpeg
+image: appi-ski-5.jpeg
 ---
 
 ## <center>Appi Kogen Resort</center>
@@ -16,8 +16,8 @@ Starting off in 2024, Appi Kogen Resort is having a great season. While the star
 
 Nestled into the Hachimantai mountains splitting Akita Prefecture and Iwate Prefecture, Appi Kogen Resort gets a consistent coating of snow throughout the winter season. This season has been marked by lower than normal snowfall but that has not stopped Appi from opening as usual year after year around the beginning of December.
 
-![Marcus Canston carving](/assets/img/marcus_canston_carving_blizzard.jpeg)
-*Photo: Marcus Canston carving on wide skis. Source: [Blizzard Sport](https://www.blizzard-tecnica.com/us/en)*
+![Rossignol skis in front of gondola lift](/assets/img/appi-ski-3.jpeg)
+*Photo: Rossignol skis stacked in front of the gondola lift at Appi Kogen Ski Resort.*
 
 ### Differing From The Competition
 #### Preparation Started In 2023
@@ -31,9 +31,12 @@ It's pretty clear that tons of people bought in because the slopes have been pac
 ### Quality Over Quantity
 #### Iwate Resorts Rivalry For Business
 
-It's no secret that Geto Kogen Ski Resort has been making leaps and bounds with their marketing. And it's clear to see why when their website and social accounts flaunt endless powder. But when powder is the only thing going for them as a resort, it leaves other things to be desired where Appi steps in.
+It's no secret that Geto Kogen Ski Resort has been making leaps and bounds with their marketing. And it's clear to see why when their website and social accounts flaunt endless powder with family friendly amenities. But when powder is the only thing going for them as a resort, it leaves other things to be desired where Appi steps in.
 
 Appi has had many great powder days this season in addition to the great work that the hard work that the trail groomer's put into their work. Time and time again, the Appi ski slope has been prepared to great lengths each and every day built upon a hard base that this warm winter gave us early on. Taking advantage of the opportunity, the snow grooming crew at Appi Kogen Ski Resort have for sure earned their fair share when it comes to recognition in making Appi Kogen Ski Resort an amazing place to ski and snowboard.
+
+![Looking up the main slope at Appi](/assets/img/appi-ski-1.jpeg)
+*Photo: Powder skiing down the main slope at Appi Kogen Ski Resort.*
 
 ### Foreign Influence
 #### More English than Japanese?
@@ -48,6 +51,9 @@ TO house many of the foreign guests, a new hotel branded by ANA was built next t
 
 All of this culminates with the Appi Kogen Ski Resort providing great access for those visiting regardless of their language or country of origin.
 
+![Early morning picture of Appi from the quad lift](/assets/img/appi-ski-6.jpeg)
+*Photo: Early morning Appi Kogen Ski Resort.*
+
 ### What's Next For Appi?
 
 Currently the Harrow International School Appi Japan is looking to increase their student body size and will be continually growing year upon year. Specifically, they are looking for local Iwate students to give their international students a more localized experience and to expand the capabilities of students from within Iwate. This will be good to attract more foreign business and tourism to the resort and the area.
@@ -56,3 +62,5 @@ Appi Kogen Ski Resort has also expanded some facilities like their snow park to 
 
 Currently, it looks like Appi kogen Ski Resort is most interested in bringing in foreign visitors. First and foremost, it is a business. The Japanese ski and snowboard population has been declining for years even amongst some of the best skiing conditions in the world. Hopefully their incredible seasons pass value can entice the local population to come and enjoy the wonderful slopes that they have to offer.
 
+![Parking lot on a powder day.](/assets/img/appi-ski-4.jpeg)
+*Photo: Parking lot after a day of powder.*
