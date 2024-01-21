@@ -8,7 +8,7 @@ image: appi-ski-5.jpeg
 ---
 
 ## <center>Appi Kogen Resort</center>
-### <center>Usually Overlooked; Never Underrated</center>
+### <center>Usually Overlooked But Never Underrated</center>
 
 ***
 
