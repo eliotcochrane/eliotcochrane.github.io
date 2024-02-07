@@ -4,7 +4,7 @@ title: "CHOUMIN: Okunakayama"
 author: "Eliot Cochrane"
 categories: off-season,volunteer,
 tags: [tag 1,tag 2]
-image: picture.jpeg
+image: okunakayama-6.jpeg
 ---
 
 ## <center>Local Bumps</center>
@@ -32,18 +32,29 @@ Many times, the passes sold to those outside the prefecture are often families f
 
 Any look into the ski film industry that is in Japan and often times tree runs are at the forefront of the films. Some of them even being accessed just off the road! It's no wonder that even though the altitude might not be as high as some other countries, the back-country skiing scene keeps expanding every year as people experience tree runs and try to always get the first tracks. Many of them get their first taste of pow-pow at ski areas like Okunakayama.
 
-Nearly five years ago, Okunakayama took the tree runs that they already had and cut many of the trees within the run and making it much easier to maneauver skis and also introduce others to powder skiing. Not only did they expand those runs, but they also made the mountain almost entirely tree run accessible with the exception of one spot leading to a river that doesn't have a proper exit. Anywhere you go, there will be tracks leading into the forest and exiting down below.
+![Photo of the accessible tree lines at Okunakayama Kogen](/assets/img/okunakayama-4.jpeg)
+*Photo: Okunakayama Kogen has some of the best entry zones into tree line skiing*
+
+Nearly five years ago, Okunakayama took the tree runs that they already had and cut many of the trees within the run and making it much easier to maneuver skis and also introduce others to powder skiing. Not only did they expand those runs, but they also made the mountain almost entirely tree run accessible with the exception of one spot leading to a river that doesn't have a proper exit. Anywhere you go, there will be tracks leading into the forest and exiting down below.
 
 For many ski resorts, this would be unheard of because of the risks and insurance involved. But for Okunakayama this was one of the major selling points. Powder is not only accessible in a certain area. If you can find it, you can ski it.
+
+***
 
 ### Around The Mountain
 
 Dotting around the mountains are some great spots to visit. Even day travelers come just for these places. Let's take a look around the mountain and the surrounding area.
 
-##### Ice Cream Place
+##### Yuki Akari - 雪あかり
 
-Directly below the lain lodge is a ice cream shop that is regularly visited in summer because of the beautiful views and the locally sourced ingredients. It is a small place but customers are regularly going in and out. Of course, the vanilla and chocolate are great, but some of the rotating flavors are just as delicious if not more! Be sure to give them a look.
+![The front of the gelato shop, Yuki Akari](/assets/img/okunakayama-10.jpeg)
+*Photo: Yuki Akari, a delicious gelato shop just in front of Okunakayama Kogen.*
 
-##### Onsen
+Directly below the lain lodge is a gelato shop that is regularly visited in summer because of the beautiful views and the locally sourced ingredients. It is a small place but customers are regularly going in and out. Of course, the vanilla and chocolate are great, but some of the rotating flavors are just as delicious if not more! Be sure to give them a look.
+
+##### Oknakakayama Kogen Onsen - 奥中山高原温泉
+
+![In front of the onsen, Okunakayama Kogen Onsen](/assets/img/okunakayama-9.jpeg)
+*Photo: Okunakayama Kogen Onsen, a familiar place for locals to relax after skiing.*
 
 Right next to the ice cream place is a nice onsen. Like most onsens that have been around a while, it isn't the prettiest onsen but it has a great atmosphere
