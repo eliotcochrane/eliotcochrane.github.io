@@ -13,7 +13,7 @@ image: okunakayama-6.jpeg
 
 ***
 
-## <center>Okunakayama</center>
+## <center>Okunakayama Kogen</center>
 ### <center>All Things Skiing</center>
 
 ***
@@ -25,6 +25,9 @@ Slowly but surely, Okunakayama continues to expand upon what is already availabl
 ### Borders
 
 Okunakayama is quite northerly within Iwate Prefecture. While this limits customers from southern Iwate that may tend to ski at Geto Kogen Ski Resort, it does open the possibility for skiers and snowboarders from Aomori Prefecture to visit. The local skiers make up a majority of the population on the slopes but there are also lots of day passes and seasons passes sold to those outside the prefecture.
+
+![Sign displaying the menu at the Okunakayama Kogen food court](/assets/img/okunakayama-8.jpeg)
+*Photo: A large sign displaying the numbers, names, and prices of the food available at the food court within Okunakayama Kogen.*
 
 Many times, the passes sold to those outside the prefecture are often families from the military base that the United States of America operates in Misawa, Aomori Prefecture. They come to Okunakayama on the weekends as though it were just like home. English signage has increased within the ski area and the staff can also do their jobs in English. On top of that, there is also a military discount which acts as a great introduction for those looking to step their feet into snow sports for the first time.
 
@@ -43,14 +46,19 @@ For many ski resorts, this would be unheard of because of the risks and insuranc
 
 ### Around The Mountain
 
-Dotting around the mountains are some great spots to visit. Even day travelers come just for these places. Let's take a look around the mountain and the surrounding area.
+Dotting around the mountains are some great spots to visit. Even day travelers come just for these places. On each lift ticket, there is also a discount for one of the two places listed below. Let's take a look around the mountain and the surrounding area and see what there is to do.
+
+![Okunakayama Kogen lift ticket showing discounts](/assets/img/okunakayama-12.jpeg)
+*Photo: Okunakayama Kogen lift ticket displaying the discounts at the bottom.*
 
 ##### Yuki Akari - 雪あかり
 
 ![The front of the gelato shop, Yuki Akari](/assets/img/okunakayama-10.jpeg)
 *Photo: Yuki Akari, a delicious gelato shop just in front of Okunakayama Kogen.*
 
-Directly below the lain lodge is a gelato shop that is regularly visited in summer because of the beautiful views and the locally sourced ingredients. It is a small place but customers are regularly going in and out. Of course, the vanilla and chocolate are great, but some of the rotating flavors are just as delicious if not more! Be sure to give them a look.
+Directly below the lain lodge is a gelato shop that is regularly visited in summer because of the beautiful views and the locally sourced ingredients. It is a small place but customers are regularly going in and out. Of course, the standard flavors of vanilla and chocolate are great, but some of the rotating flavors are just as delicious if not more! My favorite is the sesame flavor (goma - ごま)!
+
+Be sure to give them a look and get your 50円 discount!
 
 ##### Oknakakayama Kogen Onsen - 奥中山高原温泉
 
