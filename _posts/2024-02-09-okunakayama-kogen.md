@@ -2,8 +2,8 @@
 layout: post
 title: "CHOUMIN: Okunakayama"
 author: "Eliot Cochrane"
-categories: off-season,volunteer,
-tags: [tag 1,tag 2]
+categories: japan,skiing
+tags: [Local Bumps, CHOUMIN, ski hills, Japan, Okunakayama Kogen, skiing, Iwate Prefecture, snow sports, tree runs, back-country skiing, powder skiing, mountain spots, Okunakayama Kogen Onsen, Yuki Akari, gelato shop]
 image: okunakayama-6.jpeg
 ---
 
@@ -51,6 +51,15 @@ Dotting around the mountains are some great spots to visit. Even day travelers c
 ![Okunakayama Kogen lift ticket showing discounts](/assets/img/okunakayama-12.jpeg)
 *Photo: Okunakayama Kogen lift ticket displaying the discounts at the bottom.*
 
+##### Okunakayama Kogen Onsen - 奥中山高原温泉
+
+![In front of the onsen, Okunakayama Kogen Onsen](/assets/img/okunakayama-9.jpeg)
+*Photo: Okunakayama Kogen Onsen, a familiar place for locals to relax after skiing.*
+
+Right next to the ice cream place is a nice onsen. Like most onsens that have been around a while, it isn't the prettiest onsen but it has a great atmosphere. A popular spot that follows a day on the hill and also is a popular spot for locals with a view overlooking the part of the valley. The winter time is beautiful but summer and fall are just as beautiful.
+
+Bring your ticket and show it to the staff when entering and get a 100円 discount!
+
 ##### Yuki Akari - 雪あかり
 
 ![The front of the gelato shop, Yuki Akari](/assets/img/okunakayama-10.jpeg)
@@ -60,9 +69,3 @@ Directly below the lain lodge is a gelato shop that is regularly visited in summ
 
 Be sure to give them a look and get your 50円 discount!
 
-##### Oknakakayama Kogen Onsen - 奥中山高原温泉
-
-![In front of the onsen, Okunakayama Kogen Onsen](/assets/img/okunakayama-9.jpeg)
-*Photo: Okunakayama Kogen Onsen, a familiar place for locals to relax after skiing.*
-
-Right next to the ice cream place is a nice onsen. Like most onsens that have been around a while, it isn't the prettiest onsen but it has a great atmosphere
