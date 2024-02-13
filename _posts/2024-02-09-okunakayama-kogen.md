@@ -6,11 +6,6 @@ categories: japan,skiing
 tags: [Local Bumps, CHOUMIN, ski hills, Japan, Okunakayama Kogen, skiing, Iwate Prefecture, snow sports, tree runs, back-country skiing, powder skiing, mountain spots, Okunakayama Kogen Onsen, Yuki Akari, gelato shop]
 image: okunakayama-6.jpeg
 ---
-
-## <center>Local Bumps</center>
-
-**CHOUMIN** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their own appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
-
 ***
 
 ## <center>Okunakayama Kogen</center>
@@ -19,6 +14,9 @@ image: okunakayama-6.jpeg
 ***
 
 Okunakayama is a modestly sized skiing area located in Ichinohe in the northern part of Iwate Prefecture. Almost one hour directly north of Morioka, this ski area can easily be accessed by car, lesser so by train and bus. But given it's proximity to much larger ski areas, it has been able to stay active and to keep slowly expanding every year.
+
+![Google Maps image displaying Okunakayama Kogen](/assets/img/okunakayama-13.jpeg)
+*Photo: Image from Google Maps showing location of Okunakayama Kogen in Iwate Prefecture.*
 
 Slowly but surely, Okunakayama continues to expand upon what is already available. Whether it be including tree runs, expanding them, purchasing new cross-country maintenance and race equipment, or creating more affordable options for local residents to keep them within the sport we all love.
 
@@ -68,4 +66,8 @@ Bring your ticket and show it to the staff when entering and get a 100円 discou
 Directly below the lain lodge is a gelato shop that is regularly visited in summer because of the beautiful views and the locally sourced ingredients. It is a small place but customers are regularly going in and out. Of course, the standard flavors of vanilla and chocolate are great, but some of the rotating flavors are just as delicious if not more! My favorite is the sesame flavor (goma - ごま)!
 
 Be sure to give them a look and get your 50円 discount!
+
+## <center>Choumin</center>
+
+**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their own appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
 
