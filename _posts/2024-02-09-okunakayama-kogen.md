@@ -6,7 +6,6 @@ categories: japan,skiing
 tags: [Local Bumps, CHOUMIN, ski hills, Japan, Okunakayama Kogen, skiing, Iwate Prefecture, snow sports, tree runs, back-country skiing, powder skiing, mountain spots, Okunakayama Kogen Onsen, Yuki Akari, gelato shop]
 image: okunakayama-6.jpeg
 ---
-***
 
 ## <center>Okunakayama Kogen</center>
 ### <center>All Things Skiing</center>
