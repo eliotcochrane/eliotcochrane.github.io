@@ -21,6 +21,9 @@ We'll take a look at a level of the skiing practicals that is a healthy base to 
 
 ### Levels & Beyond!
 
+![Progression of SAJ levels](/assets/img/saj-badge-test-8.jpeg)
+*Photo: Flowchart from the Ski Association of Japan (SAJ) showing the progression of levels. Bottom being the beginning, left being demonstration route and the right being the instructors route.*
+
 The levels start from 5 and continue to 1
 
 | Level | Requirements |
@@ -30,9 +33,6 @@ The levels start from 5 and continue to 1
 | 3級 | * Basic parallel ski turn <br> * Stem turn (easy terrain) |
 | 2級 | * Parallel long turns <br> * Parallel short turns <br> * Steam turn (natural terrain) |
 | 1級 | * Parallel long turns <br> * Parallel short turns <br> * General skiing (varied radii turns) <br> * Parallel short turns (uneven terrain, bumps/moguls)
-
-![Progression of SAJ levels](/assets/img/saj-badge-test-8.jpeg)
-*Photo: Flowchart from the Ski Association of Japan (SAJ) showing the progression of levels. Bottom being the beginning, left being demonstration route and the right being the instructors route.*
 
 From this stage once you pass your 1st Level Exam (1級), you can branch out into two differing paths. One being the instructor route where you will work and study to become proficient in what to teach, how to teach, and build a love for skiing within students.
 
