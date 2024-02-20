@@ -2,7 +2,7 @@
 layout: post
 title: "SAJ: Badge Test"
 author: "Eliot Cochrane"
-categories: off-season,volunteer,
+categories: japan,training,fitness,skiing,technique
 tags: [Skiing Skills, Ski Levels, Ski Certification, SAJ Badge Test, Ski Progression, Skiing Exams, Winter Sports Japan, Ski Instruction, Demonstration Skiing, Ski Competitions, Snow Conditions, Skiing Techniques, Ski Culture, Mountain Adventures, Winter Fun]
 
 image: saj-badge-test-3.jpeg
@@ -28,11 +28,11 @@ The levels start from 5 and continue to 1
 
 | Level | Requirements |
 | ----- | ----- |
-| 5級 | * Snowplow in a controlled manner |
-| 4級 | * Snowplow in a controlled manner (w/ rhythm changes) |
-| 3級 | * Basic parallel ski turn <br> * Stem turn (easy terrain) |
-| 2級 | * Parallel long turns <br> * Parallel short turns <br> * Steam turn (natural terrain) |
-| 1級 | * Parallel long turns <br> * Parallel short turns <br> * General skiing (varied radii turns) <br> * Parallel short turns (uneven terrain, bumps/moguls)
+| 5級 | - Snowplow in a controlled manner |
+| 4級 | - Snowplow in a controlled manner (w/ rhythm changes) |
+| 3級 | - Basic parallel ski turn <br> - Stem turn (easy terrain) |
+| 2級 | - Parallel long turns <br> - Parallel short turns <br> - Steam turn (natural terrain) |
+| 1級 | - Parallel long turns <br> - Parallel short turns <br> - General skiing (varied radii turns) <br> - Parallel short turns (uneven terrain, bumps/moguls)
 
 From this stage once you pass your 1st Level Exam (1級), you can branch out into two differing paths. One being the instructor route where you will work and study to become proficient in what to teach, how to teach, and build a love for skiing within students.
 
@@ -40,8 +40,8 @@ Or you can continue down the demonstration skiing rabbit hole and go for the Tec
 
 | Level | Requirements |
 | ----- | ----- |
-| Technical Prize | * Score over 300 points over 4 events |
-| Crown Prize | * Score over 320 points over 4 events |
+| Technical Prize | - Score over 300 points over 4 events |
+| Crown Prize | - Score over 320 points over 4 events |
 
 ### Taking The Test (1級)
 
