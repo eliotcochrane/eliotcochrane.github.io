@@ -2,7 +2,7 @@
 layout: post
 title: "CHOUMIN: Okunakayama"
 author: "Eliot Cochrane"
-categories: japan,skiing
+categories: japan,skiing,local
 tags: [Local Bumps, CHOUMIN, ski hills, Japan, Okunakayama Kogen, skiing, Iwate Prefecture, snow sports, tree runs, back-country skiing, powder skiing, mountain spots, Okunakayama Kogen Onsen, Yuki Akari, gelato shop]
 image: okunakayama-6.jpeg
 ---
