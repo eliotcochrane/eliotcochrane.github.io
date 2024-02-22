@@ -3,8 +3,7 @@ layout: post
 title: "SAJ: Badge Test"
 author: "Eliot Cochrane"
 categories: japan,training,fitness,skiing,technique
-tags: [Skiing Skills, Ski Levels, Ski Certification, SAJ Badge Test, Ski Progression, Skiing Exams, Winter Sports Japan, Ski Instruction, Demonstration Skiing, Ski Competitions, Snow Conditions, Skiing Techniques, Ski Culture, Mountain Adventures, Winter Fun]
-
+tags: ["Skiing Skills", "Ski Levels", "Ski Certification", "SAJ Badge Test", "Ski Progression", "Skiing Exams", "Winter Sports Japan", "Ski Instruction", "Demonstration Skiing", "Ski Competitions", "Snow Conditions", "Skiing Techniques", "Ski Culture", "Mountain Adventures", "Winter Fun"]
 image: saj-badge-test-3.jpeg
 ---
 

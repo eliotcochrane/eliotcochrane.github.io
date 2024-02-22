@@ -3,7 +3,7 @@ layout: post
 title: "First Day Of The Season"
 author: "Eliot Cochrane"
 categories: japan,training,fitness,skiing
-tags: [skiing, first day, ski season, Japan ski areas, skiing drills, ski safety, stretching, figure eight skating, side slip to edge set, Norwegian pole plant, outside ski only, skiing exercises, ski warm-up, ski techniques, skiing tips, ski coaching, professional instructor, ski certification, ski safety, winter sports, ski fitness, ski preparation, ski drills, ski balance, skiing coordination, skiing timing, skiing turns, ski fundamentals, skiing techniques, ski muscle adaptation, winter activities]
+tags: ["skiing", "first day", "ski season", "Japan ski areas", "skiing drills", "ski safety", "stretching", "figure eight skating", "side slip to edge set", "Norwegian pole plant", "outside ski only", "skiing exercises", "ski warm-up", "ski techniques", "skiing tips", "ski coaching", "professional instructor", "ski certification", "ski safety", "winter sports", "ski fitness", "ski preparation", "ski drills", "ski balance", "skiing coordination", "skiing timing", "skiing turns", "ski fundamentals", "skiing techniques", "ski muscle adaptation", "winter activities"]
 image: geto-morning.jpeg
 ---
 

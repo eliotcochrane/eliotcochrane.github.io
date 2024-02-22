@@ -3,7 +3,8 @@ layout: post
 title: "CHOUMIN: Okunakayama"
 author: "Eliot Cochrane"
 categories: japan,skiing,local
-tags: [Local Bumps, CHOUMIN, ski hills, Japan, Okunakayama Kogen, skiing, Iwate Prefecture, snow sports, tree runs, back-country skiing, powder skiing, mountain spots, Okunakayama Kogen Onsen, Yuki Akari, gelato shop]
+tags: ["Local Bumps", "CHOUMIN", "ski hills", "Japan", "Okunakayama Kogen", "skiing", "Iwate Prefecture", "snow sports", "tree runs", "back-country skiing", "powder skiing", "mountain spots", "Okunakayama Kogen Onsen", "Yuki Akari", "gelato shop"]
+
 image: okunakayama-6.jpeg
 ---
 
@@ -68,5 +69,5 @@ Be sure to give them a look and get your 50円 discount!
 
 ## <center>Choumin</center>
 
-**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their own appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
+**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
 
