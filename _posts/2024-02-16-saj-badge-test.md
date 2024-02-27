@@ -96,3 +96,5 @@ So the regular skier that goes out five to ten days a year has no need to even t
 
 ![２級 and 1級 pins on top of the SAJ 1級 certificate](/assets/img/saj-badge-test-7.jpeg)
 *Photo: Pins from completing the 1級 and 2級 exams over the 1級 certificate.*
+
+***

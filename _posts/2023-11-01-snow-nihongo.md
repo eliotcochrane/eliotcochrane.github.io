@@ -144,3 +144,4 @@ Making friends is what life is all about and not having perfect Japanese is not 
 ![Two people sitting on lift](/assets/img/appi-2-people-on-lift.jpeg)
 *Photo: Two volunteers sitting on a chairlift at [Appi Ski Resort](https://www.appi-japan.com).*
 
+***

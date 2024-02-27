@@ -7,12 +7,6 @@ tags: ["Appi Kogen Resort", "Winter Sports", "Skiing Destinations", "Snow Groomi
 image: appi-ski-5.jpeg
 ---
 
-## <center>Local Bumps</center>
-
-**CHOUMIN** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their own appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
-
-***
-
 ## <center>Appi Kogen Resort</center>
 ### <center>Usually Overlooked But Never Underrated</center>
 
@@ -70,3 +64,18 @@ Currently, it looks like Appi Kogen Ski Resort is most interested in bringing in
 
 ![Parking lot on a powder day.](/assets/img/appi-ski-4.jpeg)
 *Photo: Parking lot after a day of powder.*
+
+### Access
+
+Appi Kogen Ski Resort can easily be accessed by plane, train, and car. The nearest shinkansen stop is at the Morioka Station in Iwate Prefecture.
+**Airplane** - The nearest airport access is Hanamaki Airport by a regularly scheduled bus for 2,300円 (1,150円 for elementary children, free for preschoolers). Reaching Appi Kogen Ski Resort in 1 hour and 30 minutes, provides easy access right from the airport.
+**Bus** - From Morioka Station, there is a local bus from Morioka Station that runs directly to Appi Kogen Ski Resort. Costing 1,150円 and 580円 for children, provides easy access for those using the shinkansen to travel around Japan.
+**Car** - For those using a car, Appi Kogen Ski Resort is easily accessed from the Tohoku Highway by two stops. Ashiro IC (安代IC) and Matsuohachimantai (松尾八幡平IC) are both situated 20 ~ 30 minutes from Appi Kogen Ski Resort.
+
+For a more in-depth look for planning, please visit [Appi Kogen Access](https://appi-japan.com/access/access-winter/).
+
+## <center>Choumin</center>
+
+**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
+
+***

@@ -37,3 +37,5 @@ In contrast, places like Nagano and Niigata within the central Honshu region, ar
 ### Lastly
 
 Smaller ski areas in Japan will be aware of the incoming El Niño pattern and will be preparing with all they have. Bringing higher temperatures and decreased snowfall, this season could be particularly difficult compared to past years without adapting. Of course, ski enthusiasts can have a great day at the larger resorts with their man-made options. On the other hand, the below-the-radar ski hills have a knack for delivering exciting, unexpected surprises, even in the face of weather an uncertain seasonal forecast.
+
+***

@@ -67,7 +67,12 @@ Directly below the lain lodge is a gelato shop that is regularly visited in summ
 
 Be sure to give them a look and get your 50円 discount!
 
+### Access
+
+Accessible by train, bus, and car, Okunakayama Kogen is a great place to get away from the hustle and bustle. For a more detailed breakdown including pictures of how to get there by car and also which trains and busses to plan for, please visit their website at [Okunakayama Kogen Access](https://www.okunakayamakogen.jp/en/access-en/).
+
 ## <center>Choumin</center>
 
 **Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
 
+***

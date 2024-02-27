@@ -75,3 +75,4 @@ Balancing the thrill of powder skiing and the discipline of on piste carving is 
 
 So as the snow beckons you with a bed of new powder, remember that groomed trails are not just a means to an end - they are a journey to make you a better skier.
 
+***

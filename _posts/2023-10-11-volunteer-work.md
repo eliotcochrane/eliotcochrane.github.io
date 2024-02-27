@@ -47,3 +47,5 @@ Their efforts not only reduce operational costs but also create a strong bond wi
 *Photo: Result of ski area cut by hand.*
 
 Preparing a ski area for opening in winter isn't an easy task. Many ski clubs are small but enthusiastic and prepare for the slope for everyone in the community to enjoy. Inspecting facilities, maintaining lifts, and cutting trails are done so visitors can enjoy the sport we all love. Hopefully these will leave a lasting impression for the next generation of skiers to take up the sport with as much passion.
+
+***
