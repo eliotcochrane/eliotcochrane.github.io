@@ -40,8 +40,6 @@ Nearly five years ago, Okunakayama took the tree runs that they already had and 
 
 For many ski resorts, this would be unheard of because of the risks and insurance involved. But for Okunakayama this was one of the major selling points. Powder is not only accessible in a certain area. If you can find it, you can ski it.
 
-***
-
 ### Around The Mountain
 
 Dotting around the mountains are some great spots to visit. Even day travelers come just for these places. On each lift ticket, there is also a discount for one of the two places listed below. Let's take a look around the mountain and the surrounding area and see what there is to do.
