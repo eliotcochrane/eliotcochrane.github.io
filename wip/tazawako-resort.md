@@ -62,7 +62,7 @@ At the top, there is one slope winding around that is groomed but is pretty stee
 Coming down to the mid-mountain area it branches out into all sorts of trails but are relatively similar with a flat upper and lower which sandwiches a steeper portion in the middle. Oddly enough though, I found myself doing lap after lap on probably the most boring terrain.
 
 ![Super-Quad featuring almost all blue level trails](/assets/img/tazawako-1.jpeg)
-*Photo: Super-quad to my favorite terrain, the boring slope.*
+*Photo: Super-quad to my favorite boring terrain.*
 
 On the skier's right is a second super-quad that is great for mindless skiing because it's just the right slope for endless carving without overspeeding. From that second super-quad is also a ski-cross course that is open to the public. It is great fun to take a few friends and hash it out to see who is the best.
 
