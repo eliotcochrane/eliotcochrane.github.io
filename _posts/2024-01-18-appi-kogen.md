@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Appi Kogen Resort - 2024"
+title: "CHOUMIN: Appi Kogen Resort"
 author: "Eliot Cochrane"
 categories: japan,training,fitness,skiing,technique
 tags: ["Appi Kogen Resort", "Winter Sports", "Skiing Destinations", "Snow Grooming", "Iwate Prefecture", "International Schools", "Foreign Tourism", "Ski Resort Business", "Season's Pass Discounts", "Mountain Lifestyle"]

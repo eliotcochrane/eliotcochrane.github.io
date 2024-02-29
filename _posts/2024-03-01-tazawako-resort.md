@@ -29,17 +29,17 @@ After following the ravine, we get a tiny glimpse of the lake before we head up 
 
 Every time that I have been to Tazawako, it seems there is always something going on. It just so happened that on the day I went, there were three different events that each took up a major course! 
 
-The biggest was the National Snowboard Technical Championship. This is an event where it pits the top technical snowboarders against each other for who can perfect the best form. Some great snowboarders descended and put all of their efforts into the few tens of seconds that they were given.
+The biggest was the National Snowboard Technical Championship. This is an event where it pits the top technical snowboarders against each other for who can perfect the best form. Some great snowboarders descended and put all of their efforts into the few tens of seconds that they were given. At the bottom of the course they had a DJ, announcer, and some sponsors ready to sell some things and give interviews with some of their athletes.
 
 ![Poster on the wall in front of piste](/assets/img/tazawako-11.jpeg)
 *Photo: Poster of competition in front of the piste.*
 
-The next biggest event was a snowboard time trial put on by the local snowboard shop. They tend to focus primarily on alpine carving snowboards but within the field, it was a mix of 50/50 between soft-boots and hard-boots. Although everyone was exclusively on carving boards.
+The next biggest event was a snowboard time trial put on by the local snowboard shop. They tend to focus primarily on alpine carving snowboards but within the field, it was a mix of 50/50 between soft-boots and hard-boots. Although everyone was exclusively on carving boards. As a former alpine skier, I've always had an interest in carving boards and to see some of them during their warm-ups was really cool.
 
-The final event was part of the Akita SAJ instructor's test. Here the instructors have to perform the required exercises to a certain degree that a beginner would be able to watch and understand. In addition to the practical examination, there was also a paper test the day before.
+The final event was part of the Akita SAJ instructor's test. Here the instructors have to perform the required exercises to a certain degree that a beginner would be able to watch and understand. In addition to the practical examination, there was also a paper test the day before. The exercises performed may look easy but they are judged to an incredibly high standard.
 
 ![Photo if freestyle World Cup](/assets/img/tazawako-12.jpeg)
-*Photo: FIS Freestyle World Cup podium. (Freestyle Skiing Canada)* 
+*Photo: FIS Freestyle World Cup podium at Tazawako Ski Resort. (Freestyle Skiing Canada)* 
 
 Tazawako is always a place that is buzzing because, in years past, they have also held Freestyle World Cups there! 
 
@@ -59,12 +59,12 @@ From there, any sort of back-country skiers can go up further without restrictio
 
 At the top, there is one slope winding around that is groomed but is pretty steep compared to the rest of the mountain. At the top, there is also access to tree skiing and open ungroomed areas that turn into bumps later in the season.
 
-Coming down to the mid-mountain area it branches out into all sorts of trails but are relatively similar with a flat upper and lower which sandwiches a steeper portion in the middle. Oddly enough though, I found myself doing lap after lap on probably the most boring terrain.
+Coming down to the mid-mountain area it branches out into all sorts of trails but are relatively similar with a flat upper and lower which sandwiches a steeper portion in the middle. Oddly enough though, I found myself doing lap after lap on probably the most approachable slopes on the hill. They are a relatively mild courses that just go on forever.
 
 ![Super-Quad featuring almost all blue level trails](/assets/img/tazawako-1.jpeg)
-*Photo: Super-quad to my favorite boring terrain.*
+*Photo: Super-quad to easily accessible terrain for all skill levels.*
 
-On the skier's right is a second super-quad that is great for mindless skiing because it's just the right slope for endless carving without overspeeding. From that second super-quad is also a ski-cross course that is open to the public. It is great fun to take a few friends and hash it out to see who is the best.
+On the skier's right is a second super-quad that is great for mindless skiing because it's just the right slope for endless carving without overspeeding. From that second super-quad is also a ski-cross course that is open to the public. It is great fun to take a few friends and hash it out to see who is the best. There is also a tournament held every year for the ski-cross event.
 
 ### Lodge Feels
 
