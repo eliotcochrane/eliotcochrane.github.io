@@ -96,4 +96,3 @@ For more detailed information, please see the pamphlet PDF at [Tazawako Ski Reso
 **Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
 
 ***
-
