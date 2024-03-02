@@ -78,7 +78,7 @@ Getting to the second floor you can buy your ticket there. If you know what tick
 Within the lodge, the types of food to choose from are pretty small. Outside of the regular ramen, udon, soba, and curry I couldn't find too much. For more appetizer-type foods there was the "Fast Food Court" that had things like french fries and fried chicken.
 
 ![Fast food court at Tazawako Ski Resort](/assets/img/tazawako-7.jpeg)
-*Photo: The "Fast Food Court" for appetizer dishes.*
+*Photo: The "Fast Food Corner" for appetizer dishes.*
 
 ### Access
 

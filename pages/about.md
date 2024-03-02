@@ -30,3 +30,4 @@ Please feel free to browse my thoughts or send an e-mail.
 ![Photo from ski lift during heavy snow](/assets/img/lift-banner.jpeg)
 *Photo: Pair lift during a blizzard at [Choei Yuda](https://www.town.nishiwaga.lg.jp/kanko_bunka_sports/kanko_tokusan/5/1/1601.html) in Nishiwaga, Iwate.*
 
+***
