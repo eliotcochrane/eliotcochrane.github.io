@@ -3,7 +3,7 @@ layout: post
 title: "AKITA: Jeunesse Kurikoma"
 author: "Eliot Cochrane"
 categories: japan,skiing,local,choumin
-tags: ["Jeunesse Kurikoma", "Akita", "Ski Area", "Hidden Gem", "Southern Mountains", "Onsen Getaway", "Winter Retreat", "Snow Sports", "Powder Skiing", "Peaceful Getaway", "Mountain Drive", "Local Skiers", "Skiing at Your Pace", "Accommodations", "Winter Travel"]
+tags: ["Jeunesse Kurikoma", "Akita", "Ski Area", "Hidden Gem", "Southern Mountains", "Onsen Getaway", "Winter Retreat", "Snow Sports", "Powder Skiing", "Peaceful", "Mountain Drive", "Local Skiers", "Skiing at Your Pace", "Accommodations", "Winter Travel"]
 image: jeunesse-kurikoma-4.jpeg
 ---
 
@@ -63,6 +63,9 @@ The final lift is the third pair lift from midway to the top. On powder day this
 ### Accommodations
 
 Jeunesse Kurikoma is pretty far away from anything resembling a town or city. To remedy this, an onsen was built on site and is also surrounded by smaller places. These places are a little bit old but the odd one here or there is still quite enjoyable to stay at.
+
+![View from piste towards Hotel Blanc](/assets/img/jeunesse-kurikoma-14.jpeg)
+*Photo: Hotel Blanc facing the ski lifts with ski-in ski-out access.*
 
 But the Yamayuri Onsen at Hotel Blanc is the main place to stay. With an onsen overlooking the main slope, it is easy to see why it stands above all the others. It was also recently remodeled a few years back and is in great condition. Those who do stay have only had praise for Hotel Blanc.
 
