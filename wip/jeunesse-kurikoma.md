@@ -3,7 +3,7 @@ layout: post
 title: "CHOUMIN: Jeunesse Kurikoma"
 author: "Eliot Cochrane"
 categories: japan,skiing,local
-tags: [tag 1,tag 2]
+tags: ["Jeunesse Kurikoma", "Akita", "Ski Area", "Hidden Gem", "Southern Mountains", "Onsen Getaway", "Winter Retreat", "Snow Sports", "Powder Skiing", "Peaceful Getaway", "Mountain Drive", "Local Skiers", "Skiing at Your Pace", "Accommodations", "Winter Travel"]
 image: picture.jpeg
 ---
 

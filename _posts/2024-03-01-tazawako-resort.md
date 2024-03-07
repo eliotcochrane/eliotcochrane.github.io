@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "CHOUMIN: Tazawako Ski Resort"
+title: "AKITA: Tazawako Ski Resort"
 author: "Eliot Cochrane"
-categories: japan,skiing,local
+categories: japan,skiing,local,choumin
 tags: ["Tazawako Ski Resort", "Tohoku", "Lake Tazawa", "Skiing", "Snowboarding", "Winter Sports", "Events", "Travel", "Morioka", "Iwate Prefecture", "Mountain Views", "Ski Resort Access", "Choumin", "Local Hills", "Japan Skiing"]
 image: tazawako-3.jpeg
 ---
@@ -90,9 +90,3 @@ For those taking the train, take the JR lines to get to JR Tazawako Station. Fro
 *Photo: Front of the lodge at Tazawako Ski Resort.*
 
 For more detailed information, please see the pamphlet PDF at [Tazawako Ski Resort Access](https://www.tazawako-ski.com/assets/pdf/tazawako-ski_pamphlet.pdf).
-
-## <center>Choumin</center>
-
-**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
-
-***

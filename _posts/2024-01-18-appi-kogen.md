@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "CHOUMIN: Appi Kogen Resort"
+title: "IWATE: Appi Kogen Resort"
 author: "Eliot Cochrane"
-categories: japan,training,fitness,skiing,technique
+categories: japan,training,fitness,skiing,technique,choumin
 tags: ["Appi Kogen Resort", "Winter Sports", "Skiing Destinations", "Snow Grooming", "Iwate Prefecture", "International Schools", "Foreign Tourism", "Ski Resort Business", "Season's Pass Discounts", "Mountain Lifestyle"]
 image: appi-ski-5.jpeg
 ---
@@ -73,9 +73,3 @@ Appi Kogen Ski Resort can easily be accessed by plane, train, and car. The neare
 **Car** - For those using a car, Appi Kogen Ski Resort is easily accessed from the Tohoku Highway by two stops. Ashiro IC (安代IC) and Matsuohachimantai (松尾八幡平IC) are both situated 20 ~ 30 minutes from Appi Kogen Ski Resort.
 
 For a more in-depth look for planning, please visit [Appi Kogen Access](https://appi-japan.com/access/access-winter/).
-
-## <center>Choumin</center>
-
-**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
-
-***

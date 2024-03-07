@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHOUMIN: Hachimantai Slalom"
+title: "Hachimantai Resort Slalom"
 author: "Eliot Cochrane"
 categories: japan,skiing,racing,local
 tags: ["skiing", "ski racing", "Japan", "FIS Alpine World Championships", "Shizukuishi", "racing fans", "ski setup", "ski race", "ski racing culture", "Hachimantai Resort Panorama", "race course", "results", "Choumin", "local ski hills"]
@@ -60,9 +60,3 @@ All in all, it was a good day on the slope because I finally got some bragging r
 
 ![Author during the slalom race](/assets/img/panorama-SL-5.jpeg)
 *Photo: Author during the first run of the race.*
-
-## <center>Choumin</center>
-
-**Choumin** is a series where Stray Lines will take a look into the smaller ski hills scattered around Japan. Choumin (町民) is roughly translates to citizen or local. With the idea of local people in mind, we hope to give you a little insight into the smaller places that often get overlooked as foreigners come to Japan to ski. While the bigger mountains do have their appeal, the local hills often have an atmosphere that is hard to replicate anywhere else. Come along as we explore these little nuggets of gold.
-
-***
