@@ -67,4 +67,3 @@ Be sure to give them a look and get your 50円 discount!
 ### Access
 
 Accessible by train, bus, and car, Okunakayama Kogen is a great place to get away from the hustle and bustle. For a more detailed breakdown including pictures of how to get there by car and also which trains and busses to plan for, please visit their website at [Okunakayama Kogen Access](https://www.okunakayamakogen.jp/en/access-en/).
-

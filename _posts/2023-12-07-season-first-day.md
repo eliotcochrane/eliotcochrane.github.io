@@ -131,5 +131,3 @@ In the same line as golf, the best course of action is also to get a coach or pr
 Most importantly, have fun and stay safe. Proper stretching both **before** and **after** can be a key to a long season. So don't let the time go to waste!
 
 **Get out there!**
-
-***

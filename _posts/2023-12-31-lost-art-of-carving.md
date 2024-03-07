@@ -74,5 +74,3 @@ However, carving on piste is the unsung hero of ski mastery. On th groomed slope
 Balancing the thrill of powder skiing and the discipline of on piste carving is not just a compromise; it's an approach to becoming a better and well-rounded skier.
 
 So as the snow beckons you with a bed of new powder, remember that groomed trails are not just a means to an end - they are a journey to make you a better skier.
-
-***

@@ -85,5 +85,3 @@ The underdog part of your boot, the power strap, stands as a quiet hero on your 
 At the end of the day, what equipment you choose and how you maintain it is up to you. The choice of an aftermarket power strap falls int the spectrum of how much elasticity or shock absorption you want. The Booster Strap and Atomic Professional Dual Strap may be similar in elasticity, but the Atomic can provide an option to velcro the static half for a more direct connection. Yet a static strap with a cam-style buckle like the offerings on high-end race boots are a great choice for those who like a solid and sturdy connection. 
 
 But the most important thing when skiing is to ensure that every moment skiing is a memorable one.
-
-***

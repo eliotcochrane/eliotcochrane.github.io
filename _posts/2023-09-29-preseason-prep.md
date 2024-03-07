@@ -56,5 +56,3 @@ Skiing is great and it is a wonderful way to experience nature, challenge yourse
 As you prepare for the ski season, remember that staying active year-round not only benefits your performance on the hill but also your quality of life.
 
 In conclusion, preparing your body just fo skiing offer layers upon layers of benefits. From improving technique and endurance to reducing injuries. Because we all know that as soon as the snow begins to fall, your physical fitness will pay dividends on the mountain.
-
-***

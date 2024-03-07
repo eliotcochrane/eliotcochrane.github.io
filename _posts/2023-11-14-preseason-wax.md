@@ -1,17 +1,11 @@
 ---
 layout: post
-title: "PRESEASON: Build-A-Base"
+title: "TUNING: Build-A-Base"
 author: "Eliot Cochrane"
 categories: off-season,japan,tuning,
 tags: ["Preseason", "Winter Preparation", "Ski Maintenance", "Ski Waxing", "Ski Gear", "Safety Tips", "Skiing Guide", "Winter Sports", "Ski Season", "Winter Activities"]
 image: swix-wax-side-angle.jpeg
 ---
-
-## <center>Preseason</center>
-
-As the season draws closer, we'll look into the best things you can do to make your winter more enjoyable and safer too. These will range from things you can do for your fitness, mental preparation, and gear oriented changes that you can make before the season starts. Be sure to give each a good read and make a decision of what is best for you to make your winter in Japan fun and safe.
-
-***
 
 ## <center>Refresh Your Skis</center>
 ### <center>Guide And Tips To Get Your Old Skis Ready</center>
@@ -105,5 +99,3 @@ Get ready because the season will come sooner than you think!
 
 ![Toolbox of ski tuning equipment](/assets/img/tuning-box-top.jpeg)
 *Photo: Toolbox full of ski tuning equipment.*
-
-***
