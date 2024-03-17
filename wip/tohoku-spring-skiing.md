@@ -23,3 +23,19 @@ While many of the smaller areas do close around the end of March and the beginni
 These warm days mean soft snow that clumps into granules. Some of the locals affectionately call it "corn skiing" because of how large these granules can actually become! Corn skiing gives the best of all types of snow.
 
 ### Cherry Blossoms
+
+Cherry blossoms have been a part of the Japanese culture for centuries and continue to be so. To this day, things like the academic schedule and new hiring schedule still revolve around April because of it's timing with cherry blossoms. Cherry trees are also a gesture of good faith and are often exchanged between foreign countries and Japan.
+
+In addition to their cultural significance, they are just simply beautiful. Some of the famous areas that will be listed later on will often times we covered in pink foliage. In severely windy conditions, it can feel like a pink blizzard as the cherry blossoms fall from the trees. It is truly a spectacular sight and feels like a movie scene.
+
+### Ski and Cherry Blossom Spots
+
+#### Aomori
+#### Akita
+
+Akita Hachimantai Ski Area sits between Akita Prefecture and Iwate Prefecture in Kazuno City. The resort only has 1 lift feeding into 2 trails but it is a hotspot for teams looking to get some pole training, back country skiers looking to explore the mountains a little more, and the onsen enthusiast that visits the nearby onsens!
+#### Iwate
+
+Geto
+#### Miyagi
+#### Yamagata
