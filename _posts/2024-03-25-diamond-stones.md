@@ -4,7 +4,7 @@ title: "TUNING: Diamond Stones"
 author: "Eliot Cochrane"
 categories: off-season,japan,tuning,
 tags: ["Diamond Stones", "Ski Tuning", "Edge Maintenance", "Beginner Skier", "Winter Sports", "Ski Gear", "Ski Equipment", "Tuning Tools", "Diamond Stone Set", "Ski Edge Care", "Skiing Tips", "Skiing Techniques", "Winter Maintenance", "Ski Edge Tuning", "Skiing Gear"]
-image: picture.jpeg
+image: diamond-stone-4.jpeg
 ---
 
 ## <center>Diamond Stones</center>
@@ -14,15 +14,21 @@ image: picture.jpeg
 
 > "Diamonds are a girl's best friend."
 
-Popularized by Marilyn Monroe in the early 1950s, the song became an icon in pop culture. Even though Monroe herself said that she was never into diamonds as much as the song portrayed, for those getting into edge tuning, diamonds might be the best thing in your toolbox.
+Popularized by Marilyn Monroe in the early 1950s, the song became an icon in pop culture. Even though Monroe herself said that she was never into diamonds as much as the song portrayed, for those getting into edge tuning, diamonds might be the best thing to have in your toolbox.
 
-Beginning to tune your skis can seem daunting in the beginning. Many YouTube tutorials mention files slipping off the edge and scratching the base or making a mess of a room. Any tutorial then ends with diamond stones, so why not take out the risk but still produce a sharp edge?
+![Ski tuning toolbox](/assets/img/tuning-box-top.jpeg)
+*Photo: Author's unorganized mess of a tuning toolbox.*
+
+Beginning to tune your skis can seem daunting in the beginning. Many YouTube tutorials mention files slipping off the edge and scratching the base or making a mess of where you decide to tune. Any tutorial then ends with diamond stones, so why not take out the risk but still produce a sharp edge?
 
 Today we'll take a deeper look into tuning your edges so that even when there is no fresh *Japow*, you can still get out there and shred the slopes. Let's get started.
 
 ### Why Edges Matter
 
 If you have been skiing powder all your life, edges might not have even mattered. The edges aren't cutting anything and the snow beneath you provides enough resistance to your body weight that you can successfully turn. But take away the powder, what are you going to stand on?
+
+![Author carving on steep hill](/assets/img/diamond-stone-2.jpeg)
+*Photo: Author carving on freshly tuned skis.*
 
 This is where your edge matters. Once you take away the snow that you were standing on your edge becomes your main contact with the snow or ice beneath you. To get into this base beneath you, you need to cut into it. A dull edge isn't going to want to cut into the hard-packed snow or ice. A nice sharp edge, similar to a knife, will cut in and give you a good platform to make turns and feel in control.
 
@@ -31,6 +37,9 @@ This is where your edge matters. Once you take away the snow that you were stand
 Similar to sandpaper and files, diamond stones also come in different shapes and textures. Today we will be looking at the Swix Diamond Stone Set that can be bought anywhere. Most tuning companies like Holmenkol, Gallium, Sidecut Tuning, and Toko all have their variations. 
 
 Within each of these package products, there is a selection of diamond stones that can be broken down into three types, coarse, medium, and fine. Like sandpaper, these are broken down into categories using their *grit*. Grit is the measurement of the size of the abrasive particles. For diamond stones, these are rejected natural diamonds or natural diamond waste material that can still be used. The higher the number, the finer the finish.
+
+![Swix diamond stone set](/assets/img/diamond-stone-1.jpeg)
+*Photo: Diamond stone set with aluminum backing from Swix.*
 
 **Coarse - 100〜200 grit**
 This is typically the starting diamond stone that will be used in the process. It will remove the most material within the diamond stones that are available in the set. While it may take the most edge off within the set, it is SIGNIFICANTLY less than a traditional file. Paired with a file guide, this will set the edge.
@@ -65,6 +74,9 @@ This will cut into the ski material that supports the edge. If the sidewall is n
 
 #### Step 1 - Edge and Sidewall Check
 
+![Cross-section of ski](/assets/img/diamond-stone-3.jpeg)
+*Photo: Cross-section of ski showing names of individual parts of ski.*
+
 Here we are looking to make sure that the edge is in good condition meaning that it has not separated from the ski itself and is not damaged in a way that will damage the tuning materials. If there is excessive damage, a file may be required, or if there is extreme damage, a full stone grind may be necessary.
 
 Also on the edge, we are looking for rust that will create pockets within the ski. These are discolored gray and dark marks on the edge of the ski. In extreme circumstances, the universal orange color of rust will be present. This will often happen when the edges are not dried after skiing. Before using diamond stones, remove all rust using a Gummy Stone.
@@ -79,11 +91,17 @@ Put the diamond stones in the bowl of water to soak. During that time, put the b
 
 Once the edge is ready, take the file out of the water, and put it in the file guide and clamp it there so it won't move. See the picture as to how it should look.
 
+![Setup using the stone, clamp, and guide](/assets/img/diamond-stone-5.jpeg)
+*Photo: Setup of the diamond stone, clamp, and edge guide from Ski Magazine.*
+
 From there gently go back and forth, up and down the ski. Every 4 or 5 strokes, put more water on the edge using the toothbrush and also apply more to the diamond stone cutting surface. 
 
 If the edge is being removed you should see two things...
 1. Water Darkens
 2. Edge Color Changes
+
+![How to use the guide setup](/assets/img/diamond-stone-6.jpeg)
+*Photo: How to use the diamond stones with the edge guide from Ski Magazine.*
 
 As the water mixes with the removed edge particles, it will darken in color. This means that the stones are cutting the material. With edge color changes, it should be progressive along the height of the edge. Once the formerly full edge color becomes a vibrant silver color, you can use the tissues or paper towels to dry the edge and verify that you have completed the edge material removal along the entire edge.
 
@@ -124,6 +142,9 @@ We are using diamond stones because they are easy but they also have another ben
 Instead of waiting until the ski edge is severely dull, using diamond stones periodically can help ensure that you are ready at any time to hit the hard-packed or icy slopes in the event that you can't tune the night before. Even on blizzard days, with the right winds there are always moments where you'll find icy spots and having a proper edge at any time can give you the stability to not quiver on ice.
 
 ***
+
+![File and diamond stone side-by-side](/assets/img/file-diamond-lineup.jpeg)
+*Photo: Traditional file and diamond stone side-by-side.*
 
 Being a beginner at tuning doesn't mean you can't have great skis that can perform in all conditions. Using diamond stones can help you be a better skier by having the proper level of control that you need regardless of condition. It's so easy and simple and with really low risk. The risk of damaging the ski and yourself is virtually zero and can be done easily.
 
