@@ -16,12 +16,6 @@ permalink: /equipment
 
 The skis that I am on the most are the most versatile for free skiing and helping at events but are also my most aggressive skis. Unfortunately these came with the race stock for distributing to the regional and world cup Japanese racers within the Tohoku region. The skis are super light and easier to maneuver but don't be fooled by that. These skis are a wild animal ready to pounce at the moment that you relax in the turn.
 
-###  Rossignol Hero Athlete GS (182cm)
-![Photo of Rossignol Hero Athlete GS skis](/assets/img/2022-rossignol-gs.jpeg)
-*Photo: 2021 Rossignol Hero Athlete GS*
-
-These are the skis for the days of hard snow pack because they create the days of my dreams by conjuring the feelings of driving a race car. If I'm feeling like some speed, the long linking turns of the Rossignol Hero GS really throw me in feeling of an IndyCar at the Indianapolis 500. While the HEAD e.SL skis really feel the nimbleness of a Formula 1 car as they need the focus and physical ability to endure each and every turn.
-
 ### Rossignol Black Ops Sender Ti (187cm)
 ![Photo of Rossignol Black Ops Sender Ti skis](/assets/img/2021-rossignol-blackops-sender-ti.jpeg)
 *Photo: 2021 Rossignol Black Ops Sender Ti*
