@@ -14,6 +14,8 @@ image: picture.jpeg
 
 Nestled in the mountains of Daisen in Akita Prefecture lies a golf course with a certain flair from another country and another generation. Separated from the cities and above the rice fields lies a course that doesn't feel very Japanese outside of the menu at lunch. While it may be polarizing in an economy that is steadily getting more and more difficult for a newer generation to start playing golf, Royal Century Golf Club maintains as best it can to have prime service and provide a great experience.
 
+***
+
 ### Club House
 
 Upon entering the grounds and approaching the club house, it tries to be very clear in the separation between the golf course and the entrance. With an entrance looking fit for a ski chalet or a bond villain, the course staff will take your bag from your vehicle and prepare it on the cart to be ready for you when you're ready to begin. With cobbled stones just in front, it does provide a different atmosphere. Especially when before entering the building there is a sign stating collared shirts and respectable pants/shorts are a must. I was the only person checking in that wasn't in their button down shirt (I got away with a polo shirt).
@@ -26,5 +28,11 @@ Once you're ready to go and practice, there is another long tunnel opposite of t
 
 Outside in the starting area are all the carts and bags with the staff whipping them onto the carts and bringing them around. In each of the carts is also a customary bottle of cold tea for the especially hot day. Complete with plastic cups to reuse, this was a very welcome touch. I didn't feel the need to purchase any extra drinks. Aside from that, it was like any other golf cart. But that big Thermos bottle of cold tea isn't something I'll forget easily. That's good service and it gets refilled during lunch.
 
-### WE'RE TALKIN' 'BOUT PRACTICE
+***
+
+### Pre-Round
+
+Before walking onto the practice green, it's always necessary to make a stop at the caddy window for a crisp scorecard,  fresh ball marker, and for this course, a brand new metal pitch fork! I've seen tons of courses that have branded plastic pitch forks, but this is the first course that I have seen that has branded metal pitch forks. I still have my trusty plastic pitch fork that I will use until it breaks, but the novelty of a metal pitch fork that was free is still going to be something that won't be easily forgotten.
+
+
 
