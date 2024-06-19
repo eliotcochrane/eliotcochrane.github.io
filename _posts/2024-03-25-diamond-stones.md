@@ -129,15 +129,15 @@ Onwards your skis are sharp and can be dangerous. Be aware to not overly grippin
 
 ### Simple Takeaways
 
-1. **Fine Stones May Not Be Necessary**
+**Fine Stones May Not Be Necessary**
 
 Fine stones are great for providing a great finish as though you were a ski racer. But for more than 95% of the people skiing out there today, a mirror-like edge finish is probably not necessary. Save yourself some time and just end at medium.
 
-2. **Taking Less Is More**
+**Taking Less Is More**
 
 We are using diamond stones because they are easy but they also have another benefit. You are prolonging the life of your ski. Instead of removing a large amount of excess edge material using an edge removal machine or a traditional file, diamond stones remove the least amount of material and can allow you to use the ski for many more years to come.
 
-3. **Routine Maintenance**
+**Routine Maintenance**
 
 Instead of waiting until the ski edge is severely dull, using diamond stones periodically can help ensure that you are ready at any time to hit the hard-packed or icy slopes in the event that you can't tune the night before. Even on blizzard days, with the right winds there are always moments where you'll find icy spots and having a proper edge at any time can give you the stability to not quiver on ice.
 
