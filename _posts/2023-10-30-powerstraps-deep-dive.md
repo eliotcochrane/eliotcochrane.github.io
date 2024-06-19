@@ -2,7 +2,7 @@
 layout: post
 title: "CARVING CODEX: Power Straps"
 author: "Eliot Cochrane"
-categories: off-season,equipment
+categories: ['off-season', 'equipment']
 tags: ["Carving Codex", "Power Straps", "Ski Boot Accessories", "Skiing Gear", "Precision and Control", "Customization", "Elastic Power Straps", "Static Power Straps", "Booster Straps", "Ski Boot Manufacturer Options", "Skiing Performance", "Skiing Comfort", "Skiing Equipment", "Ski"]
 image: head-power-strap.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "JMA Forecast: Winter 23/24"
 author: "Eliot Cochrane"
-categories: off-season,japan
+categories: ['off-season', 'japan']
 tags: ["Japan ski culture", "skiing in Japan", "winter sports", "El Niño impact", "ski resorts", "seasonal weather predictions", "climate challenges", "skiing conditions", "winter travel", "skiing surprises"]
 image: jma-top-banner.jpeg
 ---

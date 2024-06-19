@@ -2,7 +2,7 @@
 layout: post
 title: "Volunteer Work"
 author: "Eliot Cochrane"
-categories: off-season,volunteer,japan
+categories: ['off-season', 'volunteer', 'japan']
 tags: ["ski", "preseason", "preparation", "volunteer", "local", "volunteer work", "winter setup", "ski area preparation", "trail maintenance", "lift inspection", "volunteer contributions", "community spirit", "winter skiing", "Japanese skiing", "ski safety", "ski area maintenance", "skiing volunteers", "winter preparations"]
 image: 2023-yuda-halfcut2.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "TUNING: Diamond Stones"
 author: "Eliot Cochrane"
-categories: off-season,japan,tuning,
+categories: ['off-season', 'japan', 'tuning']
 tags: ["Diamond Stones", "Ski Tuning", "Edge Maintenance", "Beginner Skier", "Winter Sports", "Ski Gear", "Ski Equipment", "Tuning Tools", "Diamond Stone Set", "Ski Edge Care", "Skiing Tips", "Skiing Techniques", "Winter Maintenance", "Ski Edge Tuning", "Skiing Gear"]
 image: diamond-stone-4.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "AKITA: Tazawako Ski Resort"
 author: "Eliot Cochrane"
-categories: japan,skiing,local,choumin
+categories: ['japan', 'skiing', 'local', 'choumin']
 tags: ["Tazawako Ski Resort", "Tohoku", "Lake Tazawa", "Skiing", "Snowboarding", "Winter Sports", "Events", "Travel", "Morioka", "Iwate Prefecture", "Mountain Views", "Ski Resort Access", "Choumin", "Local Hills", "Japan Skiing"]
 image: tazawako-3.jpeg
 ---

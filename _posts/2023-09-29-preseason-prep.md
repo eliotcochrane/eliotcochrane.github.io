@@ -2,7 +2,7 @@
 layout: post
 title: "PRESEASON: Fitness"
 author: "Eliot Cochrane"
-categories: off-season,fitness
+categories: ['off-season', 'fitness']
 tags: ["Ski", "Preseason", "Fitness", "Running", "Motivation", "Exercise", "Off-season", "Preseason Fitness", "Skiing Preparation", "Winter Sports", "Skiing Technique", "Strength Training", "Flexibility Exercises", "Endurance Training", "Recovery Methods", "Stay Motivated", "Setting Goals", "Variety in Exercise", "Visualization", "Health Benefits", "Skiing Performance", "Snow Sports", "Winter Fitness"]
 image: running-shoes-1.jpeg
 ---

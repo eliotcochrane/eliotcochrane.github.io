@@ -2,7 +2,7 @@
 layout: post
 title: "Hachimantai Resort Slalom"
 author: "Eliot Cochrane"
-categories: japan,skiing,racing,local
+categories: ['japan', 'skiing', 'racing', 'local']
 tags: ["skiing", "ski racing", "Japan", "FIS Alpine World Championships", "Shizukuishi", "racing fans", "ski setup", "ski race", "ski racing culture", "Hachimantai Resort Panorama", "race course", "results", "Choumin", "local ski hills"]
 image: panorama-SL-2.jpeg
 ---

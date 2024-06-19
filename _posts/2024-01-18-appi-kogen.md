@@ -2,7 +2,7 @@
 layout: post
 title: "IWATE: Appi Kogen Resort"
 author: "Eliot Cochrane"
-categories: japan,training,fitness,skiing,technique,choumin
+categories: ['japan', 'training', 'fitness', 'skiing', 'technique', 'choumin']
 tags: ["Appi Kogen Resort", "Winter Sports", "Skiing Destinations", "Snow Grooming", "Iwate Prefecture", "International Schools", "Foreign Tourism", "Ski Resort Business", "Season's Pass Discounts", "Mountain Lifestyle"]
 image: appi-ski-5.jpeg
 ---

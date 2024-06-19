@@ -2,7 +2,7 @@
 layout: post
 title: "AKITA: Jeunesse Kurikoma"
 author: "Eliot Cochrane"
-categories: japan,skiing,local,choumin
+categories: ['japan', 'skiing', 'local', 'choumin']
 tags: ["Jeunesse Kurikoma", "Akita", "Ski Area", "Hidden Gem", "Southern Mountains", "Onsen Getaway", "Winter Retreat", "Snow Sports", "Powder Skiing", "Peaceful", "Mountain Drive", "Local Skiers", "Skiing at Your Pace", "Accommodations", "Winter Travel"]
 image: jeunesse-kurikoma-4.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Lost Art Of Carving"
 author: "Eliot Cochrane"
-categories: japan,training,fitness,skiing,technique
+categories: ['japan', 'training', 'fitness', 'skiing', 'technique']
 tags: ["skiing", "carving", "on piste", "off piste", "snowsports", "ski technique", "ski confidence", "edge control", "ski fitness", "ski training", "skier awareness", "powder turns", "skier strength", "skier endurance", "ski journey", "ski culture", "winter fun", "winter sports", "snow fall", "skiing fundamentals", "ski film", "ski fitness", "skiing terrain", "mental strength", "skiing tips"]
 image: eliot_carving_yuda.jpeg
 ---
