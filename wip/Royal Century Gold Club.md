@@ -32,7 +32,22 @@ Outside in the starting area are all the carts and bags with the staff whipping 
 
 ### Pre-Round
 
-Before walking onto the practice green, it's always necessary to make a stop at the caddy window for a crisp scorecard,  fresh ball marker, and for this course, a brand new metal pitch fork! I've seen tons of courses that have branded plastic pitch forks, but this is the first course that I have seen that has branded metal pitch forks. I still have my trusty plastic pitch fork that I will use until it breaks, but the novelty of a metal pitch fork that was free is still going to be something that won't be easily forgotten.
+Before walking onto the practice green, it's always necessary to make a stop at the caddy window for a crisp scorecard,  fresh ball marker, and for this course, a brand new metal pitch fork! I've seen tons of courses that have branded plastic pitch forks, but this is the first course that I have seen that has branded metal pitch forks. I still have my trusty plastic pitch fork that I will use until it breaks, but the novelty of a metal pitch fork that was free is still going to be something that won't be easily forgotten. You don't see a branded metal pitch fork that is open for the taking. I still haven't used it yet so it might be the cheapest of the cheap.
+
+As for the usual practice area, there is a putting green and also a range to warmup the longer clubs. Unfortunately I didn't know about the range until after I was done when I saw the signs on the way back to the clubhouse.
+
+The main practice piece is the practice green. There is only one green with a small hill on one side to help practice breaking putts and pace up or down slopes. The grass on greens were pretty homogenous all the way from the practice green to the 18th.
 
 
+### The Course
+
+#### Tee Grounds
+
+THe tee grounds throughout the round were appropriately designed for the mens tee
+#### Fairways
+#### Rough
+#### Bunker
+#### Greens
+#### Marking
+but there were a surprising number of holes with slight damage. These being from excessive water pooling and sudden heating of said water. These are most likely left over from the previous season as it was a problem at many clubs around Tohoku.
 
