@@ -8,11 +8,13 @@ image: picture.jpeg
 ---
 
 ## <center>Royal Century Golf Club</center>
-### <center>Arnold in Akita</center>
+### <center>Tranquility and Challenge</center>
 
 ***
 
 Nestled in the mountains of Daisen in Akita Prefecture lies a golf course with a certain flair from another country and another generation. Separated from the cities and above the rice fields lies a course that doesn't feel very Japanese outside of the menu at lunch. While it may be polarizing in an economy that is steadily getting more and more difficult for a newer generation to start playing golf, Royal Century Golf Club maintains as best it can to have prime service and provide a great experience.
+
+Described with a focus on strategically challenging Par 4's, distance alone is not going to reward you. This course touts rewarding players who boldly challenge the course while punishing players who back down. Trying to create a challenging tension of combining golfs aspects of sport and game to present a course that feels rewarding for those who step up to the challenge.
 
 ***
 
@@ -41,12 +43,32 @@ The main practice piece is the practice green. There is only one green with a sm
 
 ### The Course
 
+*Course Statistics*
+| Tee | Distance (yds) | Course Rating | | Par |
+| Forward Tee | 5139 | Men: 64.6 / Women: 69.0 | 72 |
+| Competition Tee | 6834 | Men: 72.6 / 79.6 | 72 |
+
 #### Tee Grounds
 
-THe tee grounds throughout the round were appropriately designed for the mens tee
+The tee grounds throughout the round were appropriately designed for the back tees. Unfortunately though, many of the forward tees were at a significant disadvantage by elevation changes in a country where the average age of golfers is significantly higher than in other countries. For many short distance players, the tees can present a challenge within themselves and may feel limiting. Also some of the tee locations, while being significantly forward, also did not have any of the mystique that the back tees did.
+
+Aside from the layout, the tee boxes were also not as green and covered in grass as would be expected for such a price tag to play. ALso, many of the tee boxes did not have sand available for those that do take a divot, especially on Par 3's.
+
 #### Fairways
+
+This is where the course really shines. The fairways were spectacular. Of course there were past divots, but aside from that the fairways were smooth, cut cleanly, and a perfect height for the amateur golfer. None of the areas were cut extremely short or left extremely long due to imperfections in the terrain.
+
+Each of the holes had a very clear separation from the fairway and the rough. Unfortunately, there was no second cut between the fairway and the rough but the quality of the fairway itself more than made up for this fact.
+
 #### Rough
+
+The following weekend was the club tournament for the members who wanted to take part in the club qualifier for the Iwate Prefectural Amateur Golf Tournament. For this, the grass was particularly longer than usual for a course in Japan. Japan tends to have relatively short rough compared to other countries as standard.
+
+The grass was quite thick for amateurs and could have been significantly more intimating than usual for the average Japanese golfer. As a foreigner who is quite active, I found this rough to be quite easy to glide a club through. More often than not though, this produced fliers which made distance control an important decision when choosing clubs.
+
 #### Bunker
+
+As this is a more premium course,
 #### Greens
 #### Marking
 but there were a surprising number of holes with slight damage. These being from excessive water pooling and sudden heating of said water. These are most likely left over from the previous season as it was a problem at many clubs around Tohoku.
