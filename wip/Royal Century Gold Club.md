@@ -2,7 +2,7 @@
 layout: post
 title: "GOLF: Royal Century Golf Club"
 author: "Eliot Cochrane"
-categories: ['summer', 'off-season', 'volunteer', 'golf']
+categories: ['summer', 'off-season', 'golf']
 tags: [tag 1,tag 2]
 image: picture.jpeg
 ---
@@ -62,14 +62,48 @@ Each of the holes had a very clear separation from the fairway and the rough. Un
 
 #### Rough
 
-The following weekend was the club tournament for the members who wanted to take part in the club qualifier for the Iwate Prefectural Amateur Golf Tournament. For this, the grass was particularly longer than usual for a course in Japan. Japan tends to have relatively short rough compared to other countries as standard.
+The following weekend was the club tournament for the members who wanted to take part in the club qualifier for the yearly club championship at the end of the month. For this, the grass was particularly longer than usual for a course in Japan. Japan tends to have relatively short rough compared to other countries as standard.
 
 The grass was quite thick for amateurs and could have been significantly more intimating than usual for the average Japanese golfer. As a foreigner who is quite active, I found this rough to be quite easy to glide a club through. More often than not though, this produced fliers which made distance control an important decision when choosing clubs.
 
 #### Bunker
 
-As this is a more premium course,
-#### Greens
-#### Marking
-but there were a surprising number of holes with slight damage. These being from excessive water pooling and sudden heating of said water. These are most likely left over from the previous season as it was a problem at many clubs around Tohoku.
+As this is a more premium course, the bunkers are properly prepared. The edges of the bunkers are relatively clear and cut well. Most likely with the club championship qualifier being that weekend. Each of the bunker shapes is also pleasing to the eye but often times in tricky positions for those with shorter club distances.
 
+The sand within the bunkers was quite different from what I was expecting. Often times many areas will get sand that is as bright as they can find. Many other courses go for the sand that is typically found on the televised tournaments. Yet the Royal Century Golf Club has sand that is larger granules and also speckled with black sand. It's smooth like find sand  but the larger granules prevent the club from possibly sticking. It's great for amateurs who might not be as willing to open the face of the club and show the bunker some bounce. It was a new sand for me but I was pleasantly surprised.
+
+#### Greens
+
+The greens had definitely seen better days. Many of the edges of the green were plucked and switched with parts of the center of the green to keep coverage of the green. Without any plug switches the grass would be a little bit sparse. On top of that the pitch marks were plentiful with no one repairing them and dead patches on almost every green.
+
+To make things even worse, parts of the green were fully dead. These areas being from excessive water pooling and sudden heating of any pooled water. A variety of reasons could be as to why but I don't want to speculate the situation. These dead patches are most likely left over from the previous season as it was a problem at many clubs around Tohoku.
+
+The size of the greens themselves was quite comparable to greens at other large clubs and the green speed matched the practice greens comparably. The undulations, elevation changes, and overall ball rolling shape was easy to read and predict. Not to say that the greens were easy, but that they weren't trying to trick you with any vision trickery like some other courses might do.
+
+#### Marking
+
+Be prepared for no distance markers. All other signage is appropriate and easy to see and understand. Out of bounds, hazards, and penalty areas are all clearly marked. Everything is OK, except for your relation to the hole. To put it clearly, there were no yardage markers aside from the tee to hole yardage sign on the tee ground. 
+
+This was greatly infuriating as I had to be reliant on my rangefinder. On the market, there are many other great devices to see your position on the goal relative to the hole, but many of those devices are aimed at a North American or European market and do not have lesser known courses in Asia mapped. Be prepared with a rangefinder and an extra battery (just in case, you never know...).
+
+### Lunch Break
+
+After the first 9 holes, there is a mandatory lunch break. After clearing your shoe soles of dirt and debris as well as the basic cleaning with a wet and dry cloth, your free to head to the dining room. Inside you will be seated by a waiter or waitress with water soon on the way.
+
+The menu isn't as extensive as high end restaurants because they are serving a smaller market, but the menu at Royal Century GC was more than enough to satisfy anyone. With foods ranging from hot to cold and vegetable heavy to meat heavy foods, they have enough choice to help fuel you for the next 9 holes.
+
+The service was excellent and the time from food orders to served on the table was surprisingly fast. This matched with their ample lunch break schedule of about 45 minutes, meant you had a lot of time to eat, drink, and talk amongst your group. Upon your return to the cart, your complimentary tea will be refilled and your used cups taken and replaced with me cleaned cups in a plastic sleeve.
+
+Now you're ready to take on the next 9 holes!
+
+### Post Round
+
+After the round, upon returning the cart to the club house you will claim your things and also check that all of your clubs are present and not forgotten somewhere on the course. After checking you have all of your belongings, you may return to the club house for a post round onsen bath.
+
+The bath is free and towels are free to use but not take home. Many people will bring a change of clothes but if you have the same clothes it is OK too. Here you may use the onsen just a though it were a regular onsen. Be courteous and clean when you use the onsen bath.
+
+### Overall Experience
+
+The Royal Century Golf Club is a step above other places but also falls behind in others. The service is great, amenities are fantastic, and the course layout and design are great. But poor maintenance over the years in places like the tee grounds and greens leave some of the most important areas left to be desired. The core experience is the course itself and sometimes it left a bad taste in my mouth from lack of grass on some tee boxes and dead spots located on some greens with plug holes surrounding some greens so as to rehabilitate the green.
+
+But overall, I was pleasantly surprised and had an overall great experience. Don't forget to bring a rangefinder and also a nice set of clothes to wear to the course! WIth the right friends, any of the shortcomings will be soon forgotten.
