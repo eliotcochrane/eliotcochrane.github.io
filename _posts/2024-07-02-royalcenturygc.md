@@ -63,6 +63,9 @@ The main practice piece is the practice green. There is only one green with a sm
 | Forward Tee | 5139 | Men: 64.6 / Women: 69.0 | 72 |
 | Competition Tee | 6834 | Men: 72.6 / 79.6 | 72 |
 
+![Course layout for Royal Century Golf Club](/assets/img/RoyalCenturyGC-15.jpeg)
+*Photo: Course layout for 18 holes at Royal Century Golf Club. (Source: Royal Century Golf Club)*
+
 #### Tee Grounds
 
 The tee grounds throughout the round were appropriately designed for the back tees. Unfortunately, though, many of the forward tees were at a significant disadvantage due to elevation changes in a country where the average age of golfers is significantly higher than in other countries. For many short-distance players, the tees can present a challenge within themselves and may feel limiting. Also, some of the tee locations, while being significantly forward, also did not have any of the mystique that the back tees did.
@@ -131,6 +134,8 @@ Now you're ready to take on the next 9 holes!
 After the round, upon returning the cart to the clubhouse, you will claim your things and also check that all of your clubs are present and not forgotten somewhere on the course. After checking you have all of your belongings, you may return to the clubhouse for a post-round onsen bath.
 
 The bath is free, and towels are free to use but not take home. Many people will bring a change of clothes, but if you have the same clothes, it is OK too. Here you may use the onsen just as though it were a regular onsen. Be courteous and clean when you use the onsen bath.
+
+***
 
 ### Overall Experience
 
