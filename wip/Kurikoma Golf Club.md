@@ -7,14 +7,16 @@ tags: [tag 1,tag 2]
 image: picture.jpeg
 ---
 
-## <center>Royal Century Golf Club</center>
-### <center>Tranquility and Challenge</center>
+## <center>Kurikoma Golf Club</center>
+### <center>Premium Accessibility</center>
 
 ***
 
-Nestled in the mountains of Daisen in Akita Prefecture lies a golf course with a certain flair from another country and another generation. Separated from the cities and above the rice fields lies a course that doesn't feel very Japanese outside of the menu at lunch. While it may be polarizing in an economy that is steadily getting more and more difficult for a newer generation to start playing golf, Royal Century Golf Club maintains as best it can to have prime service and provide a great experience.
+Weaving holes throughout the red pine forest within Oshu City, Kurikoma Golf Club provides a great view of Mt. Komagatake as you make your way through the course. Designed with the idea of not modifying the natural contouring, the relatively flat course is complimented by the natural undulations throughout the course to give an elegant experience that leaves a taste to come back for more.
 
-Described with a focus on strategically challenging Par 4's, distance alone is not going to reward you. This course touts rewarding players who boldly challenge the course while punishing players who back down. Trying to create a challenging tension of combining golfs aspects of sport and game to present a course that feels rewarding for those who step up to the challenge.
+Originally built in 1978 with 18 holes, a further 9 hole expansion was built in 1990 due to the financial bubble. During the Japanese Bubble Economy from 1986 to 1991, access to expendable funds was more common and golf became a sport for the people. This rush for golf pushed Kurikoma Golf Club to invest in a further 9 holes to accommodate the appetite.
+
+Claiming to be one of the top 
 
 ***
 
