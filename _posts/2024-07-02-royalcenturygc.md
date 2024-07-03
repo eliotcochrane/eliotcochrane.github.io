@@ -61,10 +61,10 @@ The main practice piece is the practice green. There is only one green with a sm
 | Tee | Distance (yds) | Course Rating | Par |
 | --- | --- | --- | --- |
 | Forward Tee | 5139 | Men: 64.6 / Women: 69.0 | 72 |
-| Competition Tee | 6834 | Men: 72.6 / 79.6 | 72 |
+| Competition Tee | 6834 | Men: 72.6 / Women: 79.6 | 72 |
 
 ![Course layout for Royal Century Golf Club](/assets/img/RoyalCenturyGC-15.jpeg)
-*Photo: Course layout for 18 holes at Royal Century Golf Club. (Source: Royal Century Golf Club)*
+*Photo: Course layout for 18 holes at Royal Century Golf Club. Source: Royal Century Golf Club*
 
 #### Tee Grounds
 

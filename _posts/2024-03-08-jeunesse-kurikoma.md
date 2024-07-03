@@ -46,7 +46,7 @@ Here, there are so few people that at any given time, there is almost no wait at
 ### Mountain Layout
 
 ![Map of Jeunesse Kurikoma](/assets/img/jeunesse-kurikoma-1.jpeg)
-*Photo: Detailed map of Jeunesse Kurikoma.
+*Photo: Detailed map of Jeunesse Kurikoma.*
 
 Shuffling skiers and snowboarders up the mountain are three lifts, the first pair-lift is on the skier's far left. This is the beginner slope but can be painful for beginners as the long slope to the lift is extremely flat and difficult to keep enough speed to return to the lift for beginners.
 
