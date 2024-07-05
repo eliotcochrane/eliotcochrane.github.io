@@ -47,7 +47,7 @@ As winter approaches, every skier anxiously awaits the first dusting and hopes f
 -**Visualize Success:** Spend a few minutes each day to envision your perfect ski day. Imagine the sensation of gliding down the slope or picture yourself conquering challenging terrain. Visualization can boost your confidence and motivation as the season gets closer.
 
 > ![Computer screen showing various running data from GARMIN Connect](/assets/img/running-data-1.jpeg)
-*Photo: Computer screen showing various running data from GARMIN Connect*
+*Photo: Computer screen showing various running data from GARMIN Connect.*
 
 #### Final Thoughts
 
