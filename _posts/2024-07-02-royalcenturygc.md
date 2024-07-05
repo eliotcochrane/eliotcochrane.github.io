@@ -145,4 +145,3 @@ But overall, I was pleasantly surprised and had an overall great experience. Don
 
 ![Cart Path leading to Hole 10 at Royal Century Golf Club.](/assets/img/RoyalCenturyGC-6.jpeg)
 *Photo: Cart Path leading to Hole 10 at Royal Century Golf Club.*
-
