@@ -32,7 +32,7 @@ After parking, you'll check in and head downstairs to the locker room and get ch
 
 #### Driving Range
 
-Across the road from the clubhouse is a 250yd driving range. There are eight bays with soft mats with plenty of give to not hurt any muscles. A 100円 coin will give you 15 balls ranging from simple range balls to premium lost balls like Titleist ProV1's. The range is also open before and after the round so if you feel that something needs work after the round you are free to do so.
+Across the road from the clubhouse is a 250yd driving range. There are fifteen bays with soft mats with plenty of give to not hurt any muscles. A 100円 coin will give you 15 balls ranging from simple range balls to premium lost balls like Titleist ProV1's. The range is also open before and after the round so if you feel that something needs work after the round you are free to do so.
 
 #### Putting Greens
 
@@ -40,10 +40,20 @@ Before stepping onto the course, a must do is warming up arguably the most impor
 
 ### The Course
 
+Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 different course ratings for what courses you play.
+
 *Course Statistics*
-| Tee | Distance (yds) | Course Rating | | Par |
-| Forward Tee | 5139 | Men: 64.6 / Women: 69.0 | 72 |
-| Competition Tee | 6834 | Men: 72.6 / Women: 79.6 | 72 |
+**Back Tee**
+| Course Routing | Distance (yds) | Course Rating | Par |
+| East → South | 6943 | 80.1 | 72 |
+| South → West | 6845 | 79.6 | 72 |
+| West → East | 6928 | 79.5 | 72 |
+
+**Regular Tee**
+| Course Routing | Distance (yds) | Course Rating | Par |
+| East → South | 6300 | 76.5 | 72 |
+| South → West | 6228 | 76.1 | 72 |
+| West → East | 6300 | 76.0 | 72 |
 
 #### Tee Grounds
 
@@ -69,20 +79,31 @@ The bunkers at Kurikoma Golf Club are the typically sand that you would expect. 
 
 #### Greens
 
+The greens are what makes Kurikoma Golf Club different from most places. The greens are fairly fast, all homogenous grass types, but with a few dying spots here and there. It can't be helped because to keep the greens absolutely perfect would cost too much in resources.
 
+But where the greens are exceptional are for being fast **AND** receptive. Many courses have hard and fast greens that can feel infuriating sometimes. Kurikoma Golf Club really does make it feel accessible for amateurs to experience fast greens and also not have your ball land on the front of the green to have it roll off the back. The shape of the greens is also very supportive to amateurs too. WIth a two tier styled green, almost all of the greens with two tiers have the feel of a backstop. Another great addition for amateurs wanting to enjoy the game that may not have the best ball striking or strategy.
 
 #### Marking
 
+Distance markers and rule markers are clearly marked and visible. Each with the color written on the cart for visual reference. In addition, the flag is also color coded to the distance length wise. Pin placements are indicated by pin flag colors of blue, white, or red indicating front, middle, and back.
 
+On each fairway, excluding par 3's, there is also a fairway marker indicating yardage to the middle of the green. These markers are embedded in the ground so as not to impede the grounds crew. The color also matches the the post markers on each side of the fairway. The post markers indicate to the center of the green and positioned slightly ahead of the fairway marker which is to the front of the green.
 
 ### Lunch Break
 
+Typical play will have the mandatory lunch break as other clubs in Japan. With approximately 45 minutes to 50 minutes, you will have ample time to complete your meal and also prepare anything you might need for your second 9 holes.
 
+The lunch menu is fairly set with a few main dishes and hors d'oeuvres. Although many of these can be mixed with hot or cold dishes to match the season, the ingredients will not change. There is also quite a selection of drinks ranging from soft drinks of different variation to soft drinks.
 
 ### Post Round
 
+After 18 holes are finished, return to the clubhouse. There the staff will unload your cart and check for any lost items that they should be aware of. It's not uncommon for a wedge to be lost on a previous green. Ask the staff and they will ask for contact information. After checking you have all of your belongings, sign the sheet, and the staff will put your bag on the musical bag trolley.
 
+From here it is the cooling down experience of Japan. The ultimate way to wind down a day at the course is a stop at the onsen. Both the men's and women's locker room has a complimentary onsen that can be used at your leisure. It may be basic with showers and a large bath but it is more than enough. Here you can take a shower and clean yourself of the sweat and dirt and then slowly relax in the giant bath.
 
 ### Overall Experience
 
+Kurikoma Golf Club is not a place that you will forget easily. It's price for the service and golf experience you get is hard to match. Matched with three routes to play, there are also quite a few variations to change how you experience the course. Kurikoma Golf Club is really a great course that invite you back for more. The course might not seem challenging but that doesn't mean that it isn't fun.
+
+One note of caution... there are pig farms nearby. Sometimes the smell from the farms is quite heavy. This is wind and time of the year dependent.
 
