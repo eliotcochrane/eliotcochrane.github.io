@@ -24,6 +24,9 @@ Claiming to be one of the top woodland courses, it attracts people from all leve
 
 Driving to the club, like any other, you get little peeks at the course. Arriving at Kurikoma Golf Club, you will drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, you will be greeted by one or two staff members who will take your bag, put it in a cart which sings a lovely tune, and also take your golf bag and put it near the entrance for you.
 
+![Front entrance to the clubhouse at Kurikoma Golf Club.](/assets/img/KurikomaGC-3.jpeg)
+*Photo: Front entrance to the clubhouse at Kurikoma Golf Club.*
+
 After parking, you'll check in and head downstairs to the locker room to get changed. It's pretty standard from there. When you're ready, it's time to warm up.
 
 ***
@@ -37,6 +40,9 @@ Across the road from the clubhouse is a 250-yard driving range. There are fiftee
 #### Putting Greens
 
 Before stepping onto the course, warming up arguably the most important club in the bag, the putter, is a must-do. There are two greens with very little vertical change, but they are different. One is relatively flat for a general putting warm-up, and the other is still relatively flat but sloped one way across the whole green to get a feel for how putts will break.
+
+![One of the two putting greens outside the clubhouse at Kurikoma Golf Club.](/assets/img/KurikomaGC-5.jpeg)
+*Photo: One of the two putting greens outside the clubhouse at Kurikoma Golf Club.*
 
 ### The Course
 
@@ -60,15 +66,24 @@ Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 d
 | South → West    | 6228           | 76.1          | 72  |
 | West → East     | 6300           | 76.0          | 72  |
 
+![Course layout at Kurikoma Golf Club.](/assets/img/KurikomaGC-13.jpeg)
+*Photo: Chart displaying the course layout at Kurikoma Golf Club.*
+
 #### Tee Grounds
 
 As this is a fairly flat course, the tees were mostly in a straight line toward the hole or dogleg on the appropriate holes. Only Hole 7 on the West routing was out of place for the forward tees. While Hole 7 on the West did have water in front of the tees for the regular and back, the front tees were on the other side of the water, immediately looking up a steep slope. While the distance may be appropriate, the steep slope may prove troublesome. But on the following Hole 8 on the West routing, the front tees were the only ones to clearly see the pin position on the left.
+
+![Hole 6 of East Course at Kurikoma Golf Club](/assets/img/KurikomaGC-7.jpeg)
+*Photo: View from tee ground of Hole 6 of East Course at Kurikoma Golf Club.*
 
 Above everything, the tee grounds were green and lush, and the par threes that are usually littered with pitch marks were filled as best they could. It's very clear that Kurikoma Golf Club puts time and care into their tee grounds. There were also no illusionary tricks by having the tee ground at an angle compared to the flow of the hole. All of the tee grounds were flat with no slight undulations.
 
 #### Fairways
 
 During the year, the fairways will change from hard to soft and then to hard due to the rainy season (梅雨 *tsuyu*). Thankfully, during the time of play, it was nice and firm, so the rollout was pretty good. Kurikoma Golf Club touts a relatively flat course with undulations throughout. This is pretty fair. There were some awkward downslopes and upslopes, but nothing that was extreme.
+
+![Hole 6 of East Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-8.jpeg)
+*Photo: Fairway of Hole 6 of East Course at Kurikoma Golf Club.*
 
 The fairway width also varied appropriately. A regular 250-yard drive will give you plenty of options to look at the green, but the further your ball goes, sometimes you may be too close to trees. But if your average yardage is between 270 and 290 yards, you will avoid all of the trouble if you can keep it on the same hole.
 
@@ -92,11 +107,17 @@ But where the greens are exceptional is in being fast **AND** receptive. Many co
 
 Distance markers and rule markers are clearly marked and visible. Each has the color written on the cart for visual reference. In addition, the flag is also color-coded to the distance lengthwise. Pin placements are indicated by pin flag colors of blue, white, or red, indicating front, middle, and back.
 
+![View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-11.jpeg)
+*Photo: View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.*
+
 On each fairway, excluding par 3's, there is also a fairway marker indicating yardage to the middle of the green. These markers are embedded in the ground so as not to impede the grounds crew. The color also matches the post markers on each side of the fairway. The post markers indicate the center of the green and are positioned slightly ahead of the fairway marker, which is to the front of the green.
 
 ### Lunch Break
 
 Typical play will have the mandatory lunch break as other clubs in Japan. With approximately 45 to 50 minutes, you will have ample time to complete your meal and also prepare anything you might need for your second 9 holes.
+
+![View of the clubhouse from the practice greens at Kurkikoma Golf Club.](/assets/img/KurikomaGC-4.jpeg)
+*Photo: View of the clubhouse from the practice greens at Kurkikoma Golf Club.*
 
 The lunch menu is fairly set with a few main dishes and hors d'oeuvres. Although many of these can be mixed with hot or cold dishes to match the season, the ingredients will not change. There is also quite a selection of drinks ranging from soft drinks of different variations to alcoholic beverages.
 
@@ -109,5 +130,8 @@ From here, it is the cooling down experience of Japan. The ultimate way to wind 
 ### Overall Experience
 
 Kurikoma Golf Club is not a place that you will forget easily. Its price for the service and golf experience you get is hard to match. With three routes to play, there are quite a few variations to change how you experience the course. Kurikoma Golf Club is really a great course that invites you back for more. The course might not seem challenging, but that doesn't mean that it isn't fun.
+
+![View from Hole 4 tee ground overlooking Hole 6 green at Kurikoma Golf Club.](/assets/img/KurikomaGC-2.jpeg)
+*Photo: View from Hole 4 tee ground overlooking Hole 6 green at Kurikoma Golf Club.*
 
 One note of caution: there are pig farms nearby. Sometimes the smell from the farms is quite heavy. This is wind and time-of-the-year dependent.
