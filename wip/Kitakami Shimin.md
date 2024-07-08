@@ -37,32 +37,21 @@ Players ranging from juniors to seniors will spend their time before and after r
 
 ### The Course
 
-Kitakami Shimin is a 9-hole course. This means that you will play the same 9 holes twice but with different tee's each time.
+Kitakami Shimin is a 9 hole course. This means that you will play the same 9 holes twice but with different tee's each time.
 
 *Course Statistics*
+| Tee | Distance (yds) | Course Rating | Par |
+| --- | --- | --- | --- |
+| Ladies (Forward) | 5074 | 68.8 | 72 |
+| Regular | 6124 | 69.2 | 72 |
+| Back (Competition) | 6418 | 70.3 | 72 |
 
-**Back Tee**
-
-| Course Routing  | Distance (yds) | Course Rating | Par |
-|-----------------|----------------|---------------|-----|
-| East → South    | 6943           | 80.1          | 72  |
-| South → West    | 6845           | 79.6          | 72  |
-| West → East     | 6928           | 79.5          | 72  |
-
-**Regular Tee**
-
-| Course Routing  | Distance (yds) | Course Rating | Par |
-|-----------------|----------------|---------------|-----|
-| East → South    | 6300           | 76.5          | 72  |
-| South → West    | 6228           | 76.1          | 72  |
-| West → East     | 6300           | 76.0          | 72  |
-
-![Course layout at Kurikoma Golf Club.](/assets/img/KurikomaGC-13.jpeg)
-*Photo: Chart displaying the course layout at Kurikoma Golf Club.*
+![Layout of the course at Kitakami Shimin](/assets/img/kitakamishimin-14.jpg)
+*Photo: Layout of the course at Kitakami Shimin.*
 
 #### Tee Grounds
 
-
+The tee grounds of Kitakami Shimin are some of the best in the 
 
 #### Fairways
 
