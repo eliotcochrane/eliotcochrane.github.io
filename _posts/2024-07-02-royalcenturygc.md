@@ -7,7 +7,8 @@ tags: ["royal century golf club", "golf course review", "golfing in japan", "aki
 image: RoyalCenturyGC-1.jpeg
 ---
 
-## <center>Royal Century Golf Club</center>
+## <center>AKITA: Royal Century Golf Club</center>
+#### <center>秋田県 - ロイヤルセンチュリーゴルフクラブ</center>
 ### <center>Tranquility and Challenge</center>
 
 ***
@@ -18,10 +19,10 @@ Described with a focus on strategically challenging Par 4's, distance alone is n
 
 ***
 
-### Club House
+### Clubhouse
 
 ![View of the club house in the distance at Royal Century GC.](/assets/img/RoyalCenturyGC-7.jpeg)
-*Photo: Club house in the distance at Royal Century GC.*
+*Photo: Clubhouse in the distance at Royal Century GC.*
 
 Upon entering the grounds and approaching the clubhouse, it tries to be very clear in the separation between the golf course and the entrance. With an entrance looking fit for a ski chalet or a Bond villain, the course staff will take your bag from your vehicle and prepare it on the cart to be ready for you when you're ready to begin. With cobbled stones just in front, it does provide a different atmosphere. Especially when before entering the building there is a sign stating collared shirts and respectable pants/shorts are a must. I was the only person checking in that wasn't in a button-down shirt (I got away with a polo shirt).
 

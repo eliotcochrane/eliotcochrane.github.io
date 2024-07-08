@@ -7,7 +7,8 @@ tags: ["kurikoma golf club", "premium accessibility", "golf course review", "osh
 image: KurikomaGC-10.jpeg
 ---
 
-## <center>Kurikoma Golf Club</center>
+## <center> IWATE: Kurikoma Golf Club</center>
+#### <center>岩手県 - 栗駒ゴルフクラブ</center>
 ### <center>Premium Accessibility</center>
 
 ***
@@ -20,7 +21,7 @@ Claiming to be one of the top woodland courses, it attracts people from all leve
 
 ***
 
-### Club House
+### Clubhouse
 
 Driving to the club, like any other, you get little peeks at the course. Arriving at Kurikoma Golf Club, you will drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, you will be greeted by one or two staff members who will take your bag, put it in a cart which sings a lovely tune, and also take your golf bag and put it near the entrance for you.
 
