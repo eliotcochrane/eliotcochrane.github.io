@@ -101,14 +101,14 @@ The bunkers at Kurikoma Golf Club are the typical sand that you would expect. At
 
 The greens are what make Kurikoma Golf Club different from most places. The greens are fairly fast, all homogenous grass types, but with a few dying spots here and there. It can't be helped because keeping the greens absolutely perfect would cost too much in resources.
 
+![View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-11.jpeg)
+*Photo: View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.*
+
 But where the greens are exceptional is in being fast **AND** receptive. Many courses have hard and fast greens that can feel infuriating sometimes. Kurikoma Golf Club really does make it feel accessible for amateurs to experience fast greens and also not have your ball land on the front of the green only to roll off the back. The shape of the greens is also very supportive to amateurs. With a two-tiered style, almost all of the greens with two tiers have the feel of a backstop. Another great addition for amateurs wanting to enjoy the game who may not have the best ball striking or strategy.
 
 #### Marking
 
 Distance markers and rule markers are clearly marked and visible. Each has the color written on the cart for visual reference. In addition, the flag is also color-coded to the distance lengthwise. Pin placements are indicated by pin flag colors of blue, white, or red, indicating front, middle, and back.
-
-![View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-11.jpeg)
-*Photo: View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.*
 
 On each fairway, excluding par 3's, there is also a fairway marker indicating yardage to the middle of the green. These markers are embedded in the ground so as not to impede the grounds crew. The color also matches the post markers on each side of the fairway. The post markers indicate the center of the green and are positioned slightly ahead of the fairway marker, which is to the front of the green.
 
