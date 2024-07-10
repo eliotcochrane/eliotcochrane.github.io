@@ -43,7 +43,8 @@ Players ranging from juniors to seniors will spend their time before and after r
 
 ### The Course
 
-Kitakami Shimin is a 9 hole course. This means that you will play the same 9 holes twice but with different tee's each time.
+![Layout of the course at Kitakami Shimin](/assets/img/kitakamishimin-14.jpg)
+*Photo: Layout of the course at Kitakami Shimin.*
 
 *Course Statistics*
 | Tee | Distance (yds) | Course Rating | Par |
@@ -52,8 +53,16 @@ Kitakami Shimin is a 9 hole course. This means that you will play the same 9 hol
 | Regular | 6124 | 69.2 | 72 |
 | Back (Competition) | 6418 | 70.3 | 72 |
 
-![Layout of the course at Kitakami Shimin](/assets/img/kitakamishimin-14.jpg)
-*Photo: Layout of the course at Kitakami Shimin.*
+Kitakami Shimin is a 9 hole course. This means that you will play the same 9 holes twice but with different tee's each time. In the picture below, the information seen is...
+
+| Tees | OUT | IN |
+| --- | --- | --- |
+| Regular | White | Blue |
+| Over 70 | Green | Orange |
+| Ladies | Red | Pink |
+
+![Tee rotation explanation at Kitakami Shimin](/assets/img/kitakamishimin-5.jpeg)
+*Photo: Tee rotation explanation at Kitakami Shimin.*
 
 #### Tee Grounds
 
@@ -76,17 +85,26 @@ That said, aside from the work they are doing to improve the fairways, what they
 
 The rough is usually cut quite short and the grass blades are quite strong. More often than not, the ball sits up nice and high. This rough is obviously left to grow longer for the club championship, but nine times out of ten the grass will be a manageable length and easy to get out of. It may leave your ball high enough to cause a lot of fliers. Once you know the lie is likely going to produce a flier, it is easy to compensate but for the regular golfer it may be difficult.
 
+![View of green on Hole 4 from tee ground of Hole 5 at Kitakami Shimin.](/assets/img/kitakamishimin-10.jpeg)
+*Photo: View of green on Hole 4 from tee ground of Hole 5 at Kitakami Shimin.*
+
 The rough though is really manageable and approachable for new golfers and also maintains the pace of play. No searching for lost balls because most of the time you can see your ball land from where you were. And you don't feel heavily penalized by having to hack your ball out of the rough with a wedge just to get it out.
 
 #### Bunker
 
 The bunkers have improved over the years. Talking with the members and regulars, over the past ten or so years the amount of members and interest in the course has risen. This gave Kitakami Shimin a larger budget for sand and bunker maintenance. What used to have pebbles strewn about is now replaced with fairly fine sand. It may not the absolute highest grade, but it is consistent and easy to get the club through without getting a rock between the club face and the ball.
 
+![Bunker on Hole 9 at Kitakami Shimin.](/assets/img/kitakamishimin-4.jpeg)
+*Photo: Bunker on Hole 9 at Kitakami Shimin.*
+
 The largest problem facing the bunkers is standing water. Japan is a humid and subtropical climate so it's not uncommon for sudden rain showers that overwhelm the drainage that was put in at the time of construction. The bunkers that do build up water seem to be commonly known and limited to about five over the whole course.
 
 #### Greens
 
 This is one of the few courses that on their website actually lists the type of grass used on their greens... bentgrass. You know this course is serious about their greens when they specifically monoculture their green that matches their climate. The greenskeepers do a lot of work to keep the greens in good condition.
+
+![Overlooking the green of Hole 2 at Kitakami Shimin.](/assets/img/kitakamishimin-7.jpeg)
+*Photo: Overlooking the green on Hole 2 at Kitakami Shimin.*
 
 The greens themselves are not overly complicated but can be fooling to the eye depending on the condition. Also with bentgrass, if the greens are freshly cut there will be close to no grain. So you can focus on the slope and try to get a good measure on what the ball will do in the near future.
 
@@ -154,7 +172,7 @@ Clearly, Kitakami Shimin is the golf club for the average amateur, and that's no
 | Hole 9 | Par 4 | 5 | | Hole 18 | Par 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | OUT | Par 36 | 39 | | IN | Par 36 | 40 |
-
+| --- | --- | --- | --- | --- | --- | --- |
 | OUT | IN | **TOTAL** |
 | 39 | 40 | **79** |
 
