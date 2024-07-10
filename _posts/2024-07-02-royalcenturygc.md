@@ -21,22 +21,22 @@ Described with a focus on strategically challenging Par 4's, distance alone is n
 
 ### Clubhouse
 
-![View of the club house in the distance at Royal Century GC.](/assets/img/RoyalCenturyGC-7.jpeg)
+![View of the clubhouse in the distance at Royal Century GC.](/assets/img/RoyalCenturyGC-7.jpeg)
 *Photo: Clubhouse in the distance at Royal Century GC.*
 
 Upon entering the grounds and approaching the clubhouse, it tries to be very clear in the separation between the golf course and the entrance. With an entrance looking fit for a ski chalet or a Bond villain, the course staff will take your bag from your vehicle and prepare it on the cart to be ready for you when you're ready to begin. With cobbled stones just in front, it does provide a different atmosphere. Especially when before entering the building there is a sign stating collared shirts and respectable pants/shorts are a must. I was the only person checking in that wasn't in a button-down shirt (I got away with a polo shirt).
 
-Upon going through the gateway, there is a long tunnel leading to a central room with a circular seating area. On the perimeter are different parts of the building from the locker rooms to the pro shop with a set of stairs leading to the dining room. Lining the walls are picturesque golf-themed watercolor painting reprints (unfortunately, none of them are based on RCGC). 
+Upon going through the gateway, there is a long tunnel leading to a central room with a circular seating area. On the perimeter are different parts of the building from the locker rooms to the pro shop with a set of stairs leading to the dining room. Lining the walls are picturesque golf-themed watercolor painting reprints (unfortunately, none of them are based on RCGC).
 
-![Panoramic view of the center of the club house at Royal Century GC.](/assets/img/RoyalCenturyGC-3.jpeg)
-*Photo: Panoramic view of the center of the club house at Royal Century GC.*
+![Panoramic view of the center of the clubhouse at Royal Century GC.](/assets/img/RoyalCenturyGC-3.jpeg)
+*Photo: Panoramic view of the center of the clubhouse at Royal Century GC.*
 
-The locker rooms are extremely clean and the lockers themselves are exceptionally wide. Keys attached to the scorecard holder are a simple but effective way to keep your belongings locked as many places are replacing keys with electronic systems. In the case that you do need to lock your scorecard holder, there are available lockers to do so as well. Although, this isn't very popular as most of the time you will be carrying your scorecard anyway. Anything that you purchase on the grounds will be charged to your scorecard holder and locker number. Once the round is finished, there is an onsen for cleaning up.
+The locker rooms are extremely clean, and the lockers themselves are exceptionally wide. Keys attached to the scorecard holder are a simple but effective way to keep your belongings locked as many places are replacing keys with electronic systems. In the case that you do need to lock your scorecard holder, there are available lockers to do so as well. Although, this isn't very popular as most of the time you will be carrying your scorecard anyway. Anything that you purchase on the grounds will be charged to your scorecard holder and locker number. Once the round is finished, there is an onsen for cleaning up.
 
 Once you're ready to go and practice, there is another long tunnel opposite the entrance that leads to the practice putting green. Reminiscent of an American football team or basketball team coming onto the field or court, the tunnel is long and littered with golf joke-themed pictures along the way. Unfortunately, they are reprints too. Just before exiting, there are drinks and ice cream available for purchase.
 
-![Tunnel leading from the club house to the starting area at Royal Century Golf Club.](/assets/img/RoyalCenturyGC-4.jpeg)
-*Photo: Tunnel leading from the club house to the starting area at Royal Century Golf Club.*
+![Tunnel leading from the clubhouse to the starting area at Royal Century Golf Club.](/assets/img/RoyalCenturyGC-4.jpeg)
+*Photo: Tunnel leading from the clubhouse to the starting area at Royal Century Golf Club.*
 
 Outside in the starting area are all the carts and bags with the staff whipping them onto the carts and bringing them around. In each of the carts is also a customary bottle of cold tea for the especially hot day. Complete with plastic cups to reuse, this was a very welcome touch. I didn't feel the need to purchase any extra drinks. Aside from that, it was like any other golf cart. But that big Thermos bottle of cold tea isn't something I'll forget easily. That's good service, and it gets refilled during lunch.
 
@@ -44,10 +44,10 @@ Outside in the starting area are all the carts and bags with the staff whipping 
 
 ### Pre-Round
 
-Before walking onto the practice green, it's always necessary to make a stop at the caddy window for a crisp scorecard, a fresh ball marker, and for this course, a brand new metal pitch fork! I've seen tons of courses that have branded plastic pitch forks, but this is the first course that I have seen that has branded metal pitch forks. I still have my trusty plastic pitch fork that I will use until it breaks, but the novelty of a metal pitch fork that was free is still going to be something that won't be easily forgotten. You don't see a branded metal pitch fork that is open for the taking. I still haven't used it yet, so it might be the cheapest of the cheap.
+Before walking onto the practice green, it's always necessary to make a stop at the caddy window for a crisp scorecard, a fresh ball marker, and for this course, a brand new metal pitchfork! I've seen tons of courses that have branded plastic pitchforks, but this is the first course that I have seen that has branded metal pitchforks. I still have my trusty plastic pitchfork that I will use until it breaks, but the novelty of a metal pitchfork that was free is still going to be something that won't be easily forgotten. You don't see a branded metal pitchfork that is open for the taking. I still haven't used it yet, so it might be the cheapest of the cheap.
 
-![Royal Century Golf Club scorecard and pitch fork.](/assets/img/RoyalCenturyGC-14.jpeg)
-*Photo: Royal Century Golf Club score card and (free) pitch fork.*
+![Royal Century Golf Club scorecard and pitchfork.](/assets/img/RoyalCenturyGC-14.jpeg)
+*Photo: Royal Century Golf Club scorecard and (free) pitchfork.*
 
 As for the usual practice area, there is a putting green and also a range to warm up the longer clubs. Unfortunately, I didn't know about the range until after I was done when I saw the signs on the way back to the clubhouse.
 

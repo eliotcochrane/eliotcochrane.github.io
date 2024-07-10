@@ -7,7 +7,7 @@ tags: ["kurikoma golf club", "premium accessibility", "golf course review", "osh
 image: KurikomaGC-10.jpeg
 ---
 
-## <center> IWATE: Kurikoma Golf Club</center>
+## <center>IWATE: Kurikoma Golf Club</center>
 #### <center>岩手県 - 栗駒ゴルフクラブ</center>
 ### <center>Premium Accessibility</center>
 
@@ -15,7 +15,7 @@ image: KurikomaGC-10.jpeg
 
 Weaving holes throughout the red pine forest within Oshu City, Kurikoma Golf Club provides a great view of Mt. Komagatake as you make your way through the course. Designed with the idea of not modifying the natural contouring, the relatively flat course is complemented by the natural undulations throughout, giving an elegant experience that leaves a taste to come back for more.
 
-Originally built in 1978 with 18 holes, a further 9-hole expansion was built in 1990 due to the financial bubble. During the Japanese Bubble Economy from 1986 to 1991, access to expendable funds was more common, and golf became a sport for the people. This rush for golf pushed Kurikoma Golf Club to invest in an additional 9 holes to accommodate the appetite.
+Originally built in 1978 with 18 holes, a further 9-hole expansion was built in 1990 due to the increased golf demand during the financial bubble. During the Japanese Bubble Economy from 1986 to 1991, access to expendable funds was more common, and golf became a sport for the people. This rush for golf pushed Kurikoma Golf Club to invest in an additional 9 holes to accommodate the appetite.
 
 Claiming to be one of the top woodland courses, it attracts people from all levels of golf in the area. Of course, the members have priority when it comes to tee times and tee selection (back tee is reserved for members), but visitors are regularly in the mix, and beginners are more often welcome than not. On top of that, Kurikoma Golf Club sponsors the prefectural player on the Japan Tour, Ren Yonezawa. Under new ownership, Kurikoma Golf Club is looking to expand its base of customers across the whole range within the sport of golf. That is certainly not the same to be said for some other courses.
 
@@ -23,7 +23,7 @@ Claiming to be one of the top woodland courses, it attracts people from all leve
 
 ### Clubhouse
 
-Driving to the club, like any other, you get little peeks at the course. Arriving at Kurikoma Golf Club, you will drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, you will be greeted by one or two staff members who will take your bag, put it in a cart which sings a lovely tune, and also take your golf bag and put it near the entrance for you.
+Driving to the club, like any other, you get little peeks at the course. Arriving at Kurikoma Golf Club, you will drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, you will be greeted by one or two staff members who will take your bag, put it in a cart which sings a lovely tune as it goes to the starting area, and also take your golf bag and put it near the entrance for you.
 
 ![Front entrance to the clubhouse at Kurikoma Golf Club.](/assets/img/KurikomaGC-3.jpeg)
 *Photo: Front entrance to the clubhouse at Kurikoma Golf Club.*
@@ -72,7 +72,7 @@ Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 d
 
 #### Tee Grounds
 
-As this is a fairly flat course, the tees were mostly in a straight line toward the hole or dogleg on the appropriate holes. Only Hole 7 on the West routing was out of place for the forward tees. While Hole 7 on the West did have water in front of the tees for the regular and back, the front tees were on the other side of the water, immediately looking up a steep slope. While the distance may be appropriate, the steep slope may prove troublesome. But on the following Hole 8 on the West routing, the front tees were the only ones to clearly see the pin position on the left.
+As this is a fairly flat course, the tees were mostly in a straight line toward the hole or dogleg on the appropriate holes. Only Hole 7 on the West routing was out of place for the forward tees. While Hole 7 on the West did have water in front of the tees for the regular and back, the front tees were on the other side of the water, immediately looking up a steep slope. While the distance may be appropriate, the steep slope may prove troublesome to a segment of golfers which already have a lack of height problem. But on the following Hole 8 on the West routing, the front tees were the only position to clearly see a pin position on the left from the tee ground.
 
 ![Hole 6 of East Course at Kurikoma Golf Club](/assets/img/KurikomaGC-7.jpeg)
 *Photo: View from tee ground of Hole 6 of East Course at Kurikoma Golf Club.*
