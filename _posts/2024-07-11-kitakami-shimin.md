@@ -159,6 +159,9 @@ It's hard to find where this club lacks other than the amenities of expensive cl
 
 Clearly, Kitakami Shimin is the golf club for the average amateur, and that's not to say it hasn't produced talent. The 2024 Iwate Amateur Champion was from Kitakami Shimin, and a current Japan Tour player from Kitakami Shimin was The Crowns 2024 champion. It's clear that Kitakami Shimin is a place that is accessible for newcomers and veterans alike to create a community that makes people want to love golf even more.
 
+![View of the course from the green on Hole 9 at Kitakami Shimin.](/assets/img/golfintro-5.jpeg)
+*Photo: View of the course from the green on Hole 9 at Kitakami Shimin.*
+
 ### My Score
 
 | Hole 1 | Par 4 | 4 | | Hole 10 | Par 4 | 5 |
