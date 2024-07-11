@@ -164,6 +164,8 @@ Clearly, Kitakami Shimin is the golf club for the average amateur, and that's no
 
 ### My Score
 
+| Hole # | Par| Score | | Hole # | |Par | Score |
+| --- | --- | --- | --- | --- | --- | --- |
 | Hole 1 | Par 4 | 4 | | Hole 10 | Par 4 | 5 |
 | Hole 2 | Par 5 | 5 | | Hole 11 | Par 5 | 5 |
 | Hole 3 | Par 4 | 5 | | Hole 12 | Par 4 | 5 |
