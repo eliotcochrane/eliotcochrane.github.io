@@ -178,6 +178,6 @@ Clearly, Kitakami Shimin is the golf club for the average amateur, and that's no
 | --- | --- | --- | --- | --- | --- | --- |
 | OUT | Par 36 | 39 | | IN | Par 36 | 40 |
 | --- | --- | --- | --- | --- | --- | --- |
-| OUT | IN | **TOTAL** |
+| **OUT** | **IN** | **TOTAL** |
 | 39 | 40 | **79** |
 
