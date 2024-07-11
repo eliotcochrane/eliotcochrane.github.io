@@ -44,7 +44,7 @@ Players ranging from juniors to seniors will spend their time before and after r
 ### The Course
 
 ![Layout of the course at Kitakami Shimin](/assets/img/kitakamishimin-14.jpg)
-*Photo: Layout of the course at Kitakami Shimin.*
+*Photo: Layout of the course at Kitakami Shimin. Source: Kitakami Shimin*
 
 *Course Statistics*
 | Tee | Distance (yds) | Course Rating | Par |
@@ -164,7 +164,7 @@ Clearly, Kitakami Shimin is the golf club for the average amateur, and that's no
 
 ### My Score
 
-| Hole # | Par| Score | | Hole # | |Par | Score |
+| Hole # | Par| Score | | Hole # |Par | Score |
 | --- | --- | --- | --- | --- | --- | --- |
 | Hole 1 | Par 4 | 4 | | Hole 10 | Par 4 | 5 |
 | Hole 2 | Par 5 | 5 | | Hole 11 | Par 5 | 5 |
