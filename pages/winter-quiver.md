@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Equipment
-permalink: /equipment
+title: Winter Quiver
+permalink: /winter-quiver
 ---
 
 ## <center>The Winter Quiver</center>
