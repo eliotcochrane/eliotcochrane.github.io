@@ -10,24 +10,22 @@ permalink: /winter-quiver
 ***
 
 ## DRIVER
-###  PRGR TUNE 02
-#### Fire Express RR-B 6-TX
+###  HEAD: PRGR TUNE 02 10.5°
+#### SHAFT: Fire Express RR-B 6-TX
 ![Photo of PRGR Tune 02.](/assets/img/bag-prgr-driver.jpeg)
-*Photo: PRGR Tune 02 driver head.*
+*Photo: PRGR Tune 02 1W 10.5°*
 
+PRGR is not one of the major brands, but PRGR is always pushing the envelope for being such a minor company in the golf world. As a benefit from the Hole-In-One Insurance coverage by a friend, this driver was the first fully fitted club in my bag. More than anything, this club and shaft pairing drastically reduced severe hooks and slices. The miss is still two way but picking good targets now means that I can step up to the tee and not have doubt of where my ball is going to go.
 
+The club is great in terms of speed and head weighting but it's main drawback is a lack of an interchangeable sleeve. Once the club is glued together, there is no going back on the setup. The sleeve does add a lot of functionality but can also hurt for weighting.
 
 ## FAIRWAY WOOD
-### Rossignol Black Ops Sender Ti (187cm)
-![Photo of Rossignol Black Ops Sender Ti skis](/assets/img/2021-rossignol-blackops-sender-ti.jpeg)
-*Photo: 2021 Rossignol Black Ops Sender Ti*
+###  HEAD: Titleist TS2 18°
+#### SHAFT: Fire Express RR-B 7 TX
+![Photo of Titleist TS2 fairway wood.](/assets/img/bag-ts2-creek.jpg)
+*Photo: Titleist TS2 5W 18°*
 
-This is the go-to crud ski that opened my eyes to a possible one quiver. It never left me exhausted and it never left me wanting much more. It was the perfect balance.
-* Soft enough for skiing all day
-* Stiff enough to hold on ice
-* Wide enough for powder
-* Easy to manage side cut
-* Light enough to carry and hike
+For no known reason, this club works so well for me. It was bought used with a Speeder shaft which was too whippy. Even then, it was still producing a lot of speed. Once I got a matching shaft with the Hole-In-One Insurance coverage, this turned into a deadly club off the tee and also a really good "Send it!" club on par fives. THe interchangeable sleeve means that any sort of swing change over time (hopefully under the watchful eye of a coach) can mean that I can keep my clubs in the event that they do need to be changed slightly.
 
 ## BOOTS
 ### HEAD Raptor WCR 4 (2022)
