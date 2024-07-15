@@ -27,9 +27,12 @@ The club is great in terms of speed and head weighting but it's main drawback is
 
 For no known reason, this club works so well for me. It was bought used with a Speeder shaft which was too whippy. Even then, it was still producing a lot of speed. Once I got a matching shaft with the Hole-In-One Insurance coverage, this turned into a deadly club off the tee and also a really good "Send it!" club on par fives. THe interchangeable sleeve means that any sort of swing change over time (hopefully under the watchful eye of a coach) can mean that I can keep my clubs in the event that they do need to be changed slightly.
 
-## BOOTS
-### HEAD Raptor WCR 4 (2022)
-![Photo of HEAD Raptor WCR 4 Ski boots](/assets/img/head-raptor-ski-boots.jpeg)
-*Photo: 2022 HEAD Raptor WCR 4*
+## HYBRID
+### TaylorMade 2020 SIM Gloire U5 23°
+![Photo of TaylorMade 2020 SIM Gloire U5.](/assets/img/bag-tm-gloire-utility.jpeg)
+*Photo: 2020 TaylorMade 2020 SIM Gloire U5*
 
-This boot changed my outlook on fit in a performance boot. After many years of custom fitting, this is the first where it all came together in one package. In 2022, the toe box had been expanded and during the 2021 season I was lucky to enough to test drive the boot a year early thanks to one of HEAD Japan's longest serving regional representative. Over three seasons, a few of the retention springs broke so some of the buckles are loose, the stretch on the power strap is too much and has been replaced with a Booster Strap, and the outer heel piece of the inner liner is falling apart. But no matter how many times I look at other boots, I always come back to it with joy. It's my comfortable cobbled mess.
+Everyone that takes a look in my bag takes this club out with a chuckle. The Gloire series is the brand most commonly associated with lower swing speed golfers such as seniors and ladies. Although the Gloire brand takes many of the same technologies from the flagships series of TaylorMade, it is commonly overlooked when looking for deals. This particular club was a bargain special to compliment the longest iron I have. While my longest iron will have a lower height and longer run out, utility/hybrid will get a higher peak and steeper descent angle. Each club has their uses throughout the course.
+
+## IRONS
+### Honma TR20V (#5〜AW)
