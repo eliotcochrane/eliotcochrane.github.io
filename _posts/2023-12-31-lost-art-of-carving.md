@@ -64,7 +64,7 @@ The mental fortitude developed through on-piste carving empowers skiers to tackl
 
 When we look at the skiing ads, it's easy to succumb to the obsession of off piste adventures. We all want to rush there and get the first powder of the day.
 
-However, carving on piste is the unsung hero of ski mastery. On th groomed slope, carving on piste can provide foundations for:
+However, carving on piste is the unsung hero of ski mastery. On the groomed slope, carving on piste can provide foundations for:
 * precision
 * versatility
 * strength
