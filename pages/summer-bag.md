@@ -76,4 +76,3 @@ Coming from a traditional blade putter, I was fitted into the center shafted des
 The most underrated tool for scoring in the golf bag. Sure, a golf ball is necessary for golf to happen, but so many people focus on the clubs in the bag and not the ball that goes into the hole. Balls can affect your golf in many ways and for each player, a different ball suits a different golfer. I migrated from a two-piece ball after playing a round with a fresh pro golfer at the time. Time after time I had great shots but couldn't stick the green. It was after the pro told me to hit three and none of them stuck, he threw me a sleeve of premium three-piece balls. All three hit the green and stopped dead. From that moment on, I knew that I could never go back to a two-piece ball.
 
 ![Photo of hole 9 at Kitakami Shimin at sundown.](/assets/img/golfintro-6.jpeg)
-
