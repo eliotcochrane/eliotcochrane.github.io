@@ -46,4 +46,28 @@ Honma makes clubs but they also make great shafts too. During the fitting proces
 ## WEDGES
 ### Cleveland RTX ZipCore (54° / 58°)
 ![Photo of Cleveland RTX ZipCore wedges.](/assets/img/bag-cleveland-rtx-zipcore.jpeg)
-*Photo: 
+*Photo: Cleveland RTX ZipCore*
+
+Opting for the mid bounce in the 54° and high bounce in the 58°, these are pretty forgiving in terms of wedges. But these were very light from the factory. After plastering weight all over the lower back of the wedges, they are finally in a good spot. For the average Japanese golfer, they may have been right on, but for a younger person with high swing speed and grip power, it was difficult to feel the head at first because of being too light. They are getting a little old and have a lot of wear on them, but they still stop a ball on hard greens so still good in my book.
+
+## CHIPPER
+### Cleveland Smart Sole 2.0 Chipper
+![Photo of Cleveland Smart Sole 2.0 Chipper](/assets/img/bag-chipper.jpeg)
+*Photo: Cleveland Smart Sole 2.0 Chipper*
+
+When this club is pulled out, the snickering and cackling always begins. Around the green sometimes there are many options, but I choose to use the easiest. Sometimes you have great lies and many options but other times there are those bare lies that make a putter seem like the best option until you see the random clumps of grass that turn your ball into a game of Plinko. This is where the chipper shines. The chipper gives the ball just enough flight to get over those clumps and get on the green safely to roll out. This club gets mocked at time and time again, but when I save par and my group members are all chunking or thinning a chip, I know I chose the right club.
+
+I'm also not the best on approaches so this club tends to get used quite a bit. Time and time again this club is a life-saver that I have come to embrace.
+
+## PUTTER
+### PING 2020 Tyne C
+![Photo of PING 2020 Tyne C](/assets/img/bag-ping-tyne-c.jpg)
+*Photo: PING 2020 Tyne C*
+
+Coming from a traditional blade putter, I was fitted into the center shafted dang design of the Tyne. Using the putting assessment app that PING has built, the shop staff had a few choices of putter that were best suited for me. From these, the Tyne C was the most appealing to me. The prior blade putter is still at home and is always a good refresher to get back on track to which club is best for me, but the PING Tyne C has been a reliable putter at this stage. The softer face can prove challenging at times for lag putting but it feels really nice.
+
+## BALL
+### Titleist Pro V1x
+![Photo of Titleist Pro V1x golf ball](/assets/img/bag-titleist-prov1x.jpeg)
+
+The most underrated tool in the golf bag. Sure, a golf ball is necessary for golf to happen, but so many people focus on the clubs in the bag and not the ball that goes in the hole.
