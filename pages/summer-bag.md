@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Summer Bag
-permalink: /winter-quiver
+permalink: /summer-bag
 ---
 
 ## <center>Summer Bag</center>
