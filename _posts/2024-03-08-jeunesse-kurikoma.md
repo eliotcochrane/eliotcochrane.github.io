@@ -39,7 +39,7 @@ Jeunesse Kurikoma is a ski area that defines peace and the ability to ski at you
 ![Overlooking the rest of the mountain from the third pair lift](/assets/img/jeunesse-kurikoma-7.jpeg)
 *Photo: View from the third pair lift overlooking Jeunesse Kurikoma.*
 
-I have been there multiple times specifically for powder up to my hips. While everyone went to the bigger places with fancier lifts, Jeunesse Kurikoma was powder all day because only 5%〜10% of the skiers were actually in the powder.
+I have been there multiple times specifically for powder up to my hips. While everyone went to the bigger places with fancier lifts, Jeunesse Kurikoma was powder all day. For a country that boasts it's powder skiing, much of the skiing population only skis groomers leaving only 5%〜10% of the skiers to actually ski in the powder.
 
 Here, there are so few people that at any given time, there is almost no wait at the lift lines. The runs may be short compared to other mountains, but there is no wait time. Especially at the quad, the runs may be shorter but the lift long is equally short so it feels like the perfect distance to get tired but not exhausted after each run.
 
@@ -48,26 +48,28 @@ Here, there are so few people that at any given time, there is almost no wait at
 ![Map of Jeunesse Kurikoma](/assets/img/jeunesse-kurikoma-1.jpeg)
 *Photo: Detailed map of Jeunesse Kurikoma.*
 
-Shuffling skiers and snowboarders up the mountain are three lifts, the first pair-lift is on the skier's far left. This is the beginner slope but can be painful for beginners as the long slope to the lift is extremely flat and difficult to keep enough speed to return to the lift for beginners.
+Shuffling skiers and snowboarders up the mountain are three lifts, the first pair-lift is on the far right looking up the mountain from the main lodge. This is the beginner slope but can be painful for beginners as the long slope to the lift is extremely flat and difficult to keep enough speed to return to the lift for beginners.
 
 ![Looking up the quad](/assets/img/jeunesse-kurikoma-12.jpeg)
 *Photo: View from the main quad looking up the main slope.*
 
-Directly in front of the lodge is the super-quad lift to bring skiers up mid-mountain. This is a quick lift that provides the most access and the smoothest ride. Giving access to the front-facing slopes and also the powder field between the first pair lift and the quad, this is the most popular lift on any given day.
+Directly in front of the lodge is the super-quad lift to bring skiers up mid-mountain. This is a quick lift that provides the most access and the smoothest ride. Giving access to the front-facing slopes and also the powder field between the first pair lift and the quad. This is by far the most popular lift on any given day. The main slope has two trails that mirror each other with a consistent slope broken up by two small plateaus that act as great stopping points for beginners and families. These plateaus though are great for jumps with the right speed! Be careful of who might be on the down-slope as you may not be able to see the landing.
 
-The final lift is the third pair lift from midway to the top. On powder day this is one of the more popular lifts. Anything surrounding the lift is ungroomed. With some steeps, some entry-level powder, and a return course to the rest of the mountain, Jeunesse Kurikoma is really "go at your own pace". Skiing under the lift is also no problem. The ski patrol may rescind this if snow conditions make it hazardous below the lift but in almost all situations it is fine to ski under the lift.
+The final lift is the third pair lift from midway to the top. On powder day this is one of the more popular lifts. Most of the trails linked to the lift are only groomed partly as entrances and exits while the core of the trail is ungroomed. With some steeps, some entry-level powder, and a return course to the rest of the mountain, Jeunesse Kurikoma is really "go at your own pace". Skiing under the lift is also no problem. The ski patrol may rescind this if snow conditions make it hazardous below the lift but in almost all situations it is fine to ski under the lift.
 
 ![Area of the third lift to the top](/assets/img/jeunesse-kurikoma-6.jpeg)
 *Photo: Third pair lift area that is mostly powder.*
 
 ### Accommodations
 
-Jeunesse Kurikoma is pretty far away from anything resembling a town or city. To remedy this, an onsen was built on site and is also surrounded by smaller places. These places are a little bit old but the odd one here or there is still quite enjoyable to stay at.
+Jeunesse Kurikoma is pretty far away from anything resembling a town or city. To remedy this, an onsen was built on site but the area is also dotted by smaller places to stay. These places are a little bit old but the odd one here or there is still quite enjoyable to stay at. For bigger groups events, it is not uncommon for a group to yearly rent out all the rooms at some of the smaller places and spend the whole night drinking and talking amongst each other and the owners. Some of these relationships last for years.
 
 ![View from piste towards Hotel Blanc](/assets/img/jeunesse-kurikoma-14.jpeg)
 *Photo: Hotel Blanc facing the ski lifts with ski-in ski-out access.*
 
 But the Yamayuri Onsen at Hotel Blanc is the main place to stay. With an onsen overlooking the main slope, it is easy to see why it stands above all the others. It was also recently remodeled a few years back and is in great condition. Those who do stay have only had praise for Hotel Blanc.
+
+It will not be the most incredible service but it will provide everything that you need without feeling that you are out of place. The rooms are simple and clean, and the dining area is shared with the general dining area of the ski slope. For the skiers who arrive early to the slope, you may share the dining area with those staying over. The dining area is clearly divided at this time so the early skiers don't take any food from the breakfast for the hotel guests.
 
 ### Access
 
