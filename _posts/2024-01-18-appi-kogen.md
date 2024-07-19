@@ -12,7 +12,7 @@ image: appi-ski-5.jpeg
 
 ***
 
-Starting in 2024, Appi Kogen Resort is having a great season. While the start of the season and even the start of the mid-season has been tough. Appi Kogen Resort has been able to give skiers the chance to ski in an area where many ski areas are still covered with a light dusting of snow.
+Starting in 2024, Appi Kogen Resort is having a great season. While the start of the season and even the start of the mid-season has been tough. Appi Kogen Resort has been able to give skiers the chance to ski in an area where many ski areas are still covered with a light dusting of snow. Having the ability to make their own snow and also have some of the longest trails in Iwate, Appi really takes the top spot as a resort.
 
 Nestled into the Hachimantai mountains splitting Akita Prefecture and Iwate Prefecture, Appi Kogen Resort gets a consistent coating of snow throughout the winter season. This season has been marked by lower than normal snowfall but that has not stopped Appi from opening as usual year after year around the beginning of December.
 
@@ -31,7 +31,7 @@ It's clear that a lot of people bought it because the slopes have been packed we
 ### Quality Over Quantity
 #### Iwate Resorts Rivalry For Business
 
-It's no secret that Geto Kogen Ski Resort has been making leaps and bounds with its marketing. And it's clear to see why when their website and social accounts flaunt endless powder with family-friendly amenities. But when powder is the only thing going for them as a resort, it leaves other things to be desired when Appi steps in.
+It's no secret that Geto Kogen Ski Resort has been making leaps and bounds with its marketing. And it's clear to see why when their website and social accounts flaunt endless powder with family-friendly options available. But when powder is the only thing going for them as a resort, it leaves other things to be desired and this is where Appi steps in.
 
 Appi has had many great powder days this season in addition to the great work that the hard work that trail groomer's put into their work. Time and time again, the Appi ski slope has been prepared to great lengths every day built upon a hard base that this warm winter gave us early on. Taking advantage of the opportunity, the snow grooming crew at Appi Kogen Ski Resort have for sure earned their fair share when it comes to recognition for making Appi Kogen Ski Resort an amazing place to ski and snowboard.
 
