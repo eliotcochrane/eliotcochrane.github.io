@@ -31,7 +31,7 @@ Before stretching, be sure to get the blood flowing that way the stretches can b
 Skating promotes a lot of fundamental skills through edging skills, balance, feeling of ski to ski, and just general fitness because skating can be tiring! Try using the figure eight skating drill to get your body warmed up, loose, and return some of the feelings before getting on the lift.
 
 **Description**
-On flat ground, the skier performs large figure eight design, on a variety of terrains, using skating and poling action of legs and arms. The skier should perform movements forward and balanced over the outside ski.
+On flat ground, the skier performs large figure eight designs, on a variety of terrains, using skating and poling action of legs and arms. The skier should perform movements forward and balanced over the outside ski.
 
 **Objectives**
 * Promotes coordination
@@ -55,13 +55,13 @@ Encourage the skier to coordinate the movement of the arms and the legs.
 Edge control through releasing and setting the edges is paramount to efficient skiing. Edge control is necessary for speed control as well as control over varied terrain and conditions.
 
 **Description**
-The skier steers both skis perpendicular to the fall line, with the upper body facing down the hill. Arms are held forward, crossing body to face down the hill also. The skier executes the task by releasing and setting the edges of the skis by rolling the ankles and knees into the hill (set) and down the hil (release). Edges are set with these smaller joints NOT the hips.
+The skier steers both skis perpendicular to the fall line, with the upper body facing down the hill. Arms are held forward, crossing the body to face down the hill also. The skier executes the task by releasing and setting the edges of the skis by rolling the ankles and knees into the hill (set) and down the hill (release). Edges are set with these smaller joints, NOT the hips.
 
 **Objectives**
-* Promote edging skill
+* Promotes edging skill
 * Enhances balance and alignment
-* Promotes upper / lower body separation
-* Promotes lateral ankles/knee movement
+* Promotes upper/lower body separation
+* Promotes lateral ankle/knee movement
 
 **Variations**
 * Diagonal side slip
@@ -69,7 +69,7 @@ The skier steers both skis perpendicular to the fall line, with the upper body f
 * With pole plant (when edges are set)
 
 **Notes**
-Ensure that the skier is utilizing ankles and knees to set the edges, NOT hip!
+Ensure that the skier is utilizing ankles and knees to set the edges, NOT hips!
 Ensure the skier keeps hands and arms balanced in front and down the hill.
 
 ![Side Slip Diagram](/assets/img/drills/side-slip.jpeg)
@@ -80,7 +80,7 @@ Ensure the skier keeps hands and arms balanced in front and down the hill.
 Pole planting is a great tool for timing and resetting your weight in the transition of the turn. Using this to help steer your skis and control your skis, the Norwegian pole plant is a great drill to also feel the pinch at the waist to get over the outside ski.
 
 **Description**
-In fall line turns, both poles are planted on the outside of the turn, utilizing both arms, shoulders and hips facing down the fall line. Both poles should hit at the same time at a distance from the body that will help facilitate a "pinch" over the outside ski.
+In fall line turns, both poles are planted on the outside of the turn, utilizing both arms, shoulders, and hips facing down the fall line. Both poles should hit at the same time at a distance from the body that will help facilitate a "pinch" over the outside ski.
 
 **Objectives**
 * Enhances timing/coordination
@@ -92,7 +92,7 @@ In fall line turns, both poles are planted on the outside of the turn, utilizing
 * Add hop between turns
 
 **Notes**
-Ensure that the skier reaches with both arms to set the pole plant down the hill
+Ensure that the skier reaches with both arms to set the pole plant down the hill.
 
 ![Norwegian Pole Plant Diagram](/assets/img/drills/norwegian-pole-plant.jpeg)
 *Photo: Diagram of Norwegian Pole Plant drill.*
@@ -102,7 +102,7 @@ Ensure that the skier reaches with both arms to set the pole plant down the hill
 Putting the majority of the pressure on the outside ski is fundamental to powerful, coordinated, and controlled turns. It may feel counter-intuitive at first, but the outside ski-only mentality can bring your level of skiing to the next level with this simple drill.
 
 **Description**
-The skier performs the task by lifting the inside ski off of the snow at the initiation of the turn throughout the completion of the turn; performing the entire turn balanced on the outside ski.
+The skier performs the task by lifting the inside ski off of the snow at the initiation of the turn and throughout the completion of the turn; performing the entire turn balanced on the outside ski.
 
 **Objectives**
 * Develops edging skill
@@ -113,11 +113,11 @@ The skier performs the task by lifting the inside ski off of the snow at the ini
 **Variations**
 * Without ski poles
 * With horizontal pole
-* With Overhead pole
+* With overhead pole
 * Varied terrain and conditions
 
 **Notes**
-Ensure the skier keeps the inside ski completely of the snow throughout the entire turn
+Ensure the skier keeps the inside ski completely off the snow throughout the entire turn.
 
 ![Outside Ski Only Diagram](/assets/img/drills/outside-ski-only.jpeg)
 *Photo: Diagram of Outside Ski Only drill.*
@@ -126,8 +126,9 @@ Ensure the skier keeps the inside ski completely of the snow throughout the enti
 
 More important than any of these exercises is **your safety**. If any of these exercises feel too difficult for you, feel free to slow down and practice even more basic turns such as the stem turn. We all have different levels in skiing and all have different goals as well. There is no need to practice something too difficult.
 
-In the same line as golf, the best course of action is also to get a coach or professional to help you assess your skiing and pinpoint what you need to work on. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has it's own instructor organizations. Check the certifications of instructors of where you are or planning to go and check what instructors are available.
+In the same line as golf, the best course of action is also to get a coach or professional to help you assess your skiing and pinpoint what you need to work on. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has its own instructor organizations. Check the certifications of instructors of where you are or planning to go and check what instructors are available.
 
 Most importantly, have fun and stay safe. Proper stretching both **before** and **after** can be a key to a long season. So don't let the time go to waste!
 
 **Get out there!**
+
