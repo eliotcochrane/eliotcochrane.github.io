@@ -38,7 +38,7 @@ The next biggest event was a snowboard time trial put on by the local snowboard 
 
 The final event was part of the Akita SAJ instructor's test. Here the instructors have to perform the required exercises to a certain degree that a beginner would be able to watch and understand. In addition to the practical examination, there was also a paper test the day before. The exercises performed may look easy but they are judged to an incredibly high standard.
 
-![Photo if freestyle World Cup](/assets/img/tazawako-12.jpeg)
+![Photo of freestyle World Cup](/assets/img/tazawako-12.jpeg)
 *Photo: FIS Freestyle World Cup podium at Tazawako Ski Resort. (Freestyle Skiing Canada)* 
 
 Tazawako is always a place that is buzzing because, in years past, they have also held Freestyle World Cups there! 
