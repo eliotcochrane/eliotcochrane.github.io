@@ -12,7 +12,7 @@ image: swix-wax-side-angle.jpeg
 
 ***
 
-The ski season has already started in some areas of Europe and the North Americas. It's time for us to get ready for when the white powder begins to drop on us! Today, we'll take a step into preparing skis for the new season. But instead of new skis, we'll be taking this from the angle that you have your favorite skis and will never let them leave your grip until they are dead and gone. 
+The ski season has already started in some areas of Europe and North America. It's time for us to get ready for when the white powder begins to drop on us! Today, we'll take a step into preparing skis for the new season. But instead of new skis, we'll be taking this from the angle that you have your favorite skis and will never let them leave your grip until they are dead and gone.
 
 We'll be looking at storage wax removal, edge maintenance, base condition check, and then giving the skis the wax juice that will be so important once the slopes open. Come with us a little further as we start preparing our old skis for the season.
 
@@ -25,19 +25,19 @@ We'll be looking at storage wax removal, edge maintenance, base condition check,
 
 ### Hot Waxing Techniques
 
-Like most things in life, there are more ways to skin the cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into the basic skis waxing. Racers looking to improve their technique have some great resources.
+Like most things in life, there are more ways to skin a cat than meets the eye (we don't condone skinning cats). Here are some great resources when it comes to tuning techniques. For the everyday skier, we'll look into basic ski waxing. Racers looking to improve their technique have some great resources.
 
 Simple guide from **Nordica** (Click to open)
 [![HOW TO WAX YOUR SKIS](https://img.youtube.com/vi/ZgQSNDAxV1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZgQSNDAxV1k)
 
-Race oriented guide from **Sidecut Tuning** (Click to open)
+Race-oriented guide from **Sidecut Tuning** (Click to open)
 [![Sidecut Tuning - How to tune YOUR skis](https://img.youtube.com/vi/pmNdgS5vNzA/maxresdefault.jpg)](https://youtu.be/pmNdgS5vNzA?si=wK17fYQtn4ZuiyMn)
 
 ### Storage Wax
 
-Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free. This wax had probably accumulate dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
+Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free. This wax had probably accumulated dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
 
-Don't be too concerned with getting the perfect finish. This step in the process is just clearing the way for what is to come.In this step, if there is any excessive dirt in the wax. Maybe putting on another of the same wax and scraping while it is still warm is a good idea. This can remove the dirt before any other waxes are laid down.
+Don't be too concerned with getting the perfect finish. This step in the process is just clearing the way for what is to come. In this step, if there is any excessive dirt in the wax, maybe putting on another of the same wax and scraping while it is still warm is a good idea. This can remove the dirt before any other waxes are laid down.
 
 ### Base Condition
 
@@ -47,23 +47,23 @@ Before doing anything else, the next important thing to do is just give the ski 
 
 **Flatness** - Using something like a flat bar or a 90° ruler to check for a flat base. If there are any large convex or concave shapes, have the ski stone ground by a professional technician.
 
-**Edges** - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using an file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
+**Edges** - Check for any burrs or nicks in the edge. A diamond stone can smooth out any rough spots found on the ski. In severe cases, using a file and guide may be the best route and smoothing it on over the length of the ski. Any major burrs and nicks not taken out before the waxing may damage the waxing iron.
 
 ![File on a guide with clamp](/assets/img/guide-file-side.jpeg)
 *Photo: File ready to be used on an aluminum guide.*
 
 ### Wax Soak
 
-Even with the summer wax providing protection against the elements and also against damage, the wax is impenetrable. Storage wax will not be enough to keep the skis from "drying out". Even at the world cup level where keeping the conditions in tip top shape is absolutely necessary, they are waxing the skis throughout the summer. But for the simple folk like us, it won't make a different when we get on snow.
+Even with the summer wax providing protection against the elements and also against damage, the wax is impenetrable. Storage wax will not be enough to keep the skis from "drying out." Even at the World Cup level where keeping the conditions in tip-top shape is absolutely necessary, they are waxing the skis throughout the summer. But for the simple folk like us, it won't make a difference when we get on snow.
 
-Apply a universal glide wax and and let it cool for 3+ hours. Scrape and brush as though it were a regular wax session. Repeat 2 or 3 times to give the base the juice that it needs to glide.
+Apply a universal glide wax and let it cool for 3+ hours. Scrape and brush as though it were a regular wax session. Repeat 2 or 3 times to give the base the juice that it needs to glide.
 
 ![Swix universal ski wax](/assets/img/universal-wax-side-angle.jpeg)
 *Photo: Swix's universal ski wax.*
 
 ### Priming The Base
 
-To really lock in that universal glide wax, we will use different variations of waxes to make the ski more versatile in all conditions. For the next step, we will be waxing the ski about 6 times with scraping. Brushing is optional. 
+To really lock in that universal glide wax, we will use different variations of waxes to make the ski more versatile in all conditions. For the next step, we will be waxing the ski about 6 times with scraping. Brushing is optional.
 
 * Warm-Temp
     1. Wax → Scrape
@@ -82,18 +82,18 @@ Starting from warm wax and progressing to cold wax, completely wax the ski about
 
 ### Edge Cleanup
 
-Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the different between you traversing an ice ledge and you falling victim to it. If you choose to tune your edges and use a file guide, be sure to scrape and brush to expose the base for a better tune.
+Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the difference between you traversing an ice ledge and you falling victim to it. If you choose to tune your edges and use a file guide, be sure to scrape and brush to expose the base for a better tune.
 
 Using an edge guide and file, lightly run along the edge with the grip of a firm handshake. Let the tools do the work. If plastic is being taken off instead of edge material, cutting back the sidewall material may be necessary.
 
 ![File and diamond stone](/assets/img/file-diamond-lineup.jpeg)
 *Photo: Fine teeth file and diamond stone side-by-side.*
 
-If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until the feel sharp again. This gives the skis a little bit more longevity because the edge material stays around much longer.
+If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until they feel sharp again. This gives the skis a little bit more longevity because the edge material stays around much longer.
 
 ### Scrape To Go
 
-For the last step, we probably left a few marks on our base after using the guide or any other tools to get the edge back in condition. For the last step, just take a mid-temperature range of wax and do a full wax and don't scrape. More than likely the first ski falls into temperatures that are from -4°C 〜 -12°C. A mid-temp wax will surely fall into this category and leave you with just a scrape and a brushing before heading to the hill!
+For the last step, we probably left a few marks on our base after using the guide or any other tools to get the edge back in condition. For the last step, just take a mid-temperature range of wax and do a full wax and don't scrape. More than likely the first ski falls into temperatures that are from -4°C to -12°C. A mid-temp wax will surely fall into this category and leave you with just a scrape and a brushing before heading to the hill!
 
 Get ready because the season will come sooner than you think!
 
