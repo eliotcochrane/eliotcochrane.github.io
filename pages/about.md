@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-My name is **Eliot Cochrane**. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary-aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and inspire the next generation to continue.
+My name is **Eliot Cochrane**. I'm a life-long skier and a full-time tinkerer. Beginning to ski at the age of four, my passion for the sport has never diminished. I volunteer my time at the local ski hill to teach elementary-aged children to ski and also coach the alpine ski racers at night on weekdays. Much of my time is now spent within the sport trying to give back and encourage the next generation to continue skiing and pass on the tradition.
 
 During my time and making friends within the ski community, golf became a common avenue to meet people and continue to expand upon the relationships that I built over the prior ski seasons. Golf too has become a bridge in my personal life and professional life that has introduced me to people and opportunities I never thought I would experience. Much of my time is spent outdoors, and golf is a good way to keep me motivated to stay out there.
 

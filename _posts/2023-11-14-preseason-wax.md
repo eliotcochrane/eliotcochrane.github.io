@@ -35,7 +35,7 @@ Race-oriented guide from **Sidecut Tuning** (Click to open)
 
 ### Storage Wax
 
-Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free. This wax had probably accumulated dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
+Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free and then move onto the base which was coated to prevent drying of the base. Imagine the base as a sponge. We want to keep as much wax in the base as possible. This wax had probably accumulated dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
 
 Don't be too concerned with getting the perfect finish. This step in the process is just clearing the way for what is to come. In this step, if there is any excessive dirt in the wax, maybe putting on another of the same wax and scraping while it is still warm is a good idea. This can remove the dirt before any other waxes are laid down.
 
@@ -62,6 +62,7 @@ Apply a universal glide wax and let it cool for 3+ hours. Scrape and brush as th
 *Photo: Swix's universal ski wax.*
 
 ### Priming The Base
+#### (New Skis or Stone Ground Skis)
 
 To really lock in that universal glide wax, we will use different variations of waxes to make the ski more versatile in all conditions. For the next step, we will be waxing the ski about 6 times with scraping. Brushing is optional.
 
@@ -99,3 +100,12 @@ Get ready because the season will come sooner than you think!
 
 ![Toolbox of ski tuning equipment](/assets/img/tuning-box-top.jpeg)
 *Photo: Toolbox full of ski tuning equipment.*
+
+***
+
+## Newer Methods
+
+As of late, there have been some innovative products and methods of wax application that **must** be mentioned. Let's take a look at some of them.
+
+### Liquid Wax
+
