@@ -109,3 +109,32 @@ As of late, there have been some innovative products and methods of wax applicat
 
 ### Liquid Wax
 
+Liquid wax is exactly as is sounds. The wax is already a liquidized and then applied in a rub-on form or in spray form. The wax applicator may already have a felt pad which absorbs and spreads the liquid on the base of the ski. Others may just be bottles that may be dripped on the ski and spread using folded wax paper or paper towels.
+
+![Photo of a variety of liquid waxes.](/assets/img/preseason-wax-liquidwaxes.jpeg)
+*Photo: Variety of liquid waxes from various manufacturers. (Teacup Lake Nordic Cup)*
+
+Once applied, these waxes require a drying time of approximately 15 to 30 minutes. Some waxes may leave a white haze when dried on the ski and others may not be visible when dry. Trust the system.
+
+From here it is a light brushing and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that you just applied as the wax does not penetrate as deep into the base as a traditional hot wax.
+
+**Positives**
+- Beginner friendly
+- Time efficient
+- Hard to make mistakes
+- Requires few tools
+
+**Negatives**
+- Becomes less effective quicker
+- Still requires periodic hot waxes
+
+**Overall**
+This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone that wants the best glide without spending hours during the season. It may still requires periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for it's bullet-proof method of application and effectiveness when matched with a hot waxed base for the correct snow condition.
+
+### DPS
+
+
+
+### Infrared Waxer (IR)
+
+Infrared has been used for years in ski shops around the world.
