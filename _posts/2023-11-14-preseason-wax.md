@@ -35,13 +35,13 @@ Race-oriented guide from **Sidecut Tuning** (Click to open)
 
 ### Storage Wax
 
-Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free and then move onto the base which was coated to prevent drying of the base. Imagine the base as a sponge. We want to keep as much wax in the base as possible. This wax had probably accumulated dirt and dust and protected the base over the summer season. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
+Start by scraping the edges of any leftover wax that was put on to keep the edges rust-free and then move onto the base which was coated to prevent drying of the base. Imagine the base as a sponge. We want to keep as much wax in the base as possible. This wax had probably accumulated dirt and dust and protected the base over the summer. Scrape the bases clean using a wax scraper and get the wax pores open with a good brass brush.
 
 Don't be too concerned with getting the perfect finish. This step in the process is just clearing the way for what is to come. In this step, if there is any excessive dirt in the wax, maybe putting on another of the same wax and scraping while it is still warm is a good idea. This can remove the dirt before any other waxes are laid down.
 
 ### Base Condition
 
-Before doing anything else, the next important thing to do is just give the ski a good inspection. Some of the things we'll be looking for are:
+Before doing anything else, the next important thing to do is just give the ski a good inspection. Some things we'll be looking for are:
 
 **Gauges / Deep Scratches** - These can impact the core if the damage is too deep. Keeping a good barrier and base depth is important to keeping the ski feeling as good as it does from the first day. Many deep gauges in the center of the ski may be repaired using p-tex and melting directly onto the ski, sometimes in small layers with many cooling phases in between. But if they are near the edge, enlisting a professional ski technician may be necessary to use metal grip which will adhere to both the base material and the edge.
 
@@ -90,7 +90,7 @@ Using an edge guide and file, lightly run along the edge with the grip of a firm
 ![File and diamond stone](/assets/img/file-diamond-lineup.jpeg)
 *Photo: Fine teeth file and diamond stone side-by-side.*
 
-If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until they feel sharp again. This gives the skis a little bit more longevity because the edge material stays around much longer.
+If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until they feel sharp again. This gives the skis a little more longevity because the edge material stays around much longer.
 
 ### Scrape To Go
 
@@ -118,23 +118,49 @@ Once applied, these waxes require a drying time of approximately 15 to 30 minute
 
 From here it is a light brushing and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that you just applied as the wax does not penetrate as deep into the base as a traditional hot wax.
 
-**Positives**
+**Benefits**
 - Beginner friendly
 - Time efficient
 - Hard to make mistakes
 - Requires few tools
 
-**Negatives**
+**Drawbacks**
 - Becomes less effective quicker
 - Still requires periodic hot waxes
 
 **Overall**
-This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone that wants the best glide without spending hours during the season. It may still requires periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for it's bullet-proof method of application and effectiveness when matched with a hot waxed base for the correct snow condition.
+This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone that wants the best glide without spending hours during the season. It may still require periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for it's bullet-proof method of application and effectiveness when matched with a hot waxed base for the correct snow condition.
 
 ### DPS
+
+![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
+
+
 
 
 
 ### Infrared Waxer (IR)
 
-Infrared has been used for years in ski shops around the world.
+![Infrared applications on track and handheld](/assets/img/preseason-wax-infrared.jpg)
+*Photo: Photo of handheld IR unit (left) and Wintersteiger IR unit (right).*
+
+Infrared has been used for years in ski shops around the world. Many times in a shop, the ski wax is either crayoned on or using a hot wax roller it is applied to the base of the ski. From there, the skis are put on a bench face up under a track. On the track is an infrared lamp that moves at a calibrated speed depending on the wax type. The infrared will go up and down the skis at the appropriate ski for best penetration without needed to excessively heat the base material.
+
+While the typical shop unit is out of the price range of the regular consumer, there is a handheld unit making the rounds. The most common is on sale from mountainFLOW. mountainFLOW is a company that makes eco-friendly and biodegradable ski and snowboard wax. So the idea of reduced wax waste really connects with the goals of mountainFLOW to reduce waste.
+
+Here the wax is applied with the crayon method with a full coverage. Unlike the classic hot-iron method, the wax may not spread is multiple directions. So making sure that every millimeter of the ski is crayoned with wax is important. After that, the handheld IR lamp is held slightly above the base and slowly moved along the ski at the same height. It's a fine balance of not getting too close to overheat the wax and not being too far to not properly heat the wax for absorption. After cooling, what little wax is there can be scraped away easily and the brushed for the final finish.
+
+**Benefits**
+- Reduce waste
+- Reduce wax applied during each wax
+- Reduce core temperature fluctuation
+- Reduce chance to burn the base
+
+**Drawbacks**
+- Possibly uneven waxing point
+- Delicate equipment
+- Crayoning evenly can be difficult
+- Black bases warm quicker than colored bases
+
+**Overall**
+Waxing skis can feel daunting at first. The handheld infrared waxing method on the surface sounds great due to reduced chances to burn the base and damage the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you, it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner to tuning. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or those who are enthusiasts and are willing to risk a poor wax job at the expense of getting ski tuning credentials.
