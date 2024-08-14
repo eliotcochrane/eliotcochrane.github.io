@@ -166,3 +166,6 @@ DPS Phantom Glide is a permanent wax solution that does not need to be waxed aga
 ![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
 *Photo: Application steps of the DPS Phantom Glide treatment.*
 
+To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply directly after a full stone-grind done by a ski shop.
+
+This can be the 
