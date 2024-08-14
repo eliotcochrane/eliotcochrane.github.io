@@ -131,14 +131,6 @@ From here it is a light brushing and the ski is ready to go. Brushing too much o
 **Overall**
 This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone that wants the best glide without spending hours during the season. It may still require periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for it's bullet-proof method of application and effectiveness when matched with a hot waxed base for the correct snow condition.
 
-### DPS
-
-![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
-
-
-
-
-
 ### Infrared Waxer (IR)
 
 ![Infrared applications on track and handheld](/assets/img/preseason-wax-infrared.jpg)
@@ -164,3 +156,13 @@ Here the wax is applied with the crayon method with a full coverage. Unlike the 
 
 **Overall**
 Waxing skis can feel daunting at first. The handheld infrared waxing method on the surface sounds great due to reduced chances to burn the base and damage the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you, it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner to tuning. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or those who are enthusiasts and are willing to risk a poor wax job at the expense of getting ski tuning credentials.
+
+### DPS PHANTOM Glide
+
+The dream of any weekend rider has always been having a universal wax that works for any temperature range. But lately there has been development in this direction of not only a universal wax but a wax that only needs to be applied for a season once! This is where the DPS PHANTOM Glide wax comes in.
+
+DPS Phantom Glide is a permanent wax solution that does not need to be waxed again during the season. Of course if there is enough damage then the effectiveness will be reduced but having a permanent solution has been the holy grail for years.
+
+![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
+*Photo: Application steps of the DPS Phantom Glide treatment.*
+
