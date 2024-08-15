@@ -168,4 +168,29 @@ DPS Phantom Glide is a permanent wax solution that does not need to be waxed aga
 
 To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply directly after a full stone-grind done by a ski shop.
 
-This can be the 
+This can also be done at home too. While most homes don't have UV lamps like a professional shop, DPS outlines methods to use the sun as a natural UV source to cure the treatment into the base. Just like a regular shop, after getting a stone grind, you will put the brakes up and clean the bases to remove any leftover bits from the machine and remove any base hairs. 
+
+Next take the solution packets, open and spread evenly along the ski using the sponge in the kit without dripping too much of the precious solution. Making a clear center and then working outwards towards the edges is a rotating method, like waxing, to help get every nook and cranny of the structure covered with the solution. Once both skies are covered, let the treatment soak into the base for 20 minutes. After soaking into the base, wipe the excess solution off with a clean cloth and prepare for UV curing.
+
+The skis in a shop have an easy Phantom Curing Station that only requires 20 minutes of baking in a UV lamp station. At home though, it requires a bit of planning with mother nature. Using the natural sunlight, the curing requires close to two hours within bright sunlight, and it cures better in warmer weather. Not only do you have to worry about the weather, but also the latitude of where you will be doing the DIY wax treatment. In high latitudes, the atmosphere can reduce intensity of the UV wavelengths and may not cure to the peak in the alotted time and may require longer or a specialized UV source.
+
+Next, thougholy brush the skis with the brush provided in the box. Do not use your own that you have used in the past for traditional waxing as this cured dust isn't beneficial and may reduce brushing performance on future traditionally waxed skis. This will get the majority of it off. Last, take a nylon brush (one provided in the box), or your own brush is okay for this stage, and buff the surface to a sheen.
+
+Then using the solution of Part B, do the same thing just using a new solution!
+
+
+______WORK ON THIS______
+**Benefits**
+- Reduce waste
+- Reduce wax applied during each wax
+- Reduce core temperature fluctuation
+- Reduce chance to burn the base
+
+**Drawbacks**
+- Possibly uneven waxing point
+- Delicate equipment
+- Crayoning evenly can be difficult
+- Black bases warm quicker than colored bases
+
+**Overall**
+Waxing skis can feel daunting at first. The handheld infrared waxing method on the surface sounds great due to reduced chances to burn the base and damage the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you, it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner to tuning. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or those who are enthusiasts and are willing to risk a poor wax job at the expense of getting ski tuning credentials.
