@@ -109,18 +109,18 @@ As of late, there have been some innovative products and methods of wax applicat
 
 ### Liquid Wax
 
-Liquid wax is exactly as is sounds. The wax is already a liquidized and then applied in a rub-on form or in spray form. The wax applicator may already have a felt pad which absorbs and spreads the liquid on the base of the ski. Others may just be bottles that may be dripped on the ski and spread using folded wax paper or paper towels.
+Liquid wax is exactly as it sounds. The wax is already liquefied and then applied in a rub-on form or spray form. The wax applicator may already have a felt pad that absorbs and spreads the liquid on the base of the ski. Others may just be bottles that can be dripped on the ski and spread using folded wax paper or paper towels.
 
 ![Photo of a variety of liquid waxes.](/assets/img/preseason-wax-liquidwaxes.jpeg)
 *Photo: Variety of liquid waxes from various manufacturers. (Teacup Lake Nordic Cup)*
 
-Once applied, these waxes require a drying time of approximately 15 to 30 minutes. Some waxes may leave a white haze when dried on the ski and others may not be visible when dry. Trust the system.
+Once applied, these waxes require a drying time of approximately 15 to 30 minutes. Some waxes may leave a white haze when dried on the ski, while others may not be visible when dry. Trust the system.
 
-From here it is a light brushing and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that you just applied as the wax does not penetrate as deep into the base as a traditional hot wax.
+From here, it’s a light brushing, and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that you just applied, as the wax does not penetrate as deep into the base as traditional hot wax.
 
 **Benefits**
-- Beginner friendly
-- Time efficient
+- Beginner-friendly
+- Time-efficient
 - Hard to make mistakes
 - Requires few tools
 
@@ -129,68 +129,75 @@ From here it is a light brushing and the ski is ready to go. Brushing too much o
 - Still requires periodic hot waxes
 
 **Overall**
-This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone that wants the best glide without spending hours during the season. It may still require periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for it's bullet-proof method of application and effectiveness when matched with a hot waxed base for the correct snow condition.
+This is a great waxing method during the ski season. It may not work for pre-season preparation but is a must-have for anyone who wants the best glide without spending hours during the season. It may still require periodic hot waxes to keep the bases from drying out, but a periodic hot wax is much better than doing it every time and for every snow condition. Liquid wax is taking over much of the World Cup waxing scene for its bulletproof method of application and effectiveness when matched with a hot-waxed base for the correct snow condition.
 
 ### Infrared Waxer (IR)
 
 ![Infrared applications on track and handheld](/assets/img/preseason-wax-infrared.jpg)
-*Photo: Photo of handheld IR unit (left) and Wintersteiger IR unit (right).*
+*Photo: Handheld IR unit (left) and Wintersteiger IR unit (right).*
 
-Infrared has been used for years in ski shops around the world. Many times in a shop, the ski wax is either crayoned on or using a hot wax roller it is applied to the base of the ski. From there, the skis are put on a bench face up under a track. On the track is an infrared lamp that moves at a calibrated speed depending on the wax type. The infrared will go up and down the skis at the appropriate ski for best penetration without needed to excessively heat the base material.
+Infrared has been used for years in ski shops around the world. Many times in a shop, the ski wax is either crayoned on or applied using a hot wax roller. From there, the skis are put on a bench face up under a track. On the track is an infrared lamp that moves at a calibrated speed depending on the wax type. The infrared will go up and down the skis at the appropriate speed for best penetration without needing to excessively heat the base material.
 
-While the typical shop unit is out of the price range of the regular consumer, there is a handheld unit making the rounds. The most common is on sale from mountainFLOW. mountainFLOW is a company that makes eco-friendly and biodegradable ski and snowboard wax. So the idea of reduced wax waste really connects with the goals of mountainFLOW to reduce waste.
+While the typical shop unit is out of the price range of the regular consumer, there is a handheld unit making the rounds. The most common is on sale from mountainFLOW. mountainFLOW is a company that makes eco-friendly and biodegradable ski and snowboard wax. So, the idea of reduced wax waste really connects with the goals of mountainFLOW to reduce waste.
 
-Here the wax is applied with the crayon method with a full coverage. Unlike the classic hot-iron method, the wax may not spread is multiple directions. So making sure that every millimeter of the ski is crayoned with wax is important. After that, the handheld IR lamp is held slightly above the base and slowly moved along the ski at the same height. It's a fine balance of not getting too close to overheat the wax and not being too far to not properly heat the wax for absorption. After cooling, what little wax is there can be scraped away easily and the brushed for the final finish.
+Here, the wax is applied with the crayon method with full coverage. Unlike the classic hot-iron method, the wax may not spread in multiple directions. So making sure that every millimeter of the ski is crayoned with wax is important. After that, the handheld IR lamp is held slightly above the base and slowly moved along the ski at the same height. It's a fine balance of not getting too close to overheat the wax and not being too far to properly heat the wax for absorption. After cooling, what little wax remains can be scraped away easily and then brushed for the final finish.
 
 **Benefits**
-- Reduce waste
-- Reduce wax applied during each wax
-- Reduce core temperature fluctuation
-- Reduce chance to burn the base
+- Reduces waste
+- Reduces wax applied during each waxing
+- Reduces core temperature fluctuation
+- Reduces chance of burning the base
 
 **Drawbacks**
-- Possibly uneven waxing point
+- Possibly uneven waxing points
 - Delicate equipment
 - Crayoning evenly can be difficult
 - Black bases warm quicker than colored bases
 
 **Overall**
-Waxing skis can feel daunting at first. The handheld infrared waxing method on the surface sounds great due to reduced chances to burn the base and damage the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you, it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner to tuning. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or those who are enthusiasts and are willing to risk a poor wax job at the expense of getting ski tuning credentials.
+Waxing skis can feel daunting at first. The handheld infrared waxing method, on the surface, sounds great due to reduced chances of burning the base and damaging the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you; it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or to those who are enthusiasts and are willing to risk a poor wax job in exchange for gaining ski tuning credentials.
 
 ### DPS PHANTOM Glide
 
-The dream of any weekend rider has always been having a universal wax that works for any temperature range. But lately there has been development in this direction of not only a universal wax but a wax that only needs to be applied for a season once! This is where the DPS PHANTOM Glide wax comes in.
+The dream of any weekend rider has always been having a universal wax that works for any temperature range. But lately, there has been development in this direction—not only a universal wax but a wax that only needs to be applied once for the entire season! This is where the DPS PHANTOM Glide wax comes in.
 
-DPS Phantom Glide is a permanent wax solution that does not need to be waxed again during the season. Of course if there is enough damage then the effectiveness will be reduced but having a permanent solution has been the holy grail for years.
+DPS Phantom Glide is a permanent wax solution that does not need to be reapplied during the season. Of course, if there is enough damage, then the effectiveness will be reduced, but having a permanent solution has been the holy grail for years.
 
 ![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
 *Photo: Application steps of the DPS Phantom Glide treatment.*
 
-To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply directly after a full stone-grind done by a ski shop.
+To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply it directly after a full stone-grind done by a ski shop.
 
-This can also be done at home too. While most homes don't have UV lamps like a professional shop, DPS outlines methods to use the sun as a natural UV source to cure the treatment into the base. Just like a regular shop, after getting a stone grind, you will put the brakes up and clean the bases to remove any leftover bits from the machine and remove any base hairs. 
+This can also be done at home too. While most homes don't have UV lamps like a professional shop, DPS outlines methods to use the sun as a natural UV source to cure the treatment into the base. Just like at a regular shop, after getting a stone grind, you will put the brakes up and clean the bases to remove any leftover bits from the machine and remove any base hairs.
 
-Next take the solution packets, open and spread evenly along the ski using the sponge in the kit without dripping too much of the precious solution. Making a clear center and then working outwards towards the edges is a rotating method, like waxing, to help get every nook and cranny of the structure covered with the solution. Once both skies are covered, let the treatment soak into the base for 20 minutes. After soaking into the base, wipe the excess solution off with a clean cloth and prepare for UV curing.
+Next, take the solution packets, open them, and spread evenly along the ski using the sponge in the kit without dripping too much of the precious solution. Making a clear center and then working outwards toward the edges in a rotating method, like waxing, helps get every nook and cranny of the structure covered with the solution. Once both skis are covered, let the treatment soak into the base for 20 minutes. After soaking into the base, wipe the excess solution off with a clean cloth and prepare for UV curing.
 
-The skis in a shop have an easy Phantom Curing Station that only requires 20 minutes of baking in a UV lamp station. At home though, it requires a bit of planning with mother nature. Using the natural sunlight, the curing requires close to two hours within bright sunlight, and it cures better in warmer weather. Not only do you have to worry about the weather, but also the latitude of where you will be doing the DIY wax treatment. In high latitudes, the atmosphere can reduce intensity of the UV wavelengths and may not cure to the peak in the alotted time and may require longer or a specialized UV source.
+The skis in a shop have an easy Phantom Curing Station that only requires 20 minutes of baking in a UV lamp station. At home, though, it requires a bit of planning with mother nature. Using natural sunlight, the curing requires close to two hours of bright sunlight, and it cures better in warmer weather. Not only do you have to worry about the weather, but also the latitude of where you will be doing the DIY wax treatment. In high latitudes, the atmosphere can reduce the intensity of the UV wavelengths and may not cure to the peak in the allotted time, potentially requiring longer or a specialized UV source. DPS notes that it can even take up to six hours.
 
-Next, thougholy brush the skis with the brush provided in the box. Do not use your own that you have used in the past for traditional waxing as this cured dust isn't beneficial and may reduce brushing performance on future traditionally waxed skis. This will get the majority of it off. Last, take a nylon brush (one provided in the box), or your own brush is okay for this stage, and buff the surface to a sheen.
+Next, thoroughly brush the skis with the brush provided in the box. Do not use your own brush that you have used in the past for traditional waxing, as this cured dust isn't beneficial and may reduce brushing performance on future traditionally waxed skis. This will get the majority of it off. Lastly, take a nylon brush (the one provided in the box, or your own brush is okay for this stage) and buff the surface to a sheen.
 
-Then using the solution of Part B, do the same thing just using a new solution!
+Then, using the solution of Part B, do the same thing, just using a new solution!
 
-
-______WORK ON THIS______
 **Benefits**
-- Reduce waste
-- Reduce wax applied during each wax
-- Reduce core temperature fluctuation
-- Reduce chance to burn the base
+- Permanent, one-time application
+- Relatively smooth glide
+- No current environmental hazards
+- Relative cost reduction (compared to traditional hot wax)
+- Works across snow temperatures
 
 **Drawbacks**
-- Possibly uneven waxing point
-- Delicate equipment
-- Crayoning evenly can be difficult
-- Black bases warm quicker than colored bases
+- Good glide but not the best
+- Cure time when doing DIY takes quite long
 
 **Overall**
-Waxing skis can feel daunting at first. The handheld infrared waxing method on the surface sounds great due to reduced chances to burn the base and damage the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you, it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner to tuning. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or those who are enthusiasts and are willing to risk a poor wax job at the expense of getting ski tuning credentials.
+For the great majority who don't want the tradition of waxing the night before, this is a wonderful solution. It might feel expensive up-front, but it will make up for itself over time. Getting it done before the season begins can leave you with a stress-free mindset knowing that you won't need to touch a waxing iron. The performance might not be like a race-ready tune, but most people will never need that level of glide, and a basic universal wax will be more than enough!
+
+***
+
+## Final Thoughts
+
+There are some people who love the tradition of waxing skis and find it almost therapeutic. As technology has progressed, there are also newer methods that can enhance your tuning preparation for the winter. Traditional hot waxing is a skill that needs to be honed just like any other. Newer methods make this more approachable and can make you more comfortable on the first run, knowing that you will have the glide that you want at the end of a chute or making your way back on the flats to the lift. Get out there and get ready for the upcoming season.
+
+***
+
+![Nordica skis on tuning bench](/assets/img/preseason-wax-nordicabench.jpeg)
