@@ -170,18 +170,18 @@ A very positive experience for beginners to experts that will remain in memory f
 
 | Hole # | Par| Score | | Hole # |Par | Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hole 1 | Par 4 | 4 | | Hole 10 | Par 4 | 5 |
-| Hole 2 | Par 5 | 5 | | Hole 11 | Par 5 | 5 |
-| Hole 3 | Par 4 | 5 | | Hole 12 | Par 4 | 5 |
-| Hole 4 | Par 4 | 4 | | Hole 13 | Par 4 | 4 |
-| Hole 5 | Par 3 | 3 | | Hole 14 | Par 3 | 3 |
-| Hole 6 | Par 4 | 4 | | Hole 15 | Par 4 | 5 |
-| Hole 7 | Par 3 | 3 | | Hole 16 | Par 3 | 3 |
-| Hole 8 | Par 5 | 6 | | Hole 17 | Par 5 | 5 |
-| Hole 9 | Par 4 | 5 | | Hole 18 | Par 4 | 5 |
+| Hole 1 | Par 5 | 5 | | Hole 10 | Par 4 | 5 |
+| Hole 2 | Par 4 | 3 | | Hole 11 | Par 4 | 5 |
+| Hole 3 | Par 3 | 4 | | Hole 12 | Par 3 | 4 |
+| Hole 4 | Par 4 | 4 | | Hole 13 | Par 5 | 6 |
+| Hole 5 | Par 4 | 5 | | Hole 14 | Par 4 | 4 |
+| Hole 6 | Par 4 | 5 | | Hole 15 | Par 4 | 4 |
+| Hole 7 | Par 3 | 3 | | Hole 16 | Par 5 | 5 |
+| Hole 8 | Par 5 | 5 | | Hole 17 | Par 3 | 4 |
+| Hole 9 | Par 4 | 5 | | Hole 18 | Par 4 | 4 |
 | --- | --- | --- | --- | --- | --- | --- |
-| OUT | Par 36 | 39 | | IN | Par 36 | 40 |
+| OUT | Par 36 | 38 | | IN | Par 36 | 41 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **OUT** | **IN** | **TOTAL** |
-| 39 | 40 | **79** |
+| 38 | 41 | **79** |
 
