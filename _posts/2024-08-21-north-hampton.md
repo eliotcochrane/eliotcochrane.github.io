@@ -2,14 +2,14 @@
 layout: post
 title: "GOLF: North Hampton GC"
 author: "Eliot Cochrane"
-categories: off-season,volunteer,
-tags: ['iwate', 'kitakami shimin', 'kitakami river', 'kitakami city', 'golf course', '9 hole course', 'japan golf', 'golfing community', 'beginner golfers', 'veteran golfers', 'clubhouse amenities', 'putting greens', 'tee grounds', 'fairways condition', 'rough management', 'bunker maintenance', 'greens upkeep', 'course marking', 'lunch break', 'post round rituals', 'golf experience', 'community atmosphere', 'amateur golfers', 'japan tour', 'course review']
+categories: ['summer', 'off-season', 'golf']
+tags: ['akita', 'north hampton', 'akita golf', 'akita city', 'golf course', '18 hole course', 'japan golf', 'golfing community', 'beginner golfers', 'veteran golfers', 'clubhouse amenities', 'putting greens', 'tee grounds', 'fairways condition', 'rough management', 'bunker maintenance', 'greens upkeep', 'course marking', 'lunch break', 'post round', 'golf experience', 'community atmosphere', 'amateur golfers', 'golf travel', 'course review']
 image: north-hampton-22.jpeg
 ---
 
 ## <center>AKITA: North Hampton Golf Club</center>
 #### <center>秋田県 - ノースハンプトンゴルフ倶楽部</center>
-### <center>True Golfing Spirit By Kitakami River</center>
+### <center>Community Building in the Mountains</center>
 
 ***
 

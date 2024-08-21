@@ -2,7 +2,7 @@
 layout: post
 title: "GOLF: Kitakami Shimin"
 author: "Eliot Cochrane"
-categories: off-season,volunteer,
+categories: ['summer', 'off-season', 'golf']
 tags: ['iwate', 'kitakami shimin', 'kitakami river', 'kitakami city', 'golf course', '9 hole course', 'japan golf', 'golfing community', 'beginner golfers', 'veteran golfers', 'clubhouse amenities', 'putting greens', 'tee grounds', 'fairways condition', 'rough management', 'bunker maintenance', 'greens upkeep', 'course marking', 'lunch break', 'post round rituals', 'golf experience', 'community atmosphere', 'amateur golfers', 'japan tour', 'course review']
 image: kitakamishimin-9.jpeg
 ---
