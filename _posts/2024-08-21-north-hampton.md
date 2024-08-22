@@ -56,7 +56,7 @@ Often the practice bunkers get the leftover sand at the bottom but not at North 
 
 #### Driving Range
 
-The driving range is tucked off to the side but relatively near the clubhouse for close access both pre and post round. Available are 10 mats for practice. The machine that dispenses the balls was covered in spider webs, so it clearly isn't actively used each and every day. But the mats are relatively clean, and the rubber tees are covered with small bowls to prevent UV damage.
+The driving range is tucked off to the side but relatively close to the clubhouse for easy access both pre- and post-round. There are 10 mats available for practice. The machine that dispenses the balls was covered in spider webs, so it clearly isn't actively used every day. However, the mats are relatively clean, and the rubber tees are covered with small bowls to prevent UV damage.
 
 ![Driving range at North Hampton GC.](/assets/img/north-hampton-8.jpeg)
 *Photo: Driving range at North Hampton GC.*
