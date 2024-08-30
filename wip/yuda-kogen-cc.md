@@ -67,23 +67,35 @@ WIP
 
 #### Tee Grounds
 
-WIP
+Tee grounds are a little bumpy all over the course. There are a few areas where there is no grass and instead lies a turf mat to help keep dirt and new seed in place. For the most part though, any situation other than a par 3 will be no problem.
+
+Former competition tees have been demolished and to be used to clean up the back and regular tees. Prior to this there were some waves within most tee boxes due to heavy rains and earthquakes just generally moving the earth. Tee boxes have great placement to not feel at a disadvantage. Even the front tees are appropriately placed giving the course a rounded feel regardless of which tee you play from.
 
 #### Fairways
 
-WIP
+This is where it starts to become a hit or miss scenario. There are a few fairways, especially the higher elevated fairways, that are nice and firm and are usually open for carts to drive on. Other fairways are perpetually pooling water and killing grass in areas. And lastly, there are the areas where it's a pick of the draw to see if you will land in mud or on a firm fairway.
+
+As for the shaping at complexity, they have been tamed back over the years. Former bunkers are now just rounded out banks and various trees have been greatly trimmed back or removed. Most of the holes have a slight bowl shape to help the ball stay in the fairway, but a severely offline ball will not return to the fairway but instead stay in the rough.
 
 #### Rough
 
-WIP
+The rough is also hit or miss depending on the moisture content of the ground beneath it. The more dry spots have quite surprisingly low-cut rough, almost perfect for an amateur because it feels like teeing the ball up again. This is pretty common in Japan and is always a little mind-boggling to not feel like a slight penalty but as an amateur, I appreciate it very much.
+
+Then you have the swamps that the club doesn't want to ruin by running the machines over. These are where the water run-off is pretty poor and pools up. With the club not wanting to ruin the ground beneath it, the grass gets to the length of a grip at times.
 
 #### Bunkers
 
-WIP
+Bunkers do not get enough love from the grounds crew at many golf courses. Yuda Kogen CC takes it to a whole new level. This year they recently put in new sand, but it is filled with rocks and pebbles. I'm sure that most golfers know the horror of hitting a rock between your club and the golf ball.
+
+In addition to the poor homogeneity, the bunkers are also not spread easily. Of course, rainstorm after rainstorm, the sand will eventually travel to the lowest point within the bunker, but in most of the bunkers the center was 8〜10cm deep of nice sand while anything towards the edges has 2〜4cm with a majority of rocks scattered towards the outside.
+
+It's not uncommon for some casual players to just take their ball out of the bunker and place it behind the bunker along the same theoretical straight line to the pin. Of course, within their own group rules.
 
 #### Greens
 
-WIP
+The greens are a real Dr. Jekyll and Mr. Hyde parallel. Within the original story by Robert Louis Stevenson, Dr. Jekyll discovers a way to split his own personality between bad and good. Yuda Kogen CC almost has a similar feeling with their greens.
+
+Somehow they managed to make their green on the OUT course almost nearly dead. While the IN course is nearly all vibrant and only minor damage on the fringes. It is frustrating but for the price and the known financial problems the course has had, 
 
 #### Marking
 
