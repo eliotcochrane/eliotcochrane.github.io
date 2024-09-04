@@ -1,30 +1,24 @@
 ---
 layout: post
-title: "CARVING CODEX: Power Straps"
+title: "GEAR: Power Straps"
 author: "Eliot Cochrane"
 categories: ['off-season', 'equipment']
 tags: ["Carving Codex", "Power Straps", "Ski Boot Accessories", "Skiing Gear", "Precision and Control", "Customization", "Elastic Power Straps", "Static Power Straps", "Booster Straps", "Ski Boot Manufacturer Options", "Skiing Performance", "Skiing Comfort", "Skiing Equipment", "Ski"]
 image: head-power-strap.jpeg
 ---
 
-## <center>Carving Codex</center>
-
-**Carving Codex** is a series where Stray Lines will take a deeper dive into the things that we can do off the hill with our ski hill that have a large impact on our skiing. These can be hard goods or customizations that the general skiing populace should be aware of in the search for a better time spent on the mountain. 
-
-***
-
 ## <center>Power Straps</center>
 ### <center>Response, Flex, and Support</center>
 
 ***
 
-Oftentimes power straps are the underdog when it comes to attention in ski boots. All of the attention is put towards things like the volume, closure system, or range-of-motion. Yet the power strap is one of the most critical elements to a ski boot with regards to fit, performance, and comfort. It's not just a mere fastener to be done along the way, it's one of the main conductors connecting you to your skis.
+Oftentimes power straps are the underdog when it comes to attention in ski boots. All the attention is put towards things like the volume, closure system, or range-of-motion. Yet the power strap is one of the most critical elements to a ski boot regarding fit, performance, and comfort. It's not just a mere fastener to be done along the way, it's one of the main conductors connecting the skier and the ski.
 
-The power strap is an unassuming part of the ski boot but can contribute to transmitting power greater than many may expect. This band of material embodies function and form by still meeting aesthetics while still performing a vital function of transferring power from you to your skis through your ski boots. When we buckle our ski boots and tighten our power strap, we establish a connection with our gear, and in turn, the mountains.
+The power strap is an unassuming part of the ski boot but can contribute to transmitting power greater than many may expect. This band of material embodies function and form by still meeting aesthetics while still performing a vital function of transferring power from the skier to their skis through ski boots. When we buckle our ski boots and tighten our power strap, we establish a connection with our gear, and in turn, the mountains.
 
 ### Importance
 
-Precision and control are the ingredients necessary for your best skiing and the strap plays a role in this symphony of a sport. The strap keeps your foot in the optimal position, allowing for the proper movements of your foot within the boot. Whether it's carving down iced-up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
+Precision and control are the ingredients necessary for the days best skiing and the strap plays a role in this symphony of a sport. The strap keeps the foot in the optimal position, allowing for the proper movements of the foot within the ski boot. Whether it's carving down iced-up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
 
 ![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
 *Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
@@ -33,9 +27,9 @@ Over the past 10 or so years, power straps have been getting the attention they 
 
 ### Customization and Comfort
 
-The power strap sets itself apart by being able to adapt to your unique needs. In today's market, there are many different types of power straps, each with its own unique shape, features, and construction. Each of these models is geared towards a particular skier and the needs that they need filled. This allows for fine-tuning to be done to the boot by boot-fitters around the world, whether you prefer a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow you to fine-tune the fit.
+The power strap sets itself apart by being able to adapt to the skiers' unique needs. In today's market, there are different types of power straps, each with its own unique shape, features, and construction. Each of these models is geared towards a particular skier and the needs that they need filled. This allows for fine-tuning to be done to the boot by boot-fitters around the world, whether a preference toward a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow a fine tune fit.
 
-The fit is important to any piece of gear but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keeps your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
+The fit is important to any piece of gear, but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keeps your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
 
 ### Types
 

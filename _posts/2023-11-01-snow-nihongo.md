@@ -18,7 +18,7 @@ With Japanese resorts like Niseko, Hakuba, and Naeba taking the crown of "Most R
 
 **Don't be intimidated!**
 
-You can still enjoy Japan just as much as anyone else with their limited English and gestures! But a little bit of Japanese can go a long way. In this post, we will take a dip into the world of Japanese culture and the Japanese language on the ski hill. There are better guides for more travel-centric phrases, so we will focus on the on-mountain experience.
+You can still enjoy Japan just as much as anyone else with their limited English and gestures! But a little Japanese can go a long way. In this post, we will take a dip into the world of Japanese culture and the Japanese language on the ski hill. There are better guides for more travel-centric phrases, so we will focus on the on-mountain experience.
 
 ![Inagawa Ski Area at night in Yuzawa, Akita.](/assets/img/inagawa-night.jpeg)
 *Photo: Night skiing at [Inagawa Ski Area](https://www.city-yuzawa.jp/site/yuzawatrip/493.html) in Yuzawa, Akita.*
@@ -73,7 +73,7 @@ Most of the time there will be a readily accessible map or Google Translate is j
 
 ### Conditions
 
-Next, we will cover terms that you might hear from Japanese skiers on the slope or when listening to the staff in the morning as they describe the snow report. Many of these keywords follow their foreign counterparts.
+Next, we will cover terms related to the conditions and slope or when listening to the staff in the morning as they describe the snow report. Many of the ski specific keywords follow their foreign counterparts.
 
 | English | Romanization | Japanese |
 | :-----: | :----------: | :------: |
@@ -97,7 +97,7 @@ Next, we will cover terms that you might hear from Japanese skiers on the slope 
 
 ### Ski Stuff
 
-This is where we will take a look into ski equipment and also some of the fitting terms that you might use. These tips can help give you a better fit when renting gear or bragging about your own!
+This is where we will take a look into ski equipment and also some of the fitting terms that resort staff might use. These tips can help give the staff a better understanding of what's needed from them.
 
 | English | Romanization | Japanese |
 | :-----: | :----------: | :------: |
