@@ -18,7 +18,7 @@ With Japanese resorts like Niseko, Hakuba, and Naeba taking the crown of "Most R
 
 **Don't be intimidated!**
 
-You can still enjoy Japan just as much as anyone else with their limited English and gestures! But a little Japanese can go a long way. In this post, we will take a dip into the world of Japanese culture and the Japanese language on the ski hill. There are better guides for more travel-centric phrases, so we will focus on the on-mountain experience.
+Japan can be enjoyed just as much as anyone else even with limited English and gestures! But a little Japanese can go a long way. In this post, we will take a dip into the world of Japanese culture and the Japanese language on the ski hill. There are better guides for more travel-centric phrases, so we will focus on the on-mountain experience.
 
 ![Inagawa Ski Area at night in Yuzawa, Akita.](/assets/img/inagawa-night.jpeg)
 *Photo: Night skiing at [Inagawa Ski Area](https://www.city-yuzawa.jp/site/yuzawatrip/493.html) in Yuzawa, Akita.*

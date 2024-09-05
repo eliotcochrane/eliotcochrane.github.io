@@ -47,7 +47,7 @@ But just as ski sidecuts have changed over the years, so too has the technology 
 ![Sidas power strap.](/assets/img/sidas-power-strap.jpeg)
 *Photo: Sidas elastic power strap.*
 
-In scenarios with repeated impacts, such as moguls or when landing jumps, elastic power straps can help to alleviate harsh impacts by allowing the boot to flex more throughout the impact. These are often praised for reducing or eliminating "shin bang" by removing space between the tongue/cuff of the boot and the leg itself and allowing for appropriate pressure during the closure of the buckles.
+In scenarios with repeated impacts, such as moguls or when landing jumps, elastic power straps can help to alleviate harsh impacts by allowing the boot to flex more throughout the impact. These are often praised for reducing or eliminating "shin bang" from the harsh feeling when flexing forward in a static strap.
 
 ### Options
 
@@ -74,8 +74,8 @@ Atomic has been taking their boots to a whole new level in recent years. Startin
 
 ### Summary
 
-The underdog part of your boot, the power strap, stands as a quiet hero on your ski boots. From the moment you put it on and tighten the strap, the bond between skier and ski is tested and perfected through all of the many parts, including the power strap. The power strap can be synonymous with precision and control, regardless of whether you are racing on icy slopes or making the picture-perfect zig-zags down a bed of fresh powder. All of this in the effort to create a direct channel between you and your skis.
+The underdog part of any boot setup, the power strap, stands as a quiet hero on ski boots. From the moment it is put on and tightened, the bond between skier and ski is tested and perfected through the many parts, including the power strap. The power strap can be synonymous with precision and control, regardless of whether it's racing on icy slopes or making the picture-perfect zig-zags down a bed of fresh powder. All of this in the effort to create a direct channel between the skier and their skis.
 
-At the end of the day, what equipment you choose and how you maintain it is up to you. The choice of an aftermarket power strap falls into the spectrum of how much elasticity or shock absorption you want. The Booster Strap and Atomic Professional Dual Strap may be similar in elasticity, but the Atomic can provide an option to velcro the static half for a more direct connection. Yet a static strap with a cam-style buckle like the offerings on high-end race boots are a great choice for those who like a solid and sturdy connection. 
+At the end of the day, what equipment a skier chooses and how they maintain it is up to them. The choice of an aftermarket power strap falls into the spectrum of how much elasticity or shock absorption is desired. The Booster Strap and Atomic Professional Dual Strap may be similar in elasticity, but the Atomic can provide an option to velcro the static half for a more direct connection. Yet a static strap with a cam-style buckle like the offerings on high-end race boots are a great choice for those who like a solid and sturdy connection. 
 
-But the most important thing when skiing is to ensure that every moment skiing is a memorable one.
+But the most important thing when skiing is to ensure that every moment skiing is a memorable one. Don't let an indecision about equipment ruin your experience. But on the flip side, be sure to choose the right type of strap for the requirements the boot will need to match.
