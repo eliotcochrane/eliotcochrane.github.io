@@ -55,15 +55,12 @@ Don't expect too much.
 
 ### The Course
 
-WIP
-
 *Course Statistics*
-| Tee | Distance (yds) | Course Rating | Par |
-| --- | --- | --- | --- |
-| Ladies | 5218 | 66.5 | 72 |
-| Front | 5842 | 69.3 | 72 |
-| Regular | 6208 | 70.9 | 72 |
-| Back | 6609 | 72.8 | 72 |
+| Tee | Distance (yds) | Par |
+| --- | --- | --- |
+| Front | <center>6012</center> | 72 |
+| Regular | <center>6439</center> | 72 |
+| Back | <center>6830</center> | 72 |
 
 #### Tee Grounds
 
@@ -95,36 +92,54 @@ It's not uncommon for some casual players to just take their ball out of the bun
 
 The greens are a real Dr. Jekyll and Mr. Hyde parallel. Within the original story by Robert Louis Stevenson, Dr. Jekyll discovers a way to split his own personality between bad and good. Yuda Kogen CC almost has a similar feeling with their greens.
 
-Somehow they managed to make their green on the OUT course almost nearly dead. While the IN course is nearly all vibrant and only minor damage on the fringes. It is frustrating but for the price and the known financial problems the course has had, 
+Somehow they managed to make their green on the OUT course almost nearly dead. While the IN course is nearly all vibrant and only minor damage on the fringes. It is frustrating but for the price and the known financial problems the course has had, it can't be helped that those are the conditions of the greens.
 
 #### Marking
 
-WIP
+The marking was pretty standard with yardage markers with clear banding that are measured to the green center. The tee markers were also easy to see as most tee grounds were approached directly from the back on the cart path. As well as additional yardages to hazards on the course were also displayed such as an additional sign stating 150 yards to the water hazard in front of the green. Signs like these were helpful in club assessment when the rangefinder is in the cart.
 
 ### Lunch Break
 
-WIP
+The dining area is in the pre-fab building where the reception is. Before entering the dining area, there is an automated machine similar to a vending machine with all the choices for lunch. There are 10 different options to choose from that range from ramen, curry, and meal sets to appetizers for those who like a light lunch.
+
+In addition, the course also has special days when lunch is included in the price and there is a set menu to choose from. These are often publicized on their website and also for events that include multiple carts to be reserved.
 
 ### Post Round
 
-WIP
+Unfortunately, there is nothing special post round at Yuda Kogen CC. While most places in Japan have a nice place to get changed at take a bath, Yuda Kogen CC only has locker rooms for changing but often times those go unused as many people opt to go to a local onsen in the area.
+
+The local onsens in the Yuda area of Nishiwaga are quite spectacular. There are quite a few to choose from but some of the extraordinary ones are listed below.
+
+#### Sunayukko (砂ゆっこ)
+
+This is not the typical bath experience. Here, visitors will change into a yukata and then proceed into a much larger room that is filled with hot sand. Here the staff will have visitors lay down face-up with towel to act as a pillow. From there the staff cover the visitors in hot sand. The pressure of the sand is similar to that of a weighted blanket and the heat from the sand makes the sweating never stop.
+
+After a prescribed time by the staff, they will ask you to sit up if you can, and move into the next room which is a typical onsen to remove the sand and also clean yourself like a normal bath.
+
+As with all onsens, the onsen touts that the hot sand bath is good for feeling lighter and improving blood circulation.
+
+#### Hot Yuda Onsen (ほっとゆだ)
+
+This is a smaller bath that has been renovated within the last 5 years. It is quite famous for being one of the last remaining onsens that is attached to a train station. Many years ago this was much more common as the station was a meeting and waiting point.
+
+The Hot Yuda onsen is a nice little small place that is no frills. There are no outdoor baths and the water is typically hotter than others in the area. Within the men's, women's, and family bath, there are three temperatures to choose from. Very hot, hot, and mild. The mild bath is also shallow, so it is great for laying down.
 
 ### Overall Experience
 
-WIP
+The area of Nishiwaga provides a great backdrop all year round. The mountains perfectly frame the holes to offer spectacular views. But it's hard to get around the face that this course is slowly but surely dying. Each year the greens get worse and worse and there are no signs of maintenance work to repair the greens or drainage problems on many of the fairways. 
+
+If anything, this is a one time course to visit. Don't come expecting the most beautiful greens, pristine fairways, and an immaculate clubhouse. This is one to visit before it possibly goes under in the future and possibly becomes a solar farm.
 
 **Positives**
-- Friendly atmosphere
-- Great short-game practice area
-- Well-maintained carts
-- Varied strategies
-- Interesting layouts and views
+- No frills
+- Great green placement and shapes
+- Reasonable price
 
 **Negatives**
-- Dead areas on greens
+- Dead greens
 - Misleading best position flags
 - Front tee box placements unclear
-- Poor watershed management at lower elevations
+- Poor watershed management
 
 WIP
 
