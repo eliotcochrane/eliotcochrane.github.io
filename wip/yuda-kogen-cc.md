@@ -119,7 +119,7 @@ The dining area is in the pre-fab building where the reception is. Before enteri
 
 In addition, the course also has special days when lunch is included in the price and there is a set menu to choose from. These are often publicized on their website and also for events that include multiple carts to be reserved.
 
-### Postround
+### Post-Round
 
 Unfortunately, there is nothing special post round at Yuda Kogen CC. While most places in Japan have a nice place to get changed at take a bath, Yuda Kogen CC only has locker rooms for changing but often those go unused as many people opt to go to a local onsen in the area.
 

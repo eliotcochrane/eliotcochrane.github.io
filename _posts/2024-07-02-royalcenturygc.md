@@ -130,7 +130,7 @@ The service was excellent, and the time from food orders to being served on the 
 
 Now you're ready to take on the next 9 holes!
 
-### Post Round
+### Post-Round
 
 After the round, upon returning the cart to the clubhouse, you will claim your things and also check that all of your clubs are present and not forgotten somewhere on the course. After checking you have all of your belongings, you may return to the clubhouse for a post-round onsen bath.
 

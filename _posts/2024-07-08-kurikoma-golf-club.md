@@ -122,7 +122,7 @@ Typical play will have the mandatory lunch break as other clubs in Japan. With a
 
 The lunch menu is fairly set with a few main dishes and hors d'oeuvres. Although many of these can be mixed with hot or cold dishes to match the season, the ingredients will not change. There is also quite a selection of drinks ranging from soft drinks of different variations to alcoholic beverages.
 
-### Post Round
+### Post-Round
 
 After 18 holes are finished, return to the clubhouse. There, the staff will unload your cart and check for any lost items that they should be aware of. It's not uncommon for a wedge to be lost on a previous green. Ask the staff, and they will ask for contact information. After checking that you have all of your belongings, sign the sheet, and the staff will put your bag on the musical bag trolley.
 

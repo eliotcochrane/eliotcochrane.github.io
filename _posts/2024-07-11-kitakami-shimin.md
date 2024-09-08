@@ -128,7 +128,7 @@ Before entering, be sure to clean the bottoms of shoes with the pressurized air 
 
 Unfortunately, the lunch service is only available on weekends. During the week, the dining area is open for use but you will have to bring your own lunch. If you do go for a weekday tee time, be sure to bring a lunch or make a stop at a nearby convenience store.
 
-### Post Round
+### Post-Round
 
 Kitakami Shimin is as barebones as it gets. Once you're finished, you return to the clubhouse where the staff will remove your bags and chat with you about how the day went. The staff will check the cart for any of your belongings and then take time to clean the cart if necessary. From there, the bags will be put to the side for the next cart to come along.
 

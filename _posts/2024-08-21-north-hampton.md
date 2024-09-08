@@ -67,12 +67,12 @@ The driving range is tucked off to the side but relatively close to the clubhous
 *Photo: Layout of the course at North Hampton GC. Source: North Hampton GC*
 
 *Course Statistics*
-| Tee | Distance (yds) | Course Rating | Par |
+| <center>Tee</center> | <center>Distance (yds)</center> | <center>Course Rating</center> | <center>Par</center> |
 | --- | --- | --- | --- |
-| Ladies | 5218 | 66.5 | 72 |
-| Front | 5842 | 69.3 | 72 |
-| Regular | 6208 | 70.9 | 72 |
-| Back | 6609 | 72.8 | 72 |
+| <center>Ladies</center> | <center>5218</center> | <center>66.5</center> | <center>72</center> |
+| <center>Front</center> | <center>5842</center> | <center>69.3</center> | <center>72</center> |
+| <center>Regular</center> | <center>6208</center> | <center>70.9</center> | <center>72</center> |
+| <center>Back</center> | <center>6609</center> | <center>72.8</center> | <center>72</center> |
 
 #### Tee Grounds
 
@@ -140,7 +140,7 @@ The lunch was served in a side room with an outdoor extension which would be gre
 
 The second story provided some great views of a difficult No. 18 leading back to the clubhouse. Of course, a great position for groups and competitions to heckle each other.
 
-### Post Round
+### Post-Round
 
 Following the round, the onsen is a great place to wind down the round. Built towards the rear of the locker room, the tile floors provide a nice relaxing atmosphere to clean up and change into different clothes. Both face towels and drying towels are provided along with the necessary toiletries.
 
@@ -173,20 +173,20 @@ A very positive experience for beginners to experts that will remain in memory f
 
 ### My Score
 
-| Hole # | Par| Score | | Hole # |Par | Score |
+| <center>Hole #</center> | <center>Par</center> | <center>Score</center> | | <center>Hole #</center> | <center>Par</center> | <center>Score</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hole 1 | Par 5 | 5 | | Hole 10 | Par 4 | 5 |
-| Hole 2 | Par 4 | 3 | | Hole 11 | Par 4 | 5 |
-| Hole 3 | Par 3 | 4 | | Hole 12 | Par 3 | 4 |
-| Hole 4 | Par 4 | 4 | | Hole 13 | Par 5 | 6 |
-| Hole 5 | Par 4 | 5 | | Hole 14 | Par 4 | 4 |
-| Hole 6 | Par 4 | 5 | | Hole 15 | Par 4 | 4 |
-| Hole 7 | Par 3 | 3 | | Hole 16 | Par 5 | 5 |
-| Hole 8 | Par 5 | 5 | | Hole 17 | Par 3 | 4 |
-| Hole 9 | Par 4 | 5 | | Hole 18 | Par 4 | 4 |
+| <center>Hole 1</center> | <center>Par 5</center> | <center>5</center> | | <center>Hole 10</center> | <center>Par 4</center> | <center>5</center> |
+| <center>Hole 2</center> | <center>Par 4</center> | <center>3</center> | | <center>Hole 11</center> | <center>Par 4</center> | <center>5</center> |
+| <center>Hole 3</center> | <center>Par 3</center> | <center>4</center> | | <center>Hole 12</center> | <center>Par 3</center> | <center>4</center> |
+| <center>Hole 4</center> | <center>Par 4</center> | <center>4</center> | | <center>Hole 13</center> | <center>Par 5</center> | <center>6</center> |
+| <center>Hole 5</center> | <center>Par 4</center> | <center>5</center> | | <center>Hole 14</center> | <center>Par 4</center> | <center>4</center> |
+| <center>Hole 6</center> | <center>Par 4</center> | <center>5</center> | | <center>Hole 15</center> | <center>Par 4</center> | <center>4</center> |
+| <center>Hole 7</center> | <center>Par 3</center> | <center>3</center> | | <center>Hole 16</center> | <center>Par 5</center> | <center>5</center> |
+| <center>Hole 8</center> | <center>Par 5</center> | <center>5</center> | | <center>Hole 17</center> | <center>Par 3</center> | <center>4</center> |
+| <center>Hole 9</center> | <center>Par 4</center> | <center>5</center> | | <center>Hole 18</center> | <center>Par 4</center> | <center>4</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| OUT | Par 36 | 38 | | IN | Par 36 | 41 |
+| <center>OUT</center> | <center>Par 36</center> | <center>38</center> | | <center>IN</center> | Par 36</center> | <center>41</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| **OUT** | **IN** | **TOTAL** |
-| 38 | 41 | **79** |
+| <center>**OUT**</center> | <center>**IN**</center> | <center>**TOTAL**</center> |
+| <center>38</center> | <center>41</center> | <center>**79**</center> |
 
