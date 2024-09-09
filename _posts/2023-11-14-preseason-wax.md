@@ -133,12 +133,12 @@ This is a great waxing method during the ski season. It may not work for pre-sea
 
 ### Infrared Waxer (IR)
 
-![Infrared applications on track and handheld](/assets/img/preseason-wax-infrared.jpg)
-*Photo: Handheld IR unit (left) and Wintersteiger IR unit (right).*
-
 Infrared has been used for years in ski shops around the world. Many times in a shop, the ski wax is either crayoned on or applied using a hot wax roller. From there, the skis are put on a bench face up under a track. On the track is an infrared lamp that moves at a calibrated speed depending on the wax type. The infrared will go up and down the skis at the appropriate speed for best penetration without needing to excessively heat the base material.
 
 While the typical shop unit is out of the price range of the regular consumer, there is a handheld unit making the rounds. The most common is on sale from mountainFLOW. mountainFLOW is a company that makes eco-friendly and biodegradable ski and snowboard wax. So, the idea of reduced wax waste really connects with the goals of mountainFLOW to reduce waste.
+
+![Infrared applications on track and handheld](/assets/img/preseason-wax-infrared.jpg)
+*Photo: Handheld IR unit (left) and Wintersteiger IR unit (right).*
 
 Here, the wax is applied with the crayon method with full coverage. Unlike the classic hot-iron method, the wax may not spread in multiple directions. So making sure that every millimeter of the ski is crayoned with wax is important. After that, the handheld IR lamp is held slightly above the base and slowly moved along the ski at the same height. It's a fine balance of not getting too close to overheat the wax and not being too far to properly heat the wax for absorption. After cooling, what little wax remains can be scraped away easily and then brushed for the final finish.
 
@@ -163,10 +163,10 @@ The dream of any weekend rider has always been having a universal wax that works
 
 DPS Phantom Glide is a permanent wax solution that does not need to be reapplied during the season. Of course, if there is enough damage, then the effectiveness will be reduced, but having a permanent solution has been the holy grail for years.
 
+To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply it directly after a full stone-grind done by a ski shop.
+
 ![DPS permanent waxing method](/assets/img/preseason-wax-dpsphantom.jpg)
 *Photo: Application steps of the DPS Phantom Glide treatment.*
-
-To apply the DPS Phantom Glide treatment, there are shops that have the equipment to make a flawless application. For a small fee, the permanent solution can be applied to the ski and then cured using a UV light. As this is a one-time solution, it is best to apply it directly after a full stone-grind done by a ski shop.
 
 This can also be done at home too. While most homes don't have UV lamps like a professional shop, DPS outlines methods to use the sun as a natural UV source to cure the treatment into the base. Just like at a regular shop, after getting a stone grind, you will put the brakes up and clean the bases to remove any leftover bits from the machine and remove any base hairs.
 
