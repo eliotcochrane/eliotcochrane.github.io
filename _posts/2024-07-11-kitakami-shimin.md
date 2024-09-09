@@ -58,7 +58,7 @@ Kitakami Shimin is a 9-hole course. This means that you will play the same 9 hol
 | Tees | OUT | IN |
 | --- | --- | --- |
 | Regular | White | Blue |
-| Over 70 | Green | Orange |
+| Senior | Green | Orange |
 | Ladies | Red | Pink |
 
 ![Tee rotation explanation at Kitakami Shimin](/assets/img/kitakamishimin-5.jpeg)

@@ -134,7 +134,8 @@ This is not the typical bath experience. Here, visitors will change into a yukat
 
 After a prescribed time by the staff, they will ask you to sit up and move into the next room which is a typical onsen to remove the sand and also clean yourself like a normal bath.
 
-![Classic photo of customers in the sand bath at Sunoyukko. Photo: Nishiwaga.biz](/assets/img/yudacc-24.jpeg)
+![Classic photo of customers in the sand bath at Sunayukko.](/assets/img/yudacc-24.jpeg)
+*Photo: Old photo of customers in the sand bath at Sunayukko. Photo: Nishiwaga.biz*
 
 As with all onsens, the onsen touts that the hot sand bath is good for feeling lighter and improving blood circulation.
 
