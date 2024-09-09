@@ -14,7 +14,7 @@ image: eliot_carving_yuda.jpeg
 
 As the snow continues to fall, skiers of all levels eagerly prepare to slide their way down the hill on their planks of choice. Amidst the anticipation, skiers long for the days of endless powder and first tracks forever. While powder skiing is undoubtedly thrilling, dedicating time to work on the fundamentals can be a strategic investment in becoming a better and more proficient skier.
 
-In the pursuit of becoming a well-rounded skier, mastering the art of carving on piste can significantly enhance your enjoyment and technique. Let's take a look at some of the ways that we can use carving to our advantage both on and off piste.
+In the pursuit of becoming a well-rounded skier, mastering the art of carving on piste can significantly enhance enjoyment and technique. Let's take a look at some of the ways that we can use carving to our advantage both on and off-piste.
 
 ![Marcus Canston carving](/assets/img/marcus_canston_carving_blizzard.jpeg)
 *Photo: Marcus Canston carving on wide skis. Source: [Blizzard Sport](https://www.blizzard-tecnica.com/us/en)*
@@ -22,9 +22,9 @@ In the pursuit of becoming a well-rounded skier, mastering the art of carving on
 ### Precision in Practice
 #### Carving as the Foundation
 
-Carving on groomed slopes provides the perfect environment to refine your skiing technique. The structured slope allows skiers to focus on the subtleties within the turns such as body distribution, positioning, and edge control. By mastering these fundamentals on piste, skiers can take these senses of precision and control for a more controlled off piste experience.
+Carving on groomed slopes provides the perfect environment to refine skiing technique. The structured slope allows skiers to focus on the subtleties within the turns such as body distribution, positioning, and edge control. By mastering these fundamentals on piste, skiers can take these senses of precision and control for a more controlled off piste experience.
 
-Each carve down a groomed trail becomes a deliberate and focused task in technique. The skills honed will provide a backbone to tackle even greater challenges off piste. The turns are not about being perfect like a world cup skier but are in fact about instilling confidence. Bringing this confidence to off piste slopes will enable the finesse and grace seen in your favorite ski films.
+Each carve down a groomed trail becomes a deliberate and focused task in technique. The skills honed will provide a backbone to tackle even greater challenges off piste. The turns are not about being perfect like a world cup skier but are in fact about instilling confidence. Bringing this confidence to off piste slopes will enable the finesse and grace seen in popular ski films.
 
 ### Edge Control
 #### Key to Versatility
@@ -38,7 +38,7 @@ The controlled environment is a safe place to practice and experiment with edge 
 
 Carving isn't just about perfecting turns; it's a full-body workout. The sustained effort for precise carving turns on piste creates all-around strength and endurance. Physical conditioning will allow longer runs without breaking the fun when a fresh layer of deep powder awaits.
 
-The strength and endurance mainly focus on the legs but the core strength is one part that keeps it all together. On piste, a weak core will wreak havoc on weight distribution resulting in imbalance and unsatisfying turns. The muscular endurance and strength developed on the groomed slopes will give you resilience allowing you to handle any powder conditions with control and stamina.
+The strength and endurance mainly focus on the legs, but the core strength is one part that keeps it all together. On piste, a weak core will wreak havoc on weight distribution resulting in imbalance and unsatisfying turns. The muscular endurance and strength developed on the groomed slopes will elevate physical resilience allowing mastery in any powder condition with control and stamina.
 
 ![Myself carving on the local slope](/assets/img/eliot_carving_yuda.jpeg)
 *Photo: Eliot Cochrane carving on local slopes.*
@@ -46,23 +46,23 @@ The strength and endurance mainly focus on the legs but the core strength is one
 ### Terrain Awareness
 #### Read the Line
 
-Just like reading a putt in golf to see where the ball will go, reading the piste to decide where you will go is equally important to your ski progression. Groomed runs offer a predictable setting where skiers can focus and learn the nuances of hills, bumps, and steepness. These nuances include changes in pitch, snow consistency, varying side or parallel pitches, and obstacles. These translate into awareness on unmarked off piste terrain.
+Just like reading a putt in golf to see where the ball will go, reading the piste to decide the skiing line is equally important to ski ability progression. Groomed runs offer a predictable setting where skiers can focus and learn the nuances of hills, bumps, and steepness. These nuances include changes in pitch, snow consistency, varying side or parallel pitches, and obstacles. These translate into awareness on unmarked off-piste terrain.
 
-On groomed slopes, your eyes will naturally scan for changes in terrain for variations to anticipate. Each time you absorb a bump and maintain control or carve over a roller, your body will mentally remember what worked best and what didn't. The heightened awareness will become second nature as you begin to read the slope, building confidence with each turn.
+On groomed slopes, our eyes will naturally scan for changes in terrain for variations to anticipate. Each time we absorb a bump and maintain control or carve over a roller, the body will mentally remember what worked best and what didn't. The heightened awareness will become second nature when beginning to read the slope, building confidence with each turn.
 
 ### Confidence in the Unknown
 #### Carving Builds Mental Fortitude
 
-Just as much as carving is a physical exercise; carving is a mental one too. The groomed environment provides the perfect space for skiers to push their comfort zones and build a new limit and level of confidence. Confidence in your abilities is a valuable tool off piste where the unknown can be thrilling and intimidating.
+Just as much as carving is a physical exercise; carving is a mental one too. The groomed environment provides the perfect space for skiers to push their comfort zones and build a new limit and level of confidence. Confidence in skiing abilities is a valuable tool off-piste where the unknown can be thrilling and intimidating.
 
-The mental fortitude developed through on-piste carving empowers skiers to tackle challenges with a calm, composed mind and allows their focus to be channeled elsewhere. Embracing the excitement of powder with confidence built on piste is a surefire way to make your skiing move into the next phase.
+The mental fortitude developed through on-piste carving empowers skiers to tackle challenges with a calm, composed mind and allows their focus to be channeled elsewhere. Embracing the excitement of powder with confidence built on piste is a surefire way to move up the ability ladder and into the next phase.
 
 ***
 
 ![Head skis overlooking Geto Skis Resort](/assets/img/head_skis_at_geto.jpeg)
 *Photo: Head skis overlooking Geto Ski Resort.*
 
-When we look at the skiing ads, it's easy to succumb to the obsession with off piste adventures. We all want to rush there and get the first powder of the day.
+When we look at the skiing ads, it's easy to succumb to the obsession with off-piste adventures. We all want to rush there and get the first powder of the day.
 
 However, carving on piste is the unsung hero of ski mastery. On the groomed slope, carving on piste can provide foundations for:
 * precision
@@ -73,4 +73,4 @@ However, carving on piste is the unsung hero of ski mastery. On the groomed slop
 
 Balancing the thrill of powder skiing and the discipline of on piste carving is not just a compromise; it's an approach to becoming a better and well-rounded skier.
 
-So as the snow beckons you with a bed of new powder, remember that groomed trails are not just a means to an end - they are a journey to make you a better skier.
+So as the snow beckons with a bed of new powder, remember that groomed trails are not just a means to an end - they are a journey to make you a better skier.
