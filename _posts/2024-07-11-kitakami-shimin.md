@@ -47,19 +47,19 @@ Players ranging from juniors to seniors will spend their time before and after r
 *Photo: Layout of the course at Kitakami Shimin. Source: Kitakami Shimin*
 
 *Course Statistics*
-| Tee | Distance (yds) | Course Rating | Par |
+| <center>Tee</center> | <center>Distance (yds)</center> | <center>Course Rating</center> | <center>Par</center> |
 | --- | --- | --- | --- |
-| Ladies (Forward) | 5074 | 68.8 | 72 |
-| Regular | 6124 | 69.2 | 72 |
-| Back (Competition) | 6418 | 70.3 | 72 |
+| <center>Ladies (Forward)</center> | <center>5074</center> | <center>68.8</center> | <center>72</center> |
+| <center>Regular</center> | <center>6124</center> | <center>69.2</center> | <center>72</center> |
+| <center>Back (Competition)</center> | <center>6418</center> | <center>70.3</center> | <center>72</center> |
 
 Kitakami Shimin is a 9-hole course. This means that groups will play the same 9 holes twice but from different tees each time. In the picture below, the information seen is...
 
-| Tees | OUT | IN |
+| <center>Tees</center> | <center>OUT</center> | <center>IN</center> |
 | --- | --- | --- |
-| Regular | White | Blue |
-| Senior | Green | Orange |
-| Ladies | Red | Pink |
+| <center>Regular</center> | <center>White</center> | <center>Blue</center> |
+| <center>Senior</center> | <center>Green</center> | <center>Orange</center> |
+| <center>Ladies</center> | <center>Red</center> | <center>Pink</center> |
 
 ![Tee rotation explanation at Kitakami Shimin](/assets/img/kitakamishimin-5.jpeg)
 *Photo: Tee rotation explanation at Kitakami Shimin.*
@@ -164,20 +164,20 @@ Clearly, Kitakami Shimin is the golf club for the average amateur, and that's no
 
 ### My Score
 
-| Hole # | Par| Score | | Hole # |Par | Score |
+| <center>Hole #</center> | <center>Par</center> | <center>Score</center> | | <center>Hole #</center> | <center>Par</center> | <center>Score</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hole 1 | Par 4 | 4 | | Hole 10 | Par 4 | 5 |
-| Hole 2 | Par 5 | 5 | | Hole 11 | Par 5 | 5 |
-| Hole 3 | Par 4 | 5 | | Hole 12 | Par 4 | 5 |
-| Hole 4 | Par 4 | 4 | | Hole 13 | Par 4 | 4 |
-| Hole 5 | Par 3 | 3 | | Hole 14 | Par 3 | 3 |
-| Hole 6 | Par 4 | 4 | | Hole 15 | Par 4 | 5 |
-| Hole 7 | Par 3 | 3 | | Hole 16 | Par 3 | 3 |
-| Hole 8 | Par 5 | 6 | | Hole 17 | Par 5 | 5 |
-| Hole 9 | Par 4 | 5 | | Hole 18 | Par 4 | 5 |
+| <center>Hole 1</center> | <center>Par 4</center> | <center>4</center> | | <center>Hole 10</center> | <center>Par 4</center> | <center>5</center> |
+| <center>Hole 2</center> | <center>Par 5</center> | <center>5</center> | | <center>Hole 11</center> | <center>Par 5</center> | <center>5</center> |
+| <center>Hole 3</center> | <center>Par 4</center> | <center>5</center> | | <center>Hole 12</center> | <center>Par 4</center> | <center>5</center> |
+| <center>Hole 4</center> | <center>Par 4</center> | <center>4</center> | | <center>Hole 13</center> | <center>Par 4</center> | <center>4</center> |
+| <center>Hole 5</center> | <center>Par 3</center> | <center>3</center> | | <center>Hole 14</center> | <center>Par 3</center> | <center>3</center> |
+| <center>Hole 6</center> | <center>Par 4</center> | <center>4</center> | | <center>Hole 15</center> | <center>Par 4</center> | <center>5</center> |
+| <center>Hole 7</center> | <center>Par 3</center> | <center>3</center> | | <center>Hole 16</center> | <center>Par 3</center> | <center>3</center> |
+| <center>Hole 8</center> | <center>Par 5</center> | <center>6</center> | | <center>Hole 17</center> | <center>Par 5</center> | <center>5</center> |
+| <center>Hole 9</center> | <center>Par 4</center> | <center>5</center> | | <center>Hole 18</center> | <center>Par 4</center> | <center>5</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| OUT | Par 36 | 39 | | IN | Par 36 | 40 |
+| <center>OUT</center> | <center>Par 36</center> | <center>39</center> | | <center>IN</center> | <center>Par 36</center> | <center>40</center> |
 | --- | --- | --- | --- | --- | --- | --- |
-| **OUT** | **IN** | **TOTAL** |
-| 39 | 40 | **79** |
+| <center>**OUT**</center> | <center>**IN**</center> | <center>**TOTAL**</center> |
+| <center>39</center> | <center>40</center> | <center>**79**</center> |
 

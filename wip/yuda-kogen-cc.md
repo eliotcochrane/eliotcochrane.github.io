@@ -65,11 +65,11 @@ Don't expect too much.
 ### The Course
 
 *Course Statistics*
-| Tee | Distance (yds) | Par |
+| <center>Tee</center> | <center>Distance (yds)</center> | <center>Par</center> |
 | --- | --- | --- |
-| Front | <center>6012</center> | <center>72</center> |
-| Regular | <center>6439</center> | <center>72</center> |
-| Back | <center>6830</center> | <center>72</center> |
+| <center>Front</center> | <center>6012</center> | <center>72</center> |
+| <center>Regular</center> | <center>6439</center> | <center>72</center> |
+| <center>Back</center> | <center>6830</center> | <center>72</center> |
 
 #### Tee Grounds
 
