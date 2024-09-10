@@ -8,17 +8,17 @@ image: swix-wax-side-angle.jpeg
 ---
 
 ## <center>Refresh Your Skis</center>
-### <center>Guide And Tips To Get Your Old Skis Ready</center>
+### <center>Guide And Tips To Get Skis Ready</center>
 
 ***
 
-The ski season has already started in some areas of Europe and North America. It's time for us to get ready for when the white powder begins to drop on us! Today, we'll take a step into preparing skis for the new season. But instead of new skis, we'll be taking this from the angle that you have your favorite skis and will never let them leave your grip until they are dead and gone.
+The ski season has already started in some areas of Europe and North America. It's time for us to get ready for when the white powder begins to drop on us! Today, we'll take a step into preparing skis for the new season. But instead of new skis, we'll be taking this from the angle that there are already a loved pair of skis that will never leave your grip until they are dead and gone.
 
 We'll be looking at storage wax removal, edge maintenance, base condition check, and then giving the skis the wax juice that will be so important once the slopes open. Come with us a little further as we start preparing our old skis for the season.
 
 *This is a basic guide for those in need of a quick reminder of what to do without needing a race tune.*
 
-**Remember to follow safety precautions and consider having a professional tune your skis if you're not confident in your own skills. Additionally, it's essential to regularly maintain your skis throughout the season to ensure they perform at their best.**
+**Remember to follow safety precautions and consider having a professional tune skis if ever feeling doubt or uneasy with any of the steps. Additionally, it's essential to regularly maintain skis throughout the season to ensure they perform at their best.**
 
 ![Swix brushes](/assets/img/brush-mountain-side.jpeg)
 *Photo: Variety of Swix brushes.*
@@ -83,20 +83,18 @@ Starting from warm wax and progressing to cold wax, completely wax the ski about
 
 ### Edge Cleanup
 
-Edges are just as important as the base. To keep you in control in varying conditions, a solid edge tune will be the difference between you traversing an ice ledge and you falling victim to it. If you choose to tune your edges and use a file guide, be sure to scrape and brush to expose the base for a better tune.
+Edges are just as important as the base. To stay in control in varying conditions, a solid edge tune will be the difference between traversing an ice ledge and falling victim to it. When choosing to tune skis using a file guide, be sure to scrape and brush to expose the flat base for a better tune. Any leftover wax on the base may potentially alter the angle of the guide relative to the base.
 
 Using an edge guide and file, lightly run along the edge with the grip of a firm handshake. Let the tools do the work. If plastic is being taken off instead of edge material, cutting back the sidewall material may be necessary.
 
 ![File and diamond stone](/assets/img/file-diamond-lineup.jpeg)
 *Photo: Fine teeth file and diamond stone side-by-side.*
 
-If you plan to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until they feel sharp again. This gives the skis a little more longevity because the edge material stays around much longer.
+When planning to remove only a small bit of material, a diamond stone may be more than enough for most. Using an edge file and guide is just about enough, maybe even less in powder. As a local go-to technician for many weekend warrior racers, I will prepare the edges at the beginning of the season. After each day of skiing, those skiers will just take a diamond stone or ceramic stone and lightly touch up the edges until they feel sharp again. This gives the skis a little more longevity because the edge material stays around much longer.
 
 ### Scrape To Go
 
 For the last step, we probably left a few marks on our base after using the guide or any other tools to get the edge back in condition. For the last step, just take a mid-temperature range of wax and do a full wax and don't scrape. More than likely the first ski falls into temperatures that are from -4°C to -12°C. A mid-temp wax will surely fall into this category and leave you with just a scrape and a brushing before heading to the hill!
-
-Get ready because the season will come sooner than you think!
 
 ![Toolbox of ski tuning equipment](/assets/img/tuning-box-top.jpeg)
 *Photo: Toolbox full of ski tuning equipment.*
@@ -116,7 +114,7 @@ Liquid wax is exactly as it sounds. The wax is already liquefied and then applie
 
 Once applied, these waxes require a drying time of approximately 15 to 30 minutes. Some waxes may leave a white haze when dried on the ski, while others may not be visible when dry. Trust the system.
 
-From here, it’s a light brushing, and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that you just applied, as the wax does not penetrate as deep into the base as traditional hot wax.
+From here, it’s a light brushing, and the ski is ready to go. Brushing too much or too aggressively will actually remove the wax that was just applied, as the wax does not penetrate as deep into the base as traditional hot wax.
 
 **Benefits**
 - Beginner-friendly
@@ -155,7 +153,7 @@ Here, the wax is applied with the crayon method with full coverage. Unlike the c
 - Black bases warm quicker than colored bases
 
 **Overall**<br>
-Waxing skis can feel daunting at first. The handheld infrared waxing method, on the surface, sounds great due to reduced chances of burning the base and damaging the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't let the rose-tinted glasses fool you; it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or to those who are enthusiasts and are willing to risk a poor wax job in exchange for gaining ski tuning credentials.
+Waxing skis can feel daunting at first. The handheld infrared waxing method, on the surface, sounds great due to reduced chances of burning the base and damaging the core of the ski. Also, we should reduce our wax impact by creating less waste from waxing. But don't be fooled; it can be very fickle if handheld. When making multiple passes up and down the ski, the melting point of the wax can be difficult to spot if done by a beginner. This is an interesting evolution of the waxing method but should be left to the shop with their already calibrated units or to those who are enthusiasts and are willing to risk a poor wax job in exchange for gaining ski tuning credentials.
 
 ### DPS PHANTOM Glide
 
@@ -172,9 +170,9 @@ This can also be done at home too. While most homes don't have UV lamps like a p
 
 Next, take the solution Part A, open it, and spread evenly along the ski using the sponge in the kit without dripping too much of the precious solution. Making a clear center and then working outwards toward the edges in a rotating method, like waxing, helps get every nook and cranny of the structure covered with the solution. Once both skis are covered, let the treatment soak into the base for 20 minutes. After soaking into the base, wipe the excess solution off with a clean cloth and prepare for UV curing.
 
-The skis in a shop have an easy Phantom Curing Station that only requires twenty minutes of baking in a UV lamp station. At home, though, it requires a bit of planning with mother nature. Using natural sunlight, the curing requires close to 2 hours of bright sunlight, and it cures better in warmer weather. Not only do you have to worry about the weather, but also the latitude of where you will be doing the DIY wax treatment. In high latitudes, the atmosphere can reduce the intensity of the UV wavelengths and may not cure to the peak in the allotted time, potentially requiring longer or a specialized UV source. DPS notes that it can even take up to 6 hours.
+The skis in a shop have an easy Phantom Curing Station that only requires twenty minutes of baking in a UV lamp station. At home, though, it requires a bit of planning with mother nature. Using natural sunlight, the curing requires close to 2 hours of bright sunlight, and it cures better in warmer weather. Not only is weather a worry, but also the latitude of where the DIY wax treatment will be done. In high latitudes, the atmosphere can reduce the intensity of the UV wavelengths and may not cure to the peak in the allotted time, potentially requiring longer or a specialized UV source. DPS notes that it can even take up to 6 hours.
 
-Next, thoroughly brush the skis with the brush provided in the box. Do not use your own brush that you have used in the past for traditional waxing, as this cured dust isn't beneficial and may reduce brushing performance on future traditionally waxed skis. This will get the majority of it off. Lastly, take a nylon brush (the one provided in the box, or your own brush is okay for this stage) and buff the surface to a sheen.
+Next, thoroughly brush the skis with the brush provided in the box. Do not use your own brush that has been used in the past for traditional waxing. When brushing, the cured dust isn't beneficial and may reduce brushing performance on future traditionally waxed skis. This will get the majority of it off. Lastly, take a nylon brush (the one provided in the box, or an old nylon brush is okay for this stage) and buff the surface to a sheen.
 
 Then, using the solution of Part B, do the same thing, just using a new solution!
 
@@ -190,12 +188,12 @@ Then, using the solution of Part B, do the same thing, just using a new solution
 - Cure time when doing DIY takes quite long
 
 **Overall**<br>
-For the great majority who don't want the tradition of waxing the night before, this is a wonderful solution. It might feel expensive up-front, but it will make up for itself over time. Getting it done before the season begins can leave you with a stress-free mindset knowing that you won't need to touch a waxing iron. The performance might not be like a race-ready tune, but most people will never need that level of glide, and a basic universal wax will be more than enough!
+For the great majority who don't want the tradition of waxing the night before, this is a wonderful solution. It might feel expensive up-front, but it will make up for itself over time. Getting it done before the season begins can provide a stress-free mindset knowing that you won't need to touch a waxing iron. The performance might not be like a race-ready tune, but most people will never need that level of glide, and a basic universal wax will be more than enough!
 
 ***
 
 ## Final Thoughts
 
-There are some people who love the tradition of waxing skis and find it almost therapeutic. As technology has progressed, there are also newer methods that can enhance your tuning preparation for the winter. Traditional hot waxing is a skill that needs to be honed just like any other. Newer methods make this more approachable and can make you more comfortable on the first run, knowing that you will have the glide that you want at the end of a chute or making your way back on the flats to the lift. Get out there and get ready for the upcoming season.
+There are some people who love the tradition of waxing skis and find it almost therapeutic. As technology has progressed, there are also newer methods that can enhance tuning preparation for the winter. Traditional hot waxing is a skill that needs to be honed just like any other. Newer methods make this more approachable and can provide confidence on the first run, knowing that you will have the glide at the end of a chute to make it back to the lift on the flats. Get out there and get ready for the upcoming season.
 
 ![Nordica skis on tuning bench](/assets/img/preseason-wax-nordicabench.jpeg)

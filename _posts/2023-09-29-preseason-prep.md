@@ -7,13 +7,7 @@ tags: ["Ski", "Preseason", "Fitness", "Running", "Motivation", "Exercise", "Off-
 image: running-shoes-1.jpeg
 ---
 
-## <center>Preseason</center>
-
-As the season draws closer, we'll look into the best things you can do to make your winter more enjoyable and safer too. These will range from things you can do for your fitness, mental preparation, and gear oriented changes that you can make before the season starts. Be sure to give each a good read and make a decision of what is best for you to make your winter in Japan fun and safe.
-
-***
-
-### <center>Fitness</center>
+### <center>Preseason Fitness</center>
 #### <center>The Key to a Rewarding Season</center>
 
 ***
