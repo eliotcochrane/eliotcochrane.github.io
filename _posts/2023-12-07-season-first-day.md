@@ -127,7 +127,7 @@ Ensure the skier keeps the inside ski completely off the snow throughout the ent
 
 More important than any of these exercises is **SAFETY**. If any of these exercises are too difficult, feel free to slow down and practice even more basic turns such as the stem turn. We all have different levels in skiing and all have different goals as well. There is no need to practice something too difficult. The progress to learning is taking it in small achievable goals.
 
-In the same line as golf, the best course of action is also to get a coach or professional to help assess your skiing and pinpoint what is needed to improve. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has its own instructor organizations. Check the certifications of instructors of your local area or the place(s) planned to visit in the future.
+In the same line as golf, the best course of action is also to get a coach or professional to help assess your skiing and pinpoint what is needed to improve. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has its own instructor organizations. Check the certifications of instructors in your local area or the planned places to visit in the future.
 
 Most importantly, have fun and stay safe. Proper stretching both **before** and **after** can be a key to a long season. So don't let the time go to waste!
 
