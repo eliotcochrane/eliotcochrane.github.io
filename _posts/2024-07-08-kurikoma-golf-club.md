@@ -13,7 +13,7 @@ image: KurikomaGC-10.jpeg
 
 ***
 
-Weaving holes throughout the red pine forest within Oshu City, Kurikoma Golf Club provides a great view of Mt. Komagatake as you make your way through the course. Designed with the idea of not modifying the natural contouring, the relatively flat course is complemented by the natural undulations throughout, giving an elegant experience that leaves a taste to come back for more.
+Weaving holes throughout the red pine forest within Oshu City, Kurikoma Golf Club provides a great view of Mt. Komagatake as throughout the course. Designed with the idea of not modifying the natural contouring, the relatively flat course is complemented by the natural undulations throughout, giving an elegant experience that leaves a taste to come back for more.
 
 Originally built in 1978 with 18 holes, a further 9-hole expansion was built in 1990 due to the increased golf demand during the financial bubble. During the Japanese Bubble Economy from 1986 to 1991, access to expendable funds was more common, and golf became a sport for the people. This rush for golf pushed Kurikoma Golf Club to invest in an additional 9 holes to accommodate the appetite.
 
@@ -23,12 +23,12 @@ Claiming to be one of the top woodland courses, it attracts people from all leve
 
 ### Clubhouse
 
-Driving to the club, like any other, you get little peeks at the course. Arriving at Kurikoma Golf Club, you will drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, you will be greeted by one or two staff members who will take your bag, put it in a cart which sings a lovely tune as it goes to the starting area, and also take your golf bag and put it near the entrance for you.
+Driving to the club, like any other, little peeks of the course show themselves along the winding road to the course. Arriving at Kurikoma Golf Club, the most common road will take drivers drive alongside the first hole of one of the three routes. Pulling the car to the front, the clubhouse is quiet and doesn't stand out compared to others. At the club drop-off, golfers will be greeted by one or two staff members who will take bags, put it in a cart which sings a lovely tune as it goes to the starting area, and also take any Boston bag or similar and put it near the entrance.
 
 ![Front entrance to the clubhouse at Kurikoma Golf Club.](/assets/img/KurikomaGC-3.jpeg)
 *Photo: Front entrance to the clubhouse at Kurikoma Golf Club.*
 
-After parking, you'll check in and head downstairs to the locker room to get changed. It's pretty standard from there. When you're ready, it's time to warm up.
+After parking, check in and head downstairs to the locker room to get changed. It's pretty standard from there. When ready, it's time to warm up.
 
 ***
 
@@ -36,7 +36,7 @@ After parking, you'll check in and head downstairs to the locker room to get cha
 
 #### Driving Range
 
-Across the road from the clubhouse is a 250-yard driving range. There are fifteen bays with soft mats that have plenty of give to avoid muscle strain. A 100円 coin will give you 15 balls ranging from simple range balls to premium lost balls like Titleist ProV1's. The range is also open before and after the round, so if you feel that something needs work after the round, you are free to do so.
+Across the road from the clubhouse is a 250-yard driving range. There are fifteen bays with soft mats that have plenty of give to avoid muscle strain. A 100円 coin will give 15 balls ranging from simple range balls to premium lost balls like Titleist ProV1's. The range is also open before and after the round, so feel free to work on something before or after a round.
 
 #### Putting Greens
 
@@ -47,7 +47,7 @@ Before stepping onto the course, warming up arguably the most important club in 
 
 ### The Course
 
-Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 different course ratings depending on the courses you play.
+Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 different course ratings depending on the course played.
 
 *Course Statistics*
 
@@ -72,7 +72,7 @@ Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 d
 
 #### Tee Grounds
 
-As this is a fairly flat course, the tees were mostly in a straight line toward the hole or dogleg on the appropriate holes. Only Hole 7 on the West routing was out of place for the forward tees. While Hole 7 on the West did have water in front of the tees for the regular and back, the front tees were on the other side of the water, immediately looking up a steep slope. While the distance may be appropriate, the steep slope may prove troublesome to a segment of golfers which already have a lack of height problem. But on the following Hole 8 on the West routing, the front tees were the only position to clearly see a pin position on the left from the tee ground.
+As this is a fairly flat course, the tees were mostly in a straight line toward the hole or dogleg on the appropriate holes. Only Hole 7 on the West routing was out of place for the forward tees. While Hole 7 on the West did have water in front of the tees for the regular and back, the front tees were on the other side of the water, immediately looking up a steep slope. While the distance may be appropriate, the steep slope may prove troublesome to a segment of golfers which already have a lack of ball flight height problems. But on the following Hole 8 on the West routing, the front tees were the only position to clearly see a pin position on the left from the tee ground.
 
 ![Hole 6 of East Course at Kurikoma Golf Club](/assets/img/KurikomaGC-7.jpeg)
 *Photo: View from tee ground of Hole 6 of East Course at Kurikoma Golf Club.*
@@ -86,17 +86,17 @@ During the year, the fairways will change from hard to soft and then to hard due
 ![Hole 6 of East Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-8.jpeg)
 *Photo: Fairway of Hole 6 of East Course at Kurikoma Golf Club.*
 
-The fairway width also varied appropriately. A regular 250-yard drive will give you plenty of options to look at the green, but the further your ball goes, sometimes you may be too close to trees. But if your average yardage is between 270 and 290 yards, you will avoid all of the trouble if you can keep it on the same hole.
+The fairway width also varied appropriately. A regular 250-yard drive will give plenty of options to look at the green, but the further the ball goes the better because many of the hazards sit around the 240 yard mark. Having an average yardage from the tee between 270 and 290 yards will put most of the trouble in the rearview mirror.
 
 #### Rough
 
-The rough was much thicker and heavier than typical courses around Japan. It's not uncommon at other courses to be in the rough but still have a good chance to make contact without grass between the face of the club and the ball. Not so at Kurikoma Golf Club. Sometimes your ball will settle right into a little pocket of grass. This makes your club selection and mental endurance critical, as sometimes your best option may be to not take the chance of a hybrid or fairway wood out of the rough and instead lay up with an iron that can possibly give better contact and reduce stress from blowing up the hole.
+The rough was much thicker and heavier than typical courses around Japan. It's not uncommon at other courses to be in the rough but still have a good chance to make contact without grass between the face of the club and the ball. Not so at Kurikoma Golf Club. Sometimes the ball will settle right into a little pocket of grass. This makes club selection and mental endurance critical, as sometimes the best option may be to not take the chance of a hybrid or fairway wood out of the rough and instead lay up with an iron that can possibly give better contact and reduce stress from blowing up the hole.
 
-If you have swing speed and power, it won't be a problem. But the club you choose will always make the difference.
+For players with high swing speed and power, it won't be a problem. But the club choice will always make the difference.
 
 #### Bunker
 
-The bunkers at Kurikoma Golf Club are the typical sand that you would expect. At no time were any of the bunkers rock solid. Each of the bunkers had anywhere from 3cm to 6cm of soft sand with compacted sand underneath. All of the bunkers were soft and fluffy around the green, making great recovery chances. Conversely, the bunkers were so soft it was hard to control out of the fairway bunkers, making the fairway bunkers a real penalty!
+The bunkers at Kurikoma Golf Club are the typical sand that is expected. At no time were any of the bunkers rock solid. Each of the bunkers had anywhere from 3cm to 6cm of soft sand with compacted sand underneath. All the bunkers were soft and fluffy around the green, making great recovery chances. Conversely, the bunkers were so soft it was hard to control out of the fairway bunkers, making the fairway bunkers a real penalty!
 
 #### Greens
 
@@ -105,7 +105,7 @@ The greens are what make Kurikoma Golf Club different from most places. The gree
 ![View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.](/assets/img/KurikomaGC-11.jpeg)
 *Photo: View from tee ground of Hole 2 of the South Course at Kurikoma Golf Club.*
 
-But where the greens are exceptional is in being fast **AND** receptive. Many courses have hard and fast greens that can feel infuriating sometimes. Kurikoma Golf Club really does make it feel accessible for amateurs to experience fast greens and also not have your ball land on the front of the green only to roll off the back. The shape of the greens is also very supportive to amateurs. With a two-tiered style, almost all of the greens with two tiers have the feel of a backstop. Another great addition for amateurs wanting to enjoy the game who may not have the best ball striking or strategy.
+But where the greens are exceptional is in being fast **AND** receptive. Many courses have hard and fast greens that can feel infuriating sometimes. Kurikoma Golf Club really does make it feel accessible for amateurs to experience fast greens and also not have their ball land on the front of the green only to roll off the back. The shape of the greens is also very supportive to amateurs. With a two-tiered style, most of the greens with two tiers have the feel of a backstop. Another great addition for amateurs wanting to enjoy the game who may not have the best ball striking or strategy.
 
 #### Marking
 
@@ -115,7 +115,7 @@ On each fairway, excluding par 3's, there is also a fairway marker indicating ya
 
 ### Lunch Break
 
-Typical play will have the mandatory lunch break as other clubs in Japan. With approximately 45 to 50 minutes, you will have ample time to complete your meal and also prepare anything you might need for your second 9 holes.
+Typical play will have the mandatory lunch break as other clubs in Japan. With approximately 45 to 50 minutes, groups will have ample time to complete their meal and also prepare anything they might need for next 9 holes.
 
 ![View of the clubhouse from the practice greens at Kurkikoma Golf Club.](/assets/img/KurikomaGC-4.jpeg)
 *Photo: View of the clubhouse from the practice greens at Kurkikoma Golf Club.*
@@ -124,13 +124,13 @@ The lunch menu is fairly set with a few main dishes and hors d'oeuvres. Although
 
 ### Post-Round
 
-After 18 holes are finished, return to the clubhouse. There, the staff will unload your cart and check for any lost items that they should be aware of. It's not uncommon for a wedge to be lost on a previous green. Ask the staff, and they will ask for contact information. After checking that you have all of your belongings, sign the sheet, and the staff will put your bag on the musical bag trolley.
+After 18 holes are finished, return to the clubhouse. There, the staff will unload the cart and check for any lost items that they should be aware of. It's not uncommon for a wedge to be lost on a previous green. Ask the staff, and they will ask for contact information. After checking for belongings and a full bag of clubs, sign the sheet, and the staff will put the bags on the musical bag trolley.
 
-From here, it is the cooling down experience of Japan. The ultimate way to wind down a day at the course is a stop at the onsen. Both the men's and women's locker rooms have a complimentary onsen that can be used at your leisure. It may be basic with showers and a large bath, but it is more than enough. Here you can take a shower and clean yourself of the sweat and dirt and then slowly relax in the giant bath.
+From here, it is the cooling down experience of Japan. The ultimate way to wind down a day at the course is a stop at the onsen. Both the men's and women's locker rooms have a complimentary onsen that can be used at leisure. It may be basic with showers and a large bath, but it is more than enough. Here golfers can take a shower and clean themselves of the sweat and dirt before slowly relaxing in the giant bath.
 
 ### Overall Experience
 
-Kurikoma Golf Club is not a place that you will forget easily. Its price for the service and golf experience you get is hard to match. With three routes to play, there are quite a few variations to change how you experience the course. Kurikoma Golf Club is really a great course that invites you back for more. The course might not seem challenging, but that doesn't mean that it isn't fun.
+Kurikoma Golf Club is not a place that will be forgotten easily. Its price for the service and golf experience is hard to match. With three routes to play, there are quite a few variations to change how the course is experienced. Kurikoma Golf Club is really a great course that invites golfers back for more. The course might not seem challenging, but that doesn't mean that it isn't fun.
 
 ![View from Hole 4 tee ground overlooking Hole 6 green at Kurikoma Golf Club.](/assets/img/KurikomaGC-2.jpeg)
 *Photo: View from Hole 4 tee ground overlooking Hole 6 green at Kurikoma Golf Club.*

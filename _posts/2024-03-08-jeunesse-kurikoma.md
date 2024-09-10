@@ -30,11 +30,11 @@ It's not so easy to get to Jeunesse Kurikoma, which lends to the small lift line
 
 The people who choose Jeunesse Kurikoma prefer the smaller ski areas with simple amenities. Rentals are available, but don't expect the latest gear. Ski school is available, but don't expect any English speakers. There is a restaurant for food, but don't expect something to die for (although the pizza is pretty good, albeit expensive).
 
-Jeunesse Kurikoma is a great place to avoid rushes. There are no traffic jams on the way, and there is always a spot to get your gear on in the lodge. Thankfully, they have recently expanded their bag storage area, so your bag always has a place too!
+Jeunesse Kurikoma is a great place to avoid rushes. There are no traffic jams on the way, and there is always a spot to get geared up in the lodge. Thankfully, they have recently expanded their bag storage area, so ski bags always have a place too!
 
 ### Endless Runs
 
-Jeunesse Kurikoma is a ski area that defines peace and the ability to ski at your pace. It doesn't boast the snow that Geto Kogen in Iwate does, so while many people skip Jeunesse Kurikoma for Geto Kogen powder, the powder they do get is stress-free and will be there all day for you. That's not to say that they don't get powder.
+Jeunesse Kurikoma is a ski area that defines peace and the ability to ski at your own pace. It doesn't boast the snow that Geto Kogen in Iwate does, so while many people skip Jeunesse Kurikoma for Geto Kogen powder, the powder they do get is stress-free and will be there all day. That's not to say that they don't get powder.
 
 ![Overlooking the rest of the mountain from the third pair lift](/assets/img/jeunesse-kurikoma-7.jpeg)
 *Photo: View from the third pair lift overlooking Jeunesse Kurikoma.*
@@ -53,7 +53,7 @@ Shuffling skiers and snowboarders up the mountain are three lifts. The first pai
 ![Looking up the quad](/assets/img/jeunesse-kurikoma-12.jpeg)
 *Photo: View from the main quad looking up the main slope.*
 
-Directly in front of the lodge is the super-quad lift to bring skiers up mid-mountain. This is a quick lift that provides the most access and the smoothest ride. It gives access to the front-facing slopes and also the powder field between the first pair lift and the quad. This is by far the most popular lift on any given day. The main slope has two trails that mirror each other with a consistent slope, broken up by two small plateaus that act as great stopping points for beginners and families. These plateaus, though, are great for jumps with the right speed! Be careful of who might be on the down-slope, as you may not be able to see the landing.
+Directly in front of the lodge is the super-quad lift to bring skiers up mid-mountain. This is a quick lift that provides the most access and the smoothest ride. It gives access to the front-facing slopes and also the powder field between the first pair lift and the quad. This is by far the most popular lift on any given day. The main slope has two trails that mirror each other with a consistent slope, broken up by two small plateaus that act as great stopping points for beginners and families. These plateaus, though, are great for jumps with the right speed! Be careful of who might be on the landing-slope, as the landing area is not always visible from the top.
 
 The final lift is the third pair lift from midway to the top. On powder days, this is one of the more popular lifts. Most of the trails linked to the lift are only groomed partly as entrances and exits, while the core of the trail is ungroomed. With some steeps, some entry-level powder, and a return course to the rest of the mountain, Jeunesse Kurikoma is really "go at your own pace." Skiing under the lift is also no problem. The ski patrol may rescind this if snow conditions make it hazardous below the lift, but in almost all situations, it is fine to ski under the lift.
 
@@ -69,18 +69,18 @@ Jeunesse Kurikoma is pretty far away from anything resembling a town or city. To
 
 But the Yamayuri Onsen at Hotel Blanc is the main place to stay. With an onsen overlooking the main slope, it is easy to see why it stands above all the others. It was also recently remodeled a few years back and is in great condition. Those who do stay have only had praise for Hotel Blanc.
 
-It will not be the most incredible service, but it will provide everything that you need without feeling that you are out of place. The rooms are simple and clean, and the dining area is shared with the general dining area of the ski slope. For the skiers who arrive early to the slope, you may share the dining area with those staying over. The dining area is clearly divided at this time, so the early skiers don't take any food from the breakfast for the hotel guests.
+It will not be the most incredible service, but it will provide everything that is needed without feeling out of place. The rooms are simple and clean, and the dining area is shared with the general dining area of the ski slope. For the skiers who arrive early to the slope, be prepared share the dining area with those staying over. The dining area is clearly divided at this time, so the early skiers don't take any food from the breakfast intended for the hotel guests.
 
 ### Access
 
-Unfortunately, no bus or train goes to Jeunesse Kurikoma. The recommendations from Jeunesse Kurikoma themselves are to get to the Jumonji Station (十文字駅) and take a taxi from there. The only other alternative is the main option for most people living in the area: by car. This is severely limiting to who can make it all the way there, but for those who do get there, you will be rewarded with what you were searching for... a nice place to ski.
+Unfortunately, no bus or train goes to Jeunesse Kurikoma. The recommendations from Jeunesse Kurikoma themselves are to get to the Jumonji Station (十文字駅) and take a taxi from there. The only other alternative is the main option for most people living in the area: by car. This is severely limiting to who can make it all the way there, but for those who do get there, they will be rewarded with what visitors to Japan are always searching for... a nice place to ski.
 
 ![Sitting on the side of the hill](/assets/img/jeunesse-kurikoma-10.jpeg)
 *Photo: View from the author's seat on the side of the hill.*
 
 ### Tucked In The Mountains
 
-It's no wonder that this is a place primarily for locals. With relatively simple amenities for a ski area, no easy public access, and not the craziest terrain, not many people look to Jeunesse Kurikoma as their weekend getaway. With these shortcomings, though, Jeunesse Kurikoma is a great little weekend day trip. Jeunesse Kurikoma can let you go at your own pace and do what you want to do. If that is what is most important to you, then you will most likely be in heaven when you arrive.
+It's no wonder that this is a place primarily for locals. With relatively simple amenities for a ski area, no easy public access, and not the craziest terrain, not many people look to Jeunesse Kurikoma as their weekend getaway. With these shortcomings, though, Jeunesse Kurikoma is a great little weekend day trip. Jeunesse Kurikoma can let you go at your own pace and do what you want to do. If that is what is most important, then Jeunesse Kurikoma will most likely feel like heaven.
 
 ![Lower panoramic view of Jeunesse Kurikoma](/assets/img/jeunesse-kurikoma-13.jpeg)
 *Photo: Panoramic view of Jeunesse Kurikoma.*

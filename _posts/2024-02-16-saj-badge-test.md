@@ -33,9 +33,9 @@ The levels start from 5 and continue to 1.
 | Level 2- 2級 | - Parallel long turns <br> - Parallel short turns <br> - Stem turn (natural terrain) |
 | Level 1 - 1級 | - Parallel long turns <br> - Parallel short turns <br> - General skiing (varied radii turns) <br> - Parallel short turns (uneven terrain, bumps/moguls) |
 
-From this stage, once you pass your 1st Level Exam (1級), you can branch out into two differing paths. One being the instructor route where you will work and study to become proficient in what to teach, how to teach, and build a love for skiing within students.
+From this stage, once skiers passed the 1st Level Exam (1級), they may branch out into two differing paths. One being the instructor route where skiers will work and study to become proficient in what to teach, how to teach, and build a love for skiing within students.
 
-Or you can continue down the demonstration skiing rabbit hole and go for the Technical Prize and the Crown Prize levels of skiing. The test is nearly identical to the 1st Level Exam (1級) but the points required to pass are much higher. Each event you are given a max of 100 points.
+Or skiers can continue down the demonstration skiing rabbit hole and go for the Technical Prize and the Crown Prize levels of skiing. The test is nearly identical to the 1st Level Exam (1級) but the points required to pass are much higher. For each event, examinees are given a max of 100 points.
 
 | Level | Requirements |
 | ----- | ----- |
@@ -49,7 +49,7 @@ Or you can continue down the demonstration skiing rabbit hole and go for the Tec
 
 #### Day 1 - Lesson (Required)
 
-The day starts by checking in to the ski school. The examiners will verify your identity, check current badge (2nd Level), and receive payment for today's lesson about the test for tomorrow. This is a mandatory lesson required for the 1st Level Exam. Anything prior did not need a lesson. From here, examinees gather at the bottom of the lift, break up into groups, and go to the top of the mountain to see where we would go and what we would do.
+The day starts by checking in to the ski school. The examiners will verify the examinees identity, check current badge (2nd Level), and receive payment for today's lesson about the test for tomorrow. This is a mandatory lesson required for the 1st Level Exam. Anything prior did not need a lesson. From here, examinees gather at the bottom of the lift, break up into groups, and go to the top of the mountain to see where we would go and what we would do.
 
 Upon arriving at the top, examinees were herded down to the starting point for the long turns and general skiing course, each of the participants going down one by one for direct advice from one of the instructors. Following this, the group moved further down to a steep part which consisted of the short turns. Here too examinees went down one by one getting advice on what is expected and how we can improve. Followed by the moguls a little further down the mountain. The moguls seemed a bane to most examinees as instead of the slightly smaller bumps in the example videos from SAJ, the moguls were deep, icy, and roughed up.
 
@@ -74,7 +74,7 @@ Let the test begin...
 
 One by one, examinees went down the flagged course with a start and finish banner. All the while being judged by three ski school instructors. To keep everyone's spirits bright, the starter official started some banter that slowly spread throughout the top groups. By the end of it, everyone was cheering on each other at the start and congratulating each other as they finished.
 
-Once all of the stages were completed, a debrief is given at the bottom of the last stage. Comments from the examiners for those that maybe didn't pass are given first. These are some advice and tips when looking to pass the exam the next time. The most common advice is to get forward regardless of the situation and be more dynamic between turns. These are common problems throughout the world of skiing and are not special to any single group of skier.
+Once all the stages were completed, a debrief is given at the bottom of the last stage. Comments from the examiners for those that maybe didn't pass are given first. These are some advice and tips when looking to pass the exam the next time. The most common advice is to get forward regardless of the situation and be more dynamic between turns. These are common problems throughout the world of skiing and are not special to any single group of skier.
 
 The exams end around 12:30 for the regular levels and the results would be posted around 2:30 in front of the ski school. At Amihari Onsen Ski Resort, the pass percentage is typically lower than other areas due to the strict nature of the ski school. Everyone had a feeling that other participants would not pass the exam, but we were not imagining that even some former racers with good results during high school would struggle and fail the exam. I feel glad to have been one of two to pass even though I was so nonchalant in front of obviously nervous examinees.
 

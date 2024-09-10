@@ -26,7 +26,7 @@ Okunakayama is quite northerly within Iwate Prefecture. While this limits custom
 ![Sign displaying the menu at the Okunakayama Kogen food court](/assets/img/okunakayama-8.jpeg)
 *Photo: A large sign displaying the numbers, names, and prices of the food available at the food court within Okunakayama Kogen.*
 
-Many times, the passes sold to those outside the prefecture are often families from the military base that the United States of America operates in Misawa, Aomori Prefecture. They come to Okunakayama on weekends as though it were just like home. English signage has increased within the ski area, and the staff can also do their jobs in English. On top of that, there is also a military discount, which acts as a great introduction for those looking to step their feet into snow sports for the first time. Tell the staff that you are affiliated with the military, and they will ask for identification. Once confirmed, you will get the discount.
+Many times, the passes sold to those outside the prefecture are often families from the military base that the United States of America operates in Misawa, Aomori Prefecture. They come to Okunakayama on weekends as though it were just like home. English signage has increased within the ski area, and the staff can also do their jobs in English. On top of that, there is also a military discount, which acts as a great introduction for those looking to step their feet into snow sports for the first time. Tell the staff of any affiliation with the military, and they will ask for identification. Once confirmed, discounts will be applied.
 
 ### Upper and Lower
 
@@ -35,7 +35,7 @@ The mountain is clearly divided into two parts and very distinctly. The upper po
 ![Course map of Okunakayama Kogen](/assets/img/okunakayama-14.jpeg)
 *Photo: Course map of Okunakayama Kogen*
 
-The upper is clearly defined by the forward-facing slope. This is Hayabusa, the first slope you will see on the mountain, and it feels like two basketballs stacked on top of one another. With only half of the trail packed down, the rest is left up to the powder gods. It can feel extremely tight if you are a piste-only skier, but the canvas really gets bigger with a step into powder. This also leads into the bowl section midway through with Tsubame, which leads back down to the Fourth Lift.
+The upper is clearly defined by the forward-facing slope. This is Hayabusa, the first slope can be seen from far away, and it feels like two basketballs stacked on top of one another. With only half of the trail packed down, the rest is left up to the powder gods. It can feel extremely tight for piste-only skiers, but the canvas really gets bigger with a step into powder. This also leads into the bowl section midway through with Tsubame, which leads back down to the Fourth Lift.
 
 On the other side, the Bunano no Ki leads into the top of the Sixth Lift, which is the top of the race course, Konayuki. This is fairly intermediate with nice rollers and a few changes that are enough to get jumps with some speed. Bunano no Ki also leads to Yamabito, which starts at the top of the Third Lift. It's a fairly narrow start, but from the pitch change, it opens up a lot, leading back to the lower section. Midway on the Yamabito section, there are also two separate slopes to choose from. The Yamabato trail is largely ungroomed but has great tree access under the Sixth Lift. The other side is the Shirakaba trail, which is quite narrow but really fun to cut some short turns in front of the lifts as an audience.
 
@@ -48,7 +48,7 @@ Any look into the ski film industry in Japan often features tree runs at the for
 ![Photo of the accessible tree lines at Okunakayama Kogen](/assets/img/okunakayama-4.jpeg)
 *Photo: Okunakayama Kogen has some of the best entry zones into tree line skiing.*
 
-Nearly five years ago, Okunakayama took the tree runs they already had and cut many of the trees within the run, making it much easier to maneuver skis and introducing others to powder skiing as a natural progression from the open slopes to slightly more narrow tree runs. Not only did they expand those runs, but they also made the mountain almost entirely tree-run accessible, with the exception of one spot leading to a river that doesn't have a proper exit. These spots are clearly marked with red tape. You may ski on the other side of the red tape, but be aware you may have to hike. Anywhere you go, there will be tracks leading into the forest and exiting down below.
+Nearly five years ago, Okunakayama took the tree runs they already had and cut many of the trees within the run, making it much easier to maneuver skis and introducing others to powder skiing as a natural progression from the open slopes to slightly more narrow tree runs. Not only did they expand those runs, but they also made the mountain almost entirely tree-run accessible, except one spot leading to a river that doesn't have a proper exit. These spots are clearly marked with red tape. It's possible on the other side of the red tape, but be aware of taking your own rusk. Anywhere on the mountain facing the lodge, there will be tracks leading into the forest and exiting down below at a return trail.
 
 For many ski resorts, this would be unheard of because of the risks and insurance involved. But for Okunakayama, this was one of the major selling points. Powder is not put behind a paywall at Okunakayama Kogen. If you can find it, you can ski it.
 
@@ -66,7 +66,7 @@ Dotting around the mountains are some great spots to visit. Even day travelers c
 
 Right next to the ice cream place is a nice onsen. Like most onsens that have been around a while, it isn't the prettiest onsen, but it has a great atmosphere. A popular spot that follows a day on the hill and also a popular spot for locals with a view overlooking part of the valley. The winter time is beautiful, but summer and fall are just as beautiful.
 
-Bring your ticket and show it to the staff when entering to get a 100円 discount!
+Bring the lift ticket and show it to the staff when entering to get a 100円 discount!
 
 ##### Yuki Akari - 雪あかり
 

@@ -45,12 +45,12 @@ Tazawako is always a place that is buzzing because, in years past, they have als
 
 ### On The Hill
 
-Tazawako Ski Resort starts with three lifts right from the bottom. A lift to bring you to the start of the moguls that will also bring you to the second lodge quickly, a slow double chair that is geared towards beginners, and a super quad to bring you mid-way up the mountain. Presenting you with the choices that you want right out of the gate is good.
+Tazawako Ski Resort starts with three lifts right from the bottom. A lift to bring skiers to the start of the moguls that will also bring them to the second lodge quickly, a slow double chair that is geared towards beginners, and a super quad to bring skiers mid-way up the mountain. Presenting skiers with multiple choices right out of the gate is good.
 
 ![Artsy map closeup](/assets/img/tazawako-10.jpeg)
 *Photo: Artsy closeup of the trail map.*
 
-From the mid-way of the mountain, there is access to quite a bit of skiing already and some nice views overlooking Lake Tazawa. From there, one more lift goes up and you reach the top of the ski area. Looking down on the national course that was used a few times for the national ski races, it overlooks the lake and also the surrounding mountains in a spectacular view.
+From mid-way up the mountain, there is access to quite a bit of skiing already and some nice views overlooking Lake Tazawa. From there, one more lift goes up to reach the top of the ski area. Looking down on the national course that was used a few times for the national ski races, it overlooks the lake and also the surrounding mountains in a spectacular view.
 
 From there, any sort of back-country skiers can go up further without restrictions. But for the majority of the skiers, the front side of the mountain is probably where most people will ski. And Tazawako brings quite a few different places to have fun.
 
@@ -64,16 +64,16 @@ Coming down to the mid-mountain area it branches out into all sorts of trails bu
 ![Super-Quad featuring almost all blue level trails](/assets/img/tazawako-1.jpeg)
 *Photo: Super-quad to easily accessible terrain for all skill levels.*
 
-On the skier's right is a second super-quad that is great for mindless skiing because it's just the right slope for endless carving without overspeeding. From that second super-quad is also a ski-cross course that is open to the public. It is great fun to take a few friends and hash it out to see who is the best. There is also a tournament held every year for the ski-cross event.
+On the skier's right is a second super-quad that is great for mindless skiing because it's just the right slope for endless carving without over speeding. From that second super-quad is also a ski-cross course that is open to the public. It is great fun to take a few friends and hash it out to see who is the best. There is also a tournament held every year for the ski-cross event.
 
 ### Lodge Feels
 
-The lodge feels a little bit strange compared to other places. Upon entering, you have to go up another staircase and exit a door there onto a plankway that leads to the ski racks. It feels just a little bit too cramped in the morning and skis are bumping the wall and people are going every which way. Not to mention, the rental area is right by the door so everybody renting is lined up in the same area.
+The lodge feels a little strange compared to other places. Upon entering, skiers have to go up another staircase and exit a door there onto a plank way that leads to the ski racks. It feels just a little too cramped in the morning and skis are bumping the wall and people are going every which way. Not to mention, the rental area is right by the door so everybody renting is lined up in the same area.
 
 ![Main hall of the lodge within Tazawako Ski Resort](/assets/img/tazawako-6.jpeg)
 *Photo: Main hall within the Tazawako Ski Resort Lodge.*
 
-Getting to the second floor you can buy your ticket there. If you know what ticket you want it's really quick and they still use a paper-style ticket. From there it opens to the main room/dining hall. With the large windows, it is certainly very bright and has a great atmosphere. Many people will just leave their bags unattended on the side counters as there are no lockers that I could find.
+Getting to the second floor, skiers can buy their ticket there. It's really quick, and they still use a paper-style ticket. From there it opens to the main room/dining hall. With the large windows, it is certainly very bright and has a great atmosphere. Many people will just leave their bags unattended on the side counters as there are no lockers that I could find. There may be lockers in the lower levels of the ski lodge.
 
 Within the lodge, the types of food to choose from are pretty small. Outside of the regular ramen, udon, soba, and curry I couldn't find too much. For more appetizer-type foods there was the "Fast Food Court" that had things like french fries and fried chicken.
 
@@ -84,7 +84,7 @@ Within the lodge, the types of food to choose from are pretty small. Outside of 
 
 Of course, it is accessible by car. Coming from Morioka in the morning, it took me just over 1 hour to get there with stops on the way for breakfast and to go use the bathroom.
 
-For those taking the train, take the JR lines to get to JR Tazawako Station. From there it is a 30-minute bus ride bound for Kogen (Plateau) Onsen/Nyuto Onsen. Be sure to get off at Tazawako Ski-jo Mae and you will be at the feet of the resort. This bus runs almost hourly.
+For those taking the train, take the JR lines to get to JR Tazawako Station. From there it is a 30-minute bus ride bound for Kogen (Plateau) Onsen/Nyuto Onsen. Be sure to get off at Tazawako Ski-jo Mae and the bus will be at the feet of the resort. This bus runs almost hourly.
 
 ![Front of Tazawako Ski Resort lodge](/assets/img/tazawako-8.jpeg)
 *Photo: Front of the lodge at Tazawako Ski Resort.*
