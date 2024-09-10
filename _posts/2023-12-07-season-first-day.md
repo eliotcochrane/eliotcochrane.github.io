@@ -14,21 +14,22 @@ image: geto-morning.jpeg
 
 Ski areas across Japan are starting to open regardless of the El Niño climate pattern projected for the season. With ski openings comes the annual first day back on the slopes. These first few days back on the slopes are the most dangerous for even the most seasoned skiers. It makes sense that even at the World Cup level, they too take their first days slow with basic drills to get their bodies ready for skiing. We should take a page out of their books.
 
-These first few days are a chance to get our bodies feeling ready to take on the season and slowly increase the load on your body. After a long break, our body needs to re-adapt to the specific movements that skiing puts on our bodies as well as our muscles. An overexertion from the first day can be detrimental to the season and see skiing take a step back in terms of quality.
+These first few days are a chance to get our bodies feeling ready to take on the season and slowly increase the load on the body. After a long break, our body needs to re-adapt to the specific movements that skiing puts on our bodies as well as our muscles. An overexertion from the first day can be detrimental to the season and see skiing take a step back in terms of quality.
 
-Let's take a look at **five** ways that we can stop yourself from getting injured and also prepare your body for the best days of skiing that are yet to come.
+Let's take a look at **five** ways that we can stop from getting injured and also prepare the body for the best days of skiing that are yet to come.
 
 ***
 
-### Stretch
+#### Stretch
 
-No matter what you are doing in sports, no matter what level of sport, stretching is the most important thing that you can do both before and after participating in sports. It's no wonder that we instill into our children that stretching is important even during periods when they are their most flexible. It doesn't matter what sport you are participating in, stretching has always been a large part of the warm-up for performance and safety.
+No matter what sport, no matter what level of sport, stretching is the most important thing that can be done both before and after participating in sports. It's no wonder that we instill into our children that stretching is important even during periods when they are their most flexible. Irrelevant of the sport, stretching has always been a large part of the warm-up for performance and safety.
 
-Before stretching, be sure to get the blood flowing that way the stretches can be effective. After a light warm-up of jogging or walking, or even walking in your ski gear to the lift (which can feel like a workout by itself sometimes), feel free to begin stretching.
+Before stretching, be sure to get the blood flowing that way the stretches can be effective. After a light warm-up of jogging or walking, or even walking in ski gear to the lift (which can feel like a workout by itself sometimes), feel free to begin stretching.
 
-### Figure Eight Skating
+### On Hill Exercises
+#### Figure Eight Skating
 
-Skating promotes a lot of fundamental skills through edging skills, balance, feeling of ski to ski, and just general fitness because skating can be tiring! Try using the figure eight skating drill to get your body warmed up, loose, and return some of the feelings before getting on the lift.
+Skating promotes a lot of fundamental skills through edging skills, balance, feeling of ski to ski, and just general fitness because skating can be tiring! Try using the figure eight skating drill to get the body warmed up, loose, and return some feelings before getting on the lift.
 
 **Description**
 On flat ground, the skier performs large figure eight designs, on a variety of terrains, using skating and poling action of legs and arms. The skier should perform movements forward and balanced over the outside ski.
@@ -50,7 +51,7 @@ Encourage the skier to coordinate the movement of the arms and the legs.
 ![Figure Eight Skating Diagram](/assets/img/drills/figure-eight-skating.jpeg)
 *Photo: Diagram of Figure Eight Skating drill.*
 
-### Side Slip to Edge Set
+#### Side Slip to Edge Set
 
 Edge control through releasing and setting the edges is paramount to efficient skiing. Edge control is necessary for speed control as well as control over varied terrain and conditions.
 
@@ -75,9 +76,9 @@ Ensure the skier keeps hands and arms balanced in front and down the hill.
 ![Side Slip Diagram](/assets/img/drills/side-slip.jpeg)
 *Photo: Diagram of Side Slip to Edge Set drill.*
 
-### Norwegian Pole Plant
+#### Norwegian Pole Plant
 
-Pole planting is a great tool for timing and resetting your weight in the transition of the turn. Using this to help steer your skis and control your skis, the Norwegian pole plant is a great drill to also feel the pinch at the waist to get over the outside ski.
+Pole planting is a great tool for timing and resetting weight in the transition of the turn. Using this to help steer or rotate the skis and control the skis, the Norwegian pole plant is a great drill to also feel the pinch at the waist to get over the outside ski.
 
 **Description**
 In fall line turns, both poles are planted on the outside of the turn, utilizing both arms, shoulders, and hips facing down the fall line. Both poles should hit at the same time at a distance from the body that will help facilitate a "pinch" over the outside ski.
@@ -97,9 +98,9 @@ Ensure that the skier reaches with both arms to set the pole plant down the hill
 ![Norwegian Pole Plant Diagram](/assets/img/drills/norwegian-pole-plant.jpeg)
 *Photo: Diagram of Norwegian Pole Plant drill.*
 
-### Outside Ski Only
+#### Outside Ski Only
 
-Putting the majority of the pressure on the outside ski is fundamental to powerful, coordinated, and controlled turns. It may feel counter-intuitive at first, but the outside ski-only mentality can bring your level of skiing to the next level with this simple drill.
+Putting the majority of the pressure on the outside ski is fundamental to powerful, coordinated, and controlled turns. It may feel counter-intuitive at first, but the outside ski-only mentality can bring many skiers level of skiing to the next level with this simple drill.
 
 **Description**
 The skier performs the task by lifting the inside ski off of the snow at the initiation of the turn and throughout the completion of the turn; performing the entire turn balanced on the outside ski.
@@ -124,9 +125,9 @@ Ensure the skier keeps the inside ski completely off the snow throughout the ent
 
 ***
 
-More important than any of these exercises is **your safety**. If any of these exercises feel too difficult for you, feel free to slow down and practice even more basic turns such as the stem turn. We all have different levels in skiing and all have different goals as well. There is no need to practice something too difficult.
+More important than any of these exercises is **SAFETY**. If any of these exercises are too difficult, feel free to slow down and practice even more basic turns such as the stem turn. We all have different levels in skiing and all have different goals as well. There is no need to practice something too difficult. The progress to learning is taking it in small achievable goals.
 
-In the same line as golf, the best course of action is also to get a coach or professional to help you assess your skiing and pinpoint what you need to work on. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has its own instructor organizations. Check the certifications of instructors of where you are or planning to go and check what instructors are available.
+In the same line as golf, the best course of action is also to get a coach or professional to help assess your skiing and pinpoint what is needed to improve. We all have different strengths and weaknesses that can be addressed by seeing a professional instructor or coach. Each country has its own instructor organizations. Check the certifications of instructors of your local area or the place(s) planned to visit in the future.
 
 Most importantly, have fun and stay safe. Proper stretching both **before** and **after** can be a key to a long season. So don't let the time go to waste!
 

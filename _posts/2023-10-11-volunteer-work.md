@@ -12,11 +12,11 @@ image: 2023-yuda-halfcut2.jpeg
 
 ***
 
-The leaves are changing color and the nights are getting colder. The covers are starting to come out as the AC's are no longer needed and the covers for the bushes around the house are brought out to be checked and mended before being placed out for the season. It's fall and that means we are all getting ready for the winter season to begin.
+The leaves are changing color and the nights are getting colder. The covers are starting to come out as the AC's are no longer needed and the covers for the bushes around the house are brought out to be checked and mended before being placed out for the season. It's fall and that means we are all getting ready for winter to begin.
 
-Typically at the bigger ski resorts, the trail maintenance work is done by a contractor that might have a brush hog that can prep the trail before the snow falls. In addition to this, all of the winter preparation for hiring ski instructors, ski patrol, and general staff are all under the watchful eye of HR. Contrasted against a smaller ski area, these bigger areas have much more to offer in terms of experiences and services but all of those come with a cost. Whether it be labor and/or money, that balance of customer experience also comes with costs handed to the consumer.
+Typically, at the bigger ski resorts, the trail maintenance work is done by a contractor that might have a brush hog that can prep the trail before the snow falls. In addition to this, all the winter preparation for hiring ski instructors, ski patrol, and general staff are all under the watchful eye of HR. Contrasted against a smaller ski area, these bigger areas have much more to offer in terms of experiences and services but all of those come with a cost. Whether it be labor and/or money, that balance of customer experience also comes with costs handed to the consumer.
 
-Preparing a small ski area for the season in Japan is a labor of love that involves careful planning and attention to detail. Beyond the snowfall and picturesque landscapes, there are essential steps and considerations, including recruiting volunteers, inspecting lifts, and ensuring proper insurance coverage, that can often be overlooked. Let's look into the crucial aspects that allow you to ski every season.
+Preparing a small ski area for the season in Japan is a labor of love that involves careful planning and attention to detail. Beyond the snowfall and picturesque landscapes, there are essential steps and considerations, including recruiting volunteers, inspecting lifts, and ensuring proper insurance coverage, that can often be overlooked. Let's look into the crucial aspects that allow us to ski every season.
 
 ![Wide shot view during trail maintenance](/assets/img/yuda-cutting-2.jpeg)
 *Photo: Wide shot view during trail maintenance.*
@@ -47,11 +47,11 @@ Like many small local skiing destinations all over the world, one of the unique 
 
 Some of these areas may entirely be run by volunteers. Not just the maintenance of the facility but also the financial operations and staffing is often done by local residents. In exchange for their services many volunteers get perks such as their kids ski for free. So it isn't just giving back all the time. There are benefits for volunteering too!
 
-Their efforts not only reduce operational costs but also create a strong bond within the community. Japanese culture is reliant on communities and the ski community is one of the most welcoming in Japan. No matter the level, no matter the intensity, if you love skiing you will always be welcome.
+Their efforts not only reduce operational costs but also create a strong bond within the community. Japanese culture is reliant on communities and the ski community is one of the most welcoming in Japan. No matter the level, no matter the intensity, anyone who loves skiing will always be welcome.
 
 ![Result of ski area cut by hand](/assets/img/yuda-cutting-3.jpg)
 *Photo: Result of ski area cut by hand.*
 
 ***
 
-Preparing a ski area for opening in winter isn't an easy task. Many ski clubs are small but enthusiastic and prepare for the slope for everyone in the community to enjoy. Inspecting facilities, maintaining lifts, and cutting trails are done so the skiers can enjoy their time on the slopes. Hopefully these will leave a lasting impression for the next generation of skiers to take up the sport with as much passion.
+Preparing a ski area for opening in winter isn't an easy task. Many ski clubs are small but enthusiastic and prepare for the slope for everyone in the community to enjoy. Inspecting facilities, maintaining lifts, and cutting trails are done, so the skiers can enjoy their time on the slopes. Hopefully these will leave a lasting impression for the next generation of skiers to take up the sport with as much passion.

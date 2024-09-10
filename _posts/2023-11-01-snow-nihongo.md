@@ -25,7 +25,7 @@ Japan can be enjoyed just as much as anyone else even with limited English and g
 
 ### Greetings
 
-Like any country, a solid greeting is a good way to make friends. Here we will cover the basic greetings and self-introductions as well as generic answers to questions you might encounter.
+Like any country, a solid greeting is a good way to make friends. Here we will cover the basic greetings and self-introductions as well as generic answers to common questions.
 
 | English | Romanization | Japanese |
 | :-----: | :----------: | :------: |
@@ -52,7 +52,7 @@ Like any country, a solid greeting is a good way to make friends. Here we will c
 
 ### Getting Around
 
-Most of the time there will be a readily accessible map or Google Translate is just a tap away. But many ski areas are also out of cell range, so having a few basic phrases to get where you want to go is helpful too.
+Most of the time there will be a readily accessible map or Google Translate is just a tap away. But many ski areas are also out of cell range, so having a few basic phrases to get around is helpful too.
 
 | English | Romanization | Japanese |
 | :-----: | :----------: | :------: |
@@ -137,7 +137,7 @@ But just like how the Japanese are friendly and kind, we should do the same for 
 
 As someone who has lived in Japan for 10 years now, I've seen a lot of people come and go. Even just staying for 1 year is enough for some and that's okay. But many of them leave for one reason: lack of friends.
 
-This always hurts me because the Japanese people are so welcoming, but the times that you feel like a native will be nearly non-existent. You always get treated a little differently. Some days it's a real help, and other days it is a real struggle. But when it comes down to it, making friends is the best thing you can do for yourself mentally and physically too.
+This always hurts me because the Japanese people are so welcoming, but the times that you feel like a native will be nearly non-existent. Always getting treated a little differently can feel awkward. Some days it's a real help, and other days it is a real struggle. But when it comes down to it, making friends is the best thing to do for yourself mentally and physically too.
 
 Making friends is what life is all about and not having perfect Japanese is not going to stop it. Get after it!
 

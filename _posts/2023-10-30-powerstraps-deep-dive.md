@@ -18,7 +18,7 @@ The power strap is an unassuming part of the ski boot but can contribute to tran
 
 ### Importance
 
-Precision and control are the ingredients necessary for the days best skiing and the strap plays a role in this symphony of a sport. The strap keeps the foot in the optimal position, allowing for the proper movements of the foot within the ski boot. Whether it's carving down iced-up slopes or navigating endless powder fields, the power strap ensures that your movements are transmitted to the ski with finesse. 
+Precision and control are the ingredients necessary for the days best skiing and the strap plays a role in this symphony of a sport. The strap keeps the foot in the optimal position, allowing for the proper movements of the foot within the ski boot. Whether it's carving down iced-up slopes or navigating endless powder fields, the power strap ensures that movements are transmitted to the ski with finesse. 
 
 ![Well used 2021 HEAD Raptor WCR 4 ski boots.](/assets/img/head-boots-buckles.jpeg)
 *Photo: Well used 2021 HEAD Raptor WCR 4 ski boots.*
@@ -29,7 +29,7 @@ Over the past 10 or so years, power straps have been getting the attention they 
 
 The power strap sets itself apart by being able to adapt to the skiers' unique needs. In today's market, there are different types of power straps, each with its own unique shape, features, and construction. Each of these models is geared towards a particular skier and the needs that they need filled. This allows for fine-tuning to be done to the boot by boot-fitters around the world, whether a preference toward a snug race-like boot setup or a relaxed fit for leisurely blue-bird days, power straps allow a fine tune fit.
 
-The fit is important to any piece of gear, but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keeps your foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
+The fit is important to any piece of gear, but a power strap can help reduce overall movement in the feet to feel comfortable all the way to the last run. By eliminating pressure points and unnecessary movement, the power strap keeps the foot where it needs to be throughout the turn to help provide the best feedback from the skis and the boots.
 
 ### Types
 
@@ -60,7 +60,7 @@ These have been the go-to power strap for anyone looking for aftermarket power s
 ![Expert/Racer Booster Straps showing cam-style buckle](/assets/img/booster-power-strap.jpeg)
 *Photo: Expert/Racer Booster Straps showing cam-style buckle*
 
-Booster straps combine their elasticity with the simplicity of a cam-style buckle that lets you cinch and tighten better than most available static straps. But not overdoing it is part of the battle too. Booster Straps are not foolproof and still need to be appropriately tightened but not overly tight.
+Booster straps combine their elasticity with the simplicity of a cam-style buckle that lets skiers cinch and tighten better than most available static straps. But not overdoing it is part of the battle too. Booster Straps are not foolproof and still need to be appropriately tightened but not overly tight.
 
 #### Manufacturer Options
 
@@ -78,4 +78,4 @@ The underdog part of any boot setup, the power strap, stands as a quiet hero on 
 
 At the end of the day, what equipment a skier chooses and how they maintain it is up to them. The choice of an aftermarket power strap falls into the spectrum of how much elasticity or shock absorption is desired. The Booster Strap and Atomic Professional Dual Strap may be similar in elasticity, but the Atomic can provide an option to velcro the static half for a more direct connection. Yet a static strap with a cam-style buckle like the offerings on high-end race boots are a great choice for those who like a solid and sturdy connection. 
 
-But the most important thing when skiing is to ensure that every moment skiing is a memorable one. Don't let an indecision about equipment ruin your experience. But on the flip side, be sure to choose the right type of strap for the requirements the boot will need to match.
+But the most important thing when skiing is to ensure that every moment skiing is a memorable one. Don't let an indecision about equipment ruin your skiing experience. But on the flip side, be sure to choose the right type of strap for the requirements the boot will need to match.
