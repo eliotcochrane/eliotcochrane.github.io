@@ -53,19 +53,19 @@ Since Kurikoma Golf Club has three courses with 9 holes each, there are also 3 d
 
 **Back Tee**
 
-| Course Routing  | Distance (yds) | Course Rating | Par |
+| <center>Course Routing</center>  | <center>Distance (yds)</center> | <center>Course Rating</center> | <center>Par</center> |
 |-----------------|----------------|---------------|-----|
-| East → South    | 6943           | 80.1          | 72  |
-| South → West    | 6845           | 79.6          | 72  |
-| West → East     | 6928           | 79.5          | 72  |
+| <center>East → South</center>    | <center>6943</center>           | <center>80.1</center>          | <center>72</center>  |
+| <center>South → West</center>    | <center>6845</center>           | <center>79.6</center>          | <center>72</center>  |
+| <center>West → East</center>     | <center>6928</center>           | <center>79.5</center>          | <center>72</center>  |
 
 **Regular Tee**
 
-| Course Routing  | Distance (yds) | Course Rating | Par |
+| <center>Course Routing</center>  | <center>Distance (yds)</center> | <center>Course Rating</center> | <center>Par</center> |
 |-----------------|----------------|---------------|-----|
-| East → South    | 6300           | 76.5          | 72  |
-| South → West    | 6228           | 76.1          | 72  |
-| West → East     | 6300           | 76.0          | 72  |
+| <center>East → South</center>    | <center>6300</center>           | <center>76.5</center>          | <center>72</center>  |
+| <center>South → West</center>    | <center>6228</center>           | <center>76.1</center>          | <center>72</center>  |
+| <center>West → East</center>     | <center>6300</center>           | <center>76.0</center>          | <center>72</center>  |
 
 ![Course layout at Kurikoma Golf Club.](/assets/img/KurikomaGC-13.jpeg)
 *Photo: Chart displaying the course layout at Kurikoma Golf Club.*
